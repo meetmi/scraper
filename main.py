@@ -1,85 +1,64 @@
-import time
+import os
 import csv
+import sys
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
 
-# 1. Setup Chrome
-chrome_options = Options()
-chrome_options.add_argument("--start-maximized")
-chrome_options.add_argument("--disable-blink-features=AutomationControlled")
-user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
-chrome_options.add_argument(f'user-agent={user_agent}')
+# 1. IMPORT ALL SITE MODULES
+import we_buy_cars
+import ads_africa  # Added this import
 
-driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
+# --- CONFIG ---
+# Switch between "WBC" or "ADS_AFRICA" here
+TARGET_SITE = "ADS_AFRICA"
 
-try:
-    print("🚗 Navigating to WeBuyCars...")
-    driver.get("https://www.webuycars.co.za/buy-a-car")
 
-    # Inject session cookie for stability
-    driver.add_cookie({"name": "webuycarssessionID", "value": "5ac3ac85-409a-45b7-ac4e-6387cabf1610"})
-
-    # 2. Trigger Lazy Loading
-    print("🖱️ Scrolling to load dynamic content...")
-    for _ in range(4):
-        driver.execute_script("window.scrollBy(0, 1000);")
-        time.sleep(2)
-
-    # 3. Targeted Extraction
-    cards = driver.find_elements(By.CLASS_NAME, "grid-card")
-    scraped_data = []
-
-    print(f"📦 Found {len(cards)} cars. Extracting details...")
-
-    for card in cards:
-        try:
-            # --- Extract Navigation URL ---
-            # We look for the <a> tag that wraps the image or card
-            try:
-                # This finds the closest link element to navigate to the car page
-                nav_link = card.find_element(By.XPATH, "./ancestor::a | .//a").get_attribute("href")
-            except:
-                nav_link = "N/A"
-
-            # --- Extract Text Data ---
-            title = card.find_element(By.CLASS_NAME, "description").text
-            price = card.find_element(By.CLASS_NAME, "price-text").text
-
-            # --- Extract ALL Image URLs from the Swiper ---
-            # Using the class from your HTML snippet: wbc-swiper-img
-            images = card.find_elements(By.CLASS_NAME, "wbc-swiper-img")
-            img_urls = []
-            for img in images:
-                src = img.get_attribute("src")
-                if src:
-                    img_urls.append(src)
-
-            # Combine image URLs into one string separated by |
-            images_formatted = " | ".join(img_urls)
-
-            print(f"✅ Scraped: {title}")
-
-            scraped_data.append({
-                "Title": title,
-                "Price": price,
-                "Navigation_URL": nav_link,
-                "Image_URLs": images_formatted
-            })
-
-        except Exception as e:
-            continue
-
-    # 4. Save Results to CSV
-    keys = ["Title", "Price", "Navigation_URL", "Image_URLs"]
-    with open('../Documents/pythonProject/webuycars_final.csv', 'w', newline='', encoding='utf-8') as f:
+def save_to_csv(data, filename):
+    if not data:
+        print("⚠️ No data found to save.")
+        return
+    current_folder = os.path.dirname(os.path.abspath(__file__))
+    full_path = os.path.join(current_folder, filename)
+    keys = data[0].keys()
+    with open(full_path, 'w', newline='', encoding='utf-8') as f:
         dict_writer = csv.DictWriter(f, fieldnames=keys)
         dict_writer.writeheader()
-        dict_writer.writerows(scraped_data)
+        dict_writer.writerows(data)
+    print(f"✅ Saved to: {full_path}")
 
-    print(f"\n🚀 SUCCESS! {len(scraped_data)} cars saved to 'webuycars_final.csv'")
+
+# --- NEW STABLE SETUP ---
+options = Options()
+options.add_argument("--start-maximized")
+options.add_argument("--disable-blink-features=AutomationControlled")
+options.add_argument("--no-sandbox")
+options.add_argument("--disable-dev-shm-usage")
+
+print(f"🚀 Launching Browser for {TARGET_SITE}...")
+try:
+    driver = webdriver.Chrome(options=options)
+except Exception as e:
+    print(f"❌ Launch Error: {e}")
+    sys.exit()
+
+# --- MAIN EXECUTION BLOCK ---
+try:
+    if TARGET_SITE == "WBC":
+        print("🔍 Mode: WeBuyCars")
+        results = we_buy_cars.scrape_wbc(driver)
+        save_to_csv(results, "webuycars_final.csv")
+
+    elif TARGET_SITE == "ADS_AFRICA":  # Fixed indentation here
+        print("🔍 Mode: Ads Africa")
+        results = ads_africa.scrape_ads_africa(driver)
+        save_to_csv(results, "ads_africa_results.csv")
+
+    else:
+        print("❓ Unknown site selected in CONFIG.")
+
+except Exception as e:
+    print(f"💥 An error occurred during scraping: {e}")
 
 finally:
+    print("🧹 Closing browser...")
     driver.quit()
