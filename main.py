@@ -6,11 +6,10 @@ from selenium.webdriver.chrome.options import Options
 
 # 1. IMPORT ALL SITE MODULES
 import we_buy_cars
-import ads_africa  # Added this import
 
 # --- CONFIG ---
 # Switch between "WBC" or "ADS_AFRICA" here
-TARGET_SITE = "ADS_AFRICA"
+TARGET_SITE = "WBC"
 
 
 def save_to_csv(data, filename):
@@ -48,10 +47,7 @@ try:
         results = we_buy_cars.scrape_wbc(driver)
         save_to_csv(results, "webuycars_final.csv")
 
-    elif TARGET_SITE == "ADS_AFRICA":  # Fixed indentation here
-        print("🔍 Mode: Ads Africa")
-        results = ads_africa.scrape_ads_africa(driver)
-        save_to_csv(results, "ads_africa_results.csv")
+
 
     else:
         print("❓ Unknown site selected in CONFIG.")
