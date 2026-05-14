@@ -1,0 +1,104 @@
+2026-05-14 09:49:32,525 - INFO - ======================================================================
+2026-05-14 09:49:32,526 - INFO - 🚦 RUN STARTED
+2026-05-14 09:49:32,526 - INFO -    Run ID   : b7393b20-30ad-402a-963a-53f1ae4a5a01
+2026-05-14 09:49:32,526 - INFO -    Start    : 2026-05-14 09:49:32
+2026-05-14 09:49:32,526 - INFO -    Log file : logs\run_2026-05-14_09-49-32.log
+2026-05-14 09:49:32,526 - INFO - ======================================================================
+2026-05-14 09:49:34,531 - INFO - 📋 Loaded 1 enabled target(s) from Firestore.
+2026-05-14 09:49:44,943 - INFO - ----------------------------------------------------------------------
+2026-05-14 09:49:44,944 - INFO - 🎯 TARGET: 'carsza-toyota-fortuner' | site=carsza | maxPages=5
+2026-05-14 09:49:45,332 - INFO -    Pages    : 1–5
+2026-05-14 09:49:45,333 - INFO - [CZA] 📄 Page 1: https://www.cars.co.za/usedcars/?make_model_variant=Toyota[Fortuner]&sort=sort_rank&price_type=listing_price
+2026-05-14 09:49:59,196 - INFO - [CZA] ✔ 24 cards found on page 1
+2026-05-14 09:50:04,743 - INFO - [CZA] ✅ Extracted 24 cars from page 1
+2026-05-14 09:50:04,744 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2024-Toyota-Fortuner-2.4-GD-6-4x4-Auto-Gauteng-Vereeniging/10719960/?ref=featured
+2026-05-14 09:50:26,611 - WARNING - [CZA] ⚠️ Detail page slow for 10719960 — reading anyway.
+2026-05-14 09:50:28,705 - INFO -    ✅ 10719960 | page 1
+2026-05-14 09:50:28,706 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2017-Toyota-Fortuner-2.8-GD-6-4x4-Auto-Gauteng-Kempton-Park/10979848/?ref=featured
+2026-05-14 09:50:49,106 - WARNING - [CZA] ⚠️ Detail page slow for 10979848 — reading anyway.
+2026-05-14 09:50:51,171 - INFO -    ✅ 10979848 | page 1
+2026-05-14 09:50:51,171 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2023-Toyota-Fortuner-2.8-GD-6-4x4-VX-Auto-Western-Cape-Paarl/10988130/
+2026-05-14 09:51:11,520 - WARNING - [CZA] ⚠️ Detail page slow for 10988130 — reading anyway.
+2026-05-14 09:51:13,588 - INFO -    ✅ 10988130 | page 1
+2026-05-14 09:51:13,588 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2021-Toyota-Fortuner-2.8-GD-6-Raised-Body-Auto-Kwazulu-Natal-Pietermaritzburg/10989018/
+2026-05-14 09:51:34,036 - WARNING - [CZA] ⚠️ Detail page slow for 10989018 — reading anyway.
+2026-05-14 09:51:36,150 - INFO -    ✅ 10989018 | page 1
+2026-05-14 09:51:36,151 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2023-Toyota-Fortuner-2.4-GD-6-4x4-Auto-Western-Cape-Kraaifontein/10988906/
+2026-05-14 09:51:57,034 - WARNING - [CZA] ⚠️ Detail page slow for 10988906 — reading anyway.
+2026-05-14 09:51:59,101 - INFO -    ✅ 10988906 | page 1
+2026-05-14 09:51:59,101 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2026-Toyota-Fortuner-2.8-GD-6-4x4-Auto-Free-State-Bloemfontein/10988911/
+2026-05-14 09:52:19,678 - WARNING - [CZA] ⚠️ Detail page slow for 10988911 — reading anyway.
+2026-05-14 09:52:21,737 - INFO -    ✅ 10988911 | page 1
+2026-05-14 09:52:21,737 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2025-Toyota-Fortuner-2.4-GD-6-4x4-Auto-Western-Cape-Cape-Town/10988921/
+2026-05-14 09:52:42,224 - WARNING - [CZA] ⚠️ Detail page slow for 10988921 — reading anyway.
+2026-05-14 09:52:44,307 - INFO -    ✅ 10988921 | page 1
+2026-05-14 09:52:44,345 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2025-Toyota-Fortuner-2.4-GD-6-RB-Auto-Eastern-Cape-Port-Elizabeth/10988930/
+2026-05-14 09:53:05,236 - WARNING - [CZA] ⚠️ Detail page slow for 10988930 — reading anyway.
+2026-05-14 09:53:07,306 - INFO -    ✅ 10988930 | page 1
+2026-05-14 09:53:07,306 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2025-Toyota-Fortuner-2.4-GD-6-RB-Auto-Eastern-Cape-Port-Elizabeth/10988931/
+2026-05-14 09:53:28,167 - WARNING - [CZA] ⚠️ Detail page slow for 10988931 — reading anyway.
+2026-05-14 09:53:30,288 - INFO -    ✅ 10988931 | page 1
+2026-05-14 09:53:30,288 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2013-Toyota-Fortuner-2.5-D-4D-Raised-Body-Eastern-Cape-East-London/10988944/
+2026-05-14 09:53:50,859 - WARNING - [CZA] ⚠️ Detail page slow for 10988944 — reading anyway.
+2026-05-14 09:53:52,974 - INFO -    ✅ 10988944 | page 1
+2026-05-14 09:53:52,974 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2021-Toyota-Fortuner-2.8-GD-6-VX-Auto-Western-Cape-George/10981050/?ref=featured
+2026-05-14 09:54:13,834 - WARNING - [CZA] ⚠️ Detail page slow for 10981050 — reading anyway.
+2026-05-14 09:54:15,940 - INFO -    ✅ 10981050 | page 1
+2026-05-14 09:54:15,940 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2021-Toyota-Fortuner-2.8-GD-6-4x4-VX-Auto-Western-Cape-George/10899607/?ref=featured
+2026-05-14 09:54:36,489 - WARNING - [CZA] ⚠️ Detail page slow for 10899607 — reading anyway.
+2026-05-14 09:54:38,561 - INFO -    ✅ 10899607 | page 1
+2026-05-14 09:54:38,561 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2025-Toyota-Fortuner-2.4-GD-6-4x4-Auto-Gauteng-North-Riding/10988865/
+2026-05-14 09:54:59,237 - WARNING - [CZA] ⚠️ Detail page slow for 10988865 — reading anyway.
+2026-05-14 09:55:01,334 - INFO -    ✅ 10988865 | page 1
+2026-05-14 09:55:01,334 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2018-Toyota-Fortuner-2.4-GD-6-Raised-Body-Gauteng-Edenvale/10988852/
+2026-05-14 09:55:21,719 - WARNING - [CZA] ⚠️ Detail page slow for 10988852 — reading anyway.
+2026-05-14 09:55:23,856 - INFO -    ✅ 10988852 | page 1
+2026-05-14 09:55:23,858 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2023-Toyota-Fortuner-2.4-GD-6-RB-Kwazulu-Natal-Umhlanga-Rocks/10988742/
+2026-05-14 09:55:44,398 - WARNING - [CZA] ⚠️ Detail page slow for 10988742 — reading anyway.
+2026-05-14 09:55:46,512 - INFO -    ✅ 10988742 | page 1
+2026-05-14 09:55:46,513 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2023-Toyota-Fortuner-2.8-GD-6-4x4-VX-Auto-Kwazulu-Natal-Umhlanga-Rocks/10988743/
+2026-05-14 09:56:07,162 - WARNING - [CZA] ⚠️ Detail page slow for 10988743 — reading anyway.
+2026-05-14 09:56:09,297 - INFO -    ✅ 10988743 | page 1
+2026-05-14 09:56:09,298 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2011-Toyota-Fortuner-3.0-D-4D-Raised-Body-Auto-Gauteng-Bryanston/10988616/
+2026-05-14 09:56:30,071 - WARNING - [CZA] ⚠️ Detail page slow for 10988616 — reading anyway.
+2026-05-14 09:56:32,149 - INFO -    ✅ 10988616 | page 1
+2026-05-14 09:56:32,149 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2024-Toyota-Fortuner-2.4-GD-6-4x4-Auto-Western-Cape-Bellville/10988560/
+2026-05-14 09:56:52,301 - WARNING - [CZA] ⚠️ Detail page slow for 10988560 — reading anyway.
+2026-05-14 09:56:54,397 - INFO -    ✅ 10988560 | page 1
+2026-05-14 09:56:54,398 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2007-Toyota-Fortuner-4.0-V6-Raised-Body-Gauteng-Springs/10988363/
+2026-05-14 09:57:15,051 - WARNING - [CZA] ⚠️ Detail page slow for 10988363 — reading anyway.
+2026-05-14 09:57:17,126 - INFO -    ✅ 10988363 | page 1
+2026-05-14 09:57:17,127 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2023-Toyota-Fortuner-2.4-GD-6-RB-Auto-Gauteng-North-Riding/10988243/
+2026-05-14 09:57:37,594 - WARNING - [CZA] ⚠️ Detail page slow for 10988243 — reading anyway.
+2026-05-14 09:57:39,682 - INFO -    ✅ 10988243 | page 1
+2026-05-14 09:57:39,683 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2016-Toyota-Fortuner-2.8-GD-6-4x4-Limpopo-Polokwane/10988245/
+2026-05-14 09:58:00,224 - WARNING - [CZA] ⚠️ Detail page slow for 10988245 — reading anyway.
+2026-05-14 09:58:02,354 - INFO -    ✅ 10988245 | page 1
+2026-05-14 09:58:02,354 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2015-Toyota-Fortuner-3.0-D-4D-Raised-Body-Auto-Gauteng-Vanderbijlpark/10988185/
+2026-05-14 09:58:22,693 - WARNING - [CZA] ⚠️ Detail page slow for 10988185 — reading anyway.
+2026-05-14 09:58:24,808 - INFO -    ✅ 10988185 | page 1
+2026-05-14 09:58:24,810 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2021-Toyota-Fortuner-2.8-GD-6-4x4-VX-Auto-Gauteng-Vanderbijlpark/10988140/
+2026-05-14 09:58:45,463 - WARNING - [CZA] ⚠️ Detail page slow for 10988140 — reading anyway.
+2026-05-14 09:58:47,600 - INFO -    ✅ 10988140 | page 1
+2026-05-14 09:58:47,601 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2015-Toyota-Fortuner-3.0-D-4D-Raised-Body-Auto-Gauteng-Pretoria/10988002/
+2026-05-14 09:59:08,202 - WARNING - [CZA] ⚠️ Detail page slow for 10988002 — reading anyway.
+2026-05-14 09:59:10,333 - INFO -    ✅ 10988002 | page 1
+2026-05-14 09:59:10,333 - INFO - [CZA] 📄 Page 2: https://www.cars.co.za/usedcars/?make_model_variant=Toyota[Fortuner]&sort=sort_rank&price_type=listing_price&P=2
+2026-05-14 09:59:35,806 - WARNING - [CZA] ⏳ Cards did not appear within 25 s on page 2.
+2026-05-14 09:59:35,843 - INFO - [CZA] 💾 HTML dumped → logs/carsza_debug_page2.html  (open to inspect real selectors)
+2026-05-14 09:59:35,844 - INFO - 🏁 'carsza-toyota-fortuner' exhausted at page 2
+2026-05-14 09:59:38,671 - INFO - ✅ Saved 24 car(s) to Firestore.
+2026-05-14 09:59:38,998 - INFO - 📌 Progress: 'carsza-toyota-fortuner' | lastPage=1 | exhausted=True
+2026-05-14 09:59:38,998 - INFO -    ✔ Done | cars=24 | lastPage=1 | exhausted=True
+2026-05-14 09:59:44,587 - INFO - ======================================================================
+2026-05-14 09:59:44,587 - INFO - 🏁 RUN FINISHED
+2026-05-14 09:59:44,588 - INFO -    Run ID     : b7393b20-30ad-402a-963a-53f1ae4a5a01
+2026-05-14 09:59:44,590 - INFO -    Start      : 2026-05-14 09:49:32
+2026-05-14 09:59:44,591 - INFO -    End        : 2026-05-14 09:59:44
+2026-05-14 09:59:44,591 - INFO -    Duration   : 0:10:12
+2026-05-14 09:59:44,592 - INFO -    Cars saved : 24
+2026-05-14 09:59:44,593 - INFO -    Targets ✔  : 1
+2026-05-14 09:59:44,593 - INFO -    Targets ⏭  : 0
+2026-05-14 09:59:44,594 - INFO -    Targets ✗  : 0
+2026-05-14 09:59:44,595 - INFO -    Log file   : logs\run_2026-05-14_09-49-32.log
+2026-05-14 09:59:44,596 - INFO - ======================================================================

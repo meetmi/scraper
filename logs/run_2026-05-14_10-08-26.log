@@ -1,0 +1,100 @@
+2026-05-14 10:08:26,254 - INFO - ======================================================================
+2026-05-14 10:08:26,255 - INFO - 🚦 RUN STARTED
+2026-05-14 10:08:26,255 - INFO -    Run ID   : 736927b8-c956-4ce0-b087-192a34fd4256
+2026-05-14 10:08:26,255 - INFO -    Start    : 2026-05-14 10:08:26
+2026-05-14 10:08:26,256 - INFO -    Log file : logs\run_2026-05-14_10-08-26.log
+2026-05-14 10:08:26,256 - INFO - ======================================================================
+2026-05-14 10:08:29,211 - INFO - 📋 Loaded 1 enabled target(s) from Firestore.
+2026-05-14 10:08:32,311 - INFO - ----------------------------------------------------------------------
+2026-05-14 10:08:32,312 - INFO - 🎯 TARGET: 'vw polo 2020' | site=carsza | maxPages=1
+2026-05-14 10:08:32,721 - INFO -    Pages    : 1–1
+2026-05-14 10:08:32,722 - INFO - [CZA] 📄 Page 1: https://www.cars.co.za/usedcars/?make_model_variant=Volkswagen[Polo]&sort=sort_rank&price_type=listing_price&vfs_year=2020-2020
+2026-05-14 10:08:55,065 - INFO - [CZA] ✔ 24 cards found on page 1
+2026-05-14 10:09:00,253 - INFO - [CZA] ✅ Extracted 24 cars from page 1
+2026-05-14 10:09:00,254 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2020-Volkswagen-Polo-1.0-TSI-Comfortline-Auto-Mpumalanga/10982916/?ref=featured
+2026-05-14 10:09:21,164 - WARNING - [CZA] ⚠️ Detail page slow for 10982916 — reading anyway.
+2026-05-14 10:09:23,282 - INFO -    ✅ 10982916 | page 1
+2026-05-14 10:09:23,282 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2020-Volkswagen-Polo-2.0-GTI-Auto-147kW-Gauteng-Four-Ways/10974526/?ref=featured
+2026-05-14 10:09:44,618 - WARNING - [CZA] ⚠️ Detail page slow for 10974526 — reading anyway.
+2026-05-14 10:09:46,696 - INFO -    ✅ 10974526 | page 1
+2026-05-14 10:09:46,696 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2020-Volkswagen-Polo-1.0-TSI-Comfortline-Auto-Mpumalanga/10982916/
+2026-05-14 10:10:07,226 - WARNING - [CZA] ⚠️ Detail page slow for 10982916 — reading anyway.
+2026-05-14 10:10:09,294 - INFO -    ✅ 10982916 | page 1
+2026-05-14 10:10:09,295 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2020-Volkswagen-Polo-1.0-TSI-Trendline-Gauteng-Vanderbijlpark/10982357/
+2026-05-14 10:10:29,591 - WARNING - [CZA] ⚠️ Detail page slow for 10982357 — reading anyway.
+2026-05-14 10:10:31,678 - INFO -    ✅ 10982357 | page 1
+2026-05-14 10:10:31,678 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2020-Volkswagen-Polo-1.0-TSI-Comfortline-Kwazulu-Natal-Umhlanga-Rocks/10972359/
+2026-05-14 10:10:52,450 - WARNING - [CZA] ⚠️ Detail page slow for 10972359 — reading anyway.
+2026-05-14 10:10:54,540 - INFO -    ✅ 10972359 | page 1
+2026-05-14 10:10:54,541 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2020-Volkswagen-Polo-GP-1.4-Trendline-Gauteng-Benoni/10967444/
+2026-05-14 10:11:14,861 - WARNING - [CZA] ⚠️ Detail page slow for 10967444 — reading anyway.
+2026-05-14 10:11:16,931 - INFO -    ✅ 10967444 | page 1
+2026-05-14 10:11:16,931 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2020-Volkswagen-Polo-1.0-TSI-Trendline-Gauteng-Benoni/10959245/
+2026-05-14 10:11:37,281 - WARNING - [CZA] ⚠️ Detail page slow for 10959245 — reading anyway.
+2026-05-14 10:11:39,353 - INFO -    ✅ 10959245 | page 1
+2026-05-14 10:11:39,353 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2020-Volkswagen-Polo-1.0-TSI-Comfortline-Western-Cape-Stellenbosch/10988524/
+2026-05-14 10:11:59,722 - WARNING - [CZA] ⚠️ Detail page slow for 10988524 — reading anyway.
+2026-05-14 10:12:01,810 - INFO -    ✅ 10988524 | page 1
+2026-05-14 10:12:01,811 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2020-Volkswagen-Polo-1.0-TSI-Comfortline-Gauteng-Pretoria/10988342/
+2026-05-14 10:12:22,431 - WARNING - [CZA] ⚠️ Detail page slow for 10988342 — reading anyway.
+2026-05-14 10:12:24,507 - INFO -    ✅ 10988342 | page 1
+2026-05-14 10:12:24,508 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2020-Volkswagen-Polo-POLO-NF-1.0-TSI-COMFORTLINE-DSG-Gauteng-Sandton/10986777/
+2026-05-14 10:12:45,164 - WARNING - [CZA] ⚠️ Detail page slow for 10986777 — reading anyway.
+2026-05-14 10:12:47,241 - INFO -    ✅ 10986777 | page 1
+2026-05-14 10:12:47,241 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/new/2026-MG-MG3-1.5-Comfort-Auto-North-West-Province-Rustenburg/10975743/?ref=interstitial-new-stock
+2026-05-14 10:13:07,777 - WARNING - [CZA] ⚠️ Detail page slow for 10975743 — reading anyway.
+2026-05-14 10:13:09,850 - INFO -    ✅ 10975743 | page 1
+2026-05-14 10:13:09,850 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2020-Volkswagen-Polo-1.0-TSI-Comfortline-Auto-Free-State-Bloemfontein/10948303/?ref=featured
+2026-05-14 10:13:30,294 - WARNING - [CZA] ⚠️ Detail page slow for 10948303 — reading anyway.
+2026-05-14 10:13:32,398 - INFO -    ✅ 10948303 | page 1
+2026-05-14 10:13:32,398 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2020-Volkswagen-Polo-GP-1.4-Comfortline-Free-State-Bloemfontein/10983459/
+2026-05-14 10:13:52,922 - WARNING - [CZA] ⚠️ Detail page slow for 10983459 — reading anyway.
+2026-05-14 10:13:55,024 - INFO -    ✅ 10983459 | page 1
+2026-05-14 10:13:55,024 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2020-Volkswagen-Polo-1.0-TSI-R-LINE-SMART-R-LINESUNROOF-Gauteng-Vanderbijlpark/10982990/
+2026-05-14 10:14:15,571 - WARNING - [CZA] ⚠️ Detail page slow for 10982990 — reading anyway.
+2026-05-14 10:14:17,648 - INFO -    ✅ 10982990 | page 1
+2026-05-14 10:14:17,649 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2020-Volkswagen-Polo-2.0-GTI-Auto-147kW-Gauteng-Centurion/10982608/
+2026-05-14 10:14:38,199 - WARNING - [CZA] ⚠️ Detail page slow for 10982608 — reading anyway.
+2026-05-14 10:14:40,306 - INFO -    ✅ 10982608 | page 1
+2026-05-14 10:14:40,307 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2020-Volkswagen-Polo-GP-1.4-Comfortline-Gauteng-Centurion/10983868/
+2026-05-14 10:15:00,779 - WARNING - [CZA] ⚠️ Detail page slow for 10983868 — reading anyway.
+2026-05-14 10:15:02,853 - INFO -    ✅ 10983868 | page 1
+2026-05-14 10:15:02,853 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2020-Volkswagen-Polo-1.0-TSI-Trendline-Gauteng-Springs/10981068/
+2026-05-14 10:15:23,439 - WARNING - [CZA] ⚠️ Detail page slow for 10981068 — reading anyway.
+2026-05-14 10:15:25,566 - INFO -    ✅ 10981068 | page 1
+2026-05-14 10:15:25,567 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2020-Volkswagen-Polo-GP-1.4-Trendline-Gauteng-Centurion/10914553/
+2026-05-14 10:15:46,123 - WARNING - [CZA] ⚠️ Detail page slow for 10914553 — reading anyway.
+2026-05-14 10:15:48,217 - INFO -    ✅ 10914553 | page 1
+2026-05-14 10:15:48,217 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2020-Volkswagen-Polo-1.0-TSI-Comfortline-Gauteng-Boksburg/10979769/
+2026-05-14 10:16:08,909 - WARNING - [CZA] ⚠️ Detail page slow for 10979769 — reading anyway.
+2026-05-14 10:16:10,990 - INFO -    ✅ 10979769 | page 1
+2026-05-14 10:16:10,990 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2020-Volkswagen-Polo-1.0-TSI-Comfortline-Kwazulu-Natal-Pinetown/10986362/
+2026-05-14 10:16:31,530 - WARNING - [CZA] ⚠️ Detail page slow for 10986362 — reading anyway.
+2026-05-14 10:16:33,604 - INFO -    ✅ 10986362 | page 1
+2026-05-14 10:16:33,604 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2020-Volkswagen-Polo-1.0-TSI-Highline-Auto-85kW-Gauteng-Kempton-Park/10985761/
+2026-05-14 10:16:54,100 - WARNING - [CZA] ⚠️ Detail page slow for 10985761 — reading anyway.
+2026-05-14 10:16:56,243 - INFO -    ✅ 10985761 | page 1
+2026-05-14 10:16:56,243 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2020-Volkswagen-Polo-1.0-TSI-Comfortline-Eastern-Cape-Nahoon/10975688/
+2026-05-14 10:17:16,738 - WARNING - [CZA] ⚠️ Detail page slow for 10975688 — reading anyway.
+2026-05-14 10:17:18,819 - INFO -    ✅ 10975688 | page 1
+2026-05-14 10:17:18,819 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2020-Volkswagen-Polo-GP-1.6-Trendline-Gauteng-Lenasia/10975035/
+2026-05-14 10:17:39,464 - WARNING - [CZA] ⚠️ Detail page slow for 10975035 — reading anyway.
+2026-05-14 10:17:41,548 - INFO -    ✅ 10975035 | page 1
+2026-05-14 10:17:41,548 - INFO - [CZA] 🔎 Detail: https://www.cars.co.za/for-sale/used/2020-Volkswagen-Polo-2.0-GTI-Auto-147kW-Gauteng-Four-Ways/10974526/
+2026-05-14 10:18:02,146 - WARNING - [CZA] ⚠️ Detail page slow for 10974526 — reading anyway.
+2026-05-14 10:18:04,226 - INFO -    ✅ 10974526 | page 1
+2026-05-14 10:18:07,058 - INFO - ✅ Saved 24 car(s) to Firestore.
+2026-05-14 10:18:07,431 - INFO - 📌 Progress: 'vw polo 2020' | lastPage=1 | exhausted=False
+2026-05-14 10:18:07,431 - INFO -    ✔ Done | cars=24 | lastPage=1 | exhausted=False
+2026-05-14 10:18:12,951 - INFO - ======================================================================
+2026-05-14 10:18:12,951 - INFO - 🏁 RUN FINISHED
+2026-05-14 10:18:12,953 - INFO -    Run ID     : 736927b8-c956-4ce0-b087-192a34fd4256
+2026-05-14 10:18:12,953 - INFO -    Start      : 2026-05-14 10:08:26
+2026-05-14 10:18:12,956 - INFO -    End        : 2026-05-14 10:18:12
+2026-05-14 10:18:12,958 - INFO -    Duration   : 0:09:46
+2026-05-14 10:18:12,959 - INFO -    Cars saved : 24
+2026-05-14 10:18:12,960 - INFO -    Targets ✔  : 1
+2026-05-14 10:18:12,961 - INFO -    Targets ⏭  : 0
+2026-05-14 10:18:12,961 - INFO -    Targets ✗  : 0
+2026-05-14 10:18:12,962 - INFO -    Log file   : logs\run_2026-05-14_10-08-26.log
+2026-05-14 10:18:12,962 - INFO - ======================================================================

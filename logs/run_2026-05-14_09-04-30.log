@@ -1,0 +1,43 @@
+2026-05-14 09:04:31,108 - INFO - ======================================================================
+2026-05-14 09:04:31,109 - INFO - 🚦 RUN STARTED
+2026-05-14 09:04:31,141 - INFO -    Run ID   : 5ae866de-1641-4127-b7f8-e2384544d0ef
+2026-05-14 09:04:31,142 - INFO -    Start    : 2026-05-14 09:04:31
+2026-05-14 09:04:31,142 - INFO -    Log file : logs\run_2026-05-14_09-04-30.log
+2026-05-14 09:04:31,142 - INFO - ======================================================================
+2026-05-14 09:04:37,943 - INFO - 📋 Loaded 8 enabled targets from Firestore.
+2026-05-14 09:04:52,587 - INFO - ----------------------------------------------------------------------
+2026-05-14 09:04:52,751 - INFO - 🎯 TARGET: 'Toyota Hilux 2017+' | site=webuycars | maxPages=2
+2026-05-14 09:04:52,752 - ERROR - ❌ No adapter registered for site 'webuycars'. Available: ['carsza']
+2026-05-14 09:04:52,753 - INFO - ----------------------------------------------------------------------
+2026-05-14 09:04:52,753 - INFO - 🎯 TARGET: 'Ford Everest 2017+' | site=webuycars | maxPages=2
+2026-05-14 09:04:52,753 - ERROR - ❌ No adapter registered for site 'webuycars'. Available: ['carsza']
+2026-05-14 09:04:52,753 - INFO - ----------------------------------------------------------------------
+2026-05-14 09:04:52,754 - INFO - 🎯 TARGET: 'Nissan NP300 2016+' | site=webuycars | maxPages=2
+2026-05-14 09:04:52,754 - ERROR - ❌ No adapter registered for site 'webuycars'. Available: ['carsza']
+2026-05-14 09:04:52,754 - INFO - ----------------------------------------------------------------------
+2026-05-14 09:04:52,754 - INFO - 🎯 TARGET: 'Toyota Fortuner 2018+' | site=webuycars | maxPages=2
+2026-05-14 09:04:52,754 - ERROR - ❌ No adapter registered for site 'webuycars'. Available: ['carsza']
+2026-05-14 09:04:52,754 - INFO - ----------------------------------------------------------------------
+2026-05-14 09:04:52,755 - INFO - 🎯 TARGET: 'Ford Ranger Wildtrak 2018+' | site=webuycars | maxPages=2
+2026-05-14 09:04:52,755 - ERROR - ❌ No adapter registered for site 'webuycars'. Available: ['carsza']
+2026-05-14 09:04:52,755 - INFO - ----------------------------------------------------------------------
+2026-05-14 09:04:52,755 - INFO - 🎯 TARGET: 'Mercedes-Benz GLE 2018+' | site=webuycars | maxPages=2
+2026-05-14 09:04:52,755 - ERROR - ❌ No adapter registered for site 'webuycars'. Available: ['carsza']
+2026-05-14 09:04:52,755 - INFO - ----------------------------------------------------------------------
+2026-05-14 09:04:52,756 - INFO - 🎯 TARGET: 'Isuzu D-Max 2018+' | site=webuycars | maxPages=3
+2026-05-14 09:04:52,757 - ERROR - ❌ No adapter registered for site 'webuycars'. Available: ['carsza']
+2026-05-14 09:04:52,757 - INFO - ----------------------------------------------------------------------
+2026-05-14 09:04:52,758 - INFO - 🎯 TARGET: 'BMW X7 2019+' | site=webuycars | maxPages=2
+2026-05-14 09:04:52,758 - ERROR - ❌ No adapter registered for site 'webuycars'. Available: ['carsza']
+2026-05-14 09:04:57,134 - INFO - ======================================================================
+2026-05-14 09:04:57,135 - INFO - 🏁 RUN FINISHED
+2026-05-14 09:04:57,137 - INFO -    Run ID     : 5ae866de-1641-4127-b7f8-e2384544d0ef
+2026-05-14 09:04:57,138 - INFO -    Start      : 2026-05-14 09:04:31
+2026-05-14 09:04:57,139 - INFO -    End        : 2026-05-14 09:04:57
+2026-05-14 09:04:57,140 - INFO -    Duration   : 0:00:26
+2026-05-14 09:04:57,140 - INFO -    Cars saved : 0
+2026-05-14 09:04:57,141 - INFO -    Targets ✔  : 0
+2026-05-14 09:04:57,144 - INFO -    Targets ⏭  : 0
+2026-05-14 09:04:57,151 - INFO -    Targets ✗  : 8
+2026-05-14 09:04:57,153 - INFO -    Log file   : logs\run_2026-05-14_09-04-30.log
+2026-05-14 09:04:57,156 - INFO - ======================================================================

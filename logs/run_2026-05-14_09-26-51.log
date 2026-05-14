@@ -1,0 +1,81 @@
+2026-05-14 09:26:51,651 - INFO - ======================================================================
+2026-05-14 09:26:51,651 - INFO - 🚦 RUN STARTED
+2026-05-14 09:26:51,652 - INFO -    Run ID   : 3f320689-48cf-40e7-a56f-cd56854111e5
+2026-05-14 09:26:51,652 - INFO -    Start    : 2026-05-14 09:26:51
+2026-05-14 09:26:51,652 - INFO -    Log file : logs\run_2026-05-14_09-26-51.log
+2026-05-14 09:26:51,652 - INFO - ======================================================================
+2026-05-14 09:26:54,672 - INFO - 📋 Loaded 8 enabled target(s) from Firestore.
+2026-05-14 09:27:09,350 - INFO - ----------------------------------------------------------------------
+2026-05-14 09:27:09,351 - INFO - 🎯 TARGET: 'Toyota Hilux 2017+' | site=carsza | maxPages=2
+2026-05-14 09:27:09,917 - INFO -    Pages    : 5–6
+2026-05-14 09:27:09,956 - INFO - [CZA] 📄 Page 5: https://www.webuycars.co.za/buy-a-car?q=%22Toyota%20Hilux%22&Year_Gte=%222017%22&P=5
+2026-05-14 09:27:50,801 - WARNING - [CZA] ⏳ Cards did not appear within 25 s on page 5.
+2026-05-14 09:27:50,875 - INFO - [CZA] 💾 HTML dumped → logs/carsza_debug_page5.html  (open to inspect real selectors)
+2026-05-14 09:27:50,875 - INFO - 🏁 'Toyota Hilux 2017+' exhausted at page 5
+2026-05-14 09:27:51,237 - INFO - 📌 Progress: 'Toyota Hilux 2017+' | lastPage=4 | exhausted=True
+2026-05-14 09:27:51,237 - INFO -    ✔ Done | cars=0 | lastPage=4 | exhausted=True
+2026-05-14 09:27:51,238 - INFO - ----------------------------------------------------------------------
+2026-05-14 09:27:51,238 - INFO - 🎯 TARGET: 'Ford Everest 2017+' | site=carsza | maxPages=2
+2026-05-14 09:27:52,410 - INFO -    Pages    : 5–6
+2026-05-14 09:27:52,411 - INFO - [CZA] 📄 Page 5: https://www.webuycars.co.za/buy-a-car?q=%22Ford%20Everest%22&Year_Gte=%222017%22&P=5
+2026-05-14 09:28:34,798 - WARNING - [CZA] ⏳ Cards did not appear within 25 s on page 5.
+2026-05-14 09:28:35,091 - INFO - [CZA] 💾 HTML dumped → logs/carsza_debug_page5.html  (open to inspect real selectors)
+2026-05-14 09:28:35,091 - INFO - 🏁 'Ford Everest 2017+' exhausted at page 5
+2026-05-14 09:28:35,450 - INFO - 📌 Progress: 'Ford Everest 2017+' | lastPage=4 | exhausted=True
+2026-05-14 09:28:35,450 - INFO -    ✔ Done | cars=0 | lastPage=4 | exhausted=True
+2026-05-14 09:28:35,452 - INFO - ----------------------------------------------------------------------
+2026-05-14 09:28:35,453 - INFO - 🎯 TARGET: 'Nissan NP300 2016+' | site=carsza | maxPages=2
+2026-05-14 09:28:36,594 - INFO -    Pages    : 5–6
+2026-05-14 09:28:36,594 - INFO - [CZA] 📄 Page 5: https://www.webuycars.co.za/buy-a-car?q=%22Nissan%20NP300%22&Year_Gte=%222016%22&P=5
+2026-05-14 09:29:08,706 - WARNING - [CZA] ⏳ Cards did not appear within 25 s on page 5.
+2026-05-14 09:29:08,742 - INFO - [CZA] 💾 HTML dumped → logs/carsza_debug_page5.html  (open to inspect real selectors)
+2026-05-14 09:29:08,742 - INFO - 🏁 'Nissan NP300 2016+' exhausted at page 5
+2026-05-14 09:29:09,082 - INFO - 📌 Progress: 'Nissan NP300 2016+' | lastPage=4 | exhausted=True
+2026-05-14 09:29:09,083 - INFO -    ✔ Done | cars=0 | lastPage=4 | exhausted=True
+2026-05-14 09:29:09,084 - INFO - ----------------------------------------------------------------------
+2026-05-14 09:29:09,086 - INFO - 🎯 TARGET: 'Toyota Fortuner 2018+' | site=carsza | maxPages=2
+2026-05-14 09:29:10,317 - INFO -    Pages    : 5–6
+2026-05-14 09:29:10,317 - INFO - [CZA] 📄 Page 5: https://www.webuycars.co.za/buy-a-car?q=%22Toyota%20Fortuner%22&Year_Gte=%222018%22&P=5
+2026-05-14 09:29:39,338 - WARNING - [CZA] ⏳ Cards did not appear within 25 s on page 5.
+2026-05-14 09:29:39,451 - INFO - [CZA] 💾 HTML dumped → logs/carsza_debug_page5.html  (open to inspect real selectors)
+2026-05-14 09:29:39,452 - INFO - 🏁 'Toyota Fortuner 2018+' exhausted at page 5
+2026-05-14 09:29:39,790 - INFO - 📌 Progress: 'Toyota Fortuner 2018+' | lastPage=4 | exhausted=True
+2026-05-14 09:29:39,790 - INFO -    ✔ Done | cars=0 | lastPage=4 | exhausted=True
+2026-05-14 09:29:39,792 - INFO - ----------------------------------------------------------------------
+2026-05-14 09:29:39,793 - INFO - 🎯 TARGET: 'Ford Ranger Wildtrak 2018+' | site=carsza | maxPages=2
+2026-05-14 09:29:40,985 - INFO -    Pages    : 5–6
+2026-05-14 09:29:40,985 - INFO - [CZA] 📄 Page 5: https://www.webuycars.co.za/buy-a-car?q=%22Ford%20Ranger%20Wildtrak%22&Year_Gte=%222018%22&P=5
+2026-05-14 09:30:20,705 - WARNING - [CZA] ⏳ Cards did not appear within 25 s on page 5.
+2026-05-14 09:30:20,928 - INFO - [CZA] 💾 HTML dumped → logs/carsza_debug_page5.html  (open to inspect real selectors)
+2026-05-14 09:30:20,929 - INFO - 🏁 'Ford Ranger Wildtrak 2018+' exhausted at page 5
+2026-05-14 09:30:21,275 - INFO - 📌 Progress: 'Ford Ranger Wildtrak 2018+' | lastPage=4 | exhausted=True
+2026-05-14 09:30:21,276 - INFO -    ✔ Done | cars=0 | lastPage=4 | exhausted=True
+2026-05-14 09:30:21,277 - INFO - ----------------------------------------------------------------------
+2026-05-14 09:30:21,278 - INFO - 🎯 TARGET: 'Mercedes-Benz GLE 2018+' | site=carsza | maxPages=2
+2026-05-14 09:30:22,433 - INFO - ⏭️  'Mercedes-Benz GLE 2018+' already exhausted — skipping.
+2026-05-14 09:30:22,712 - INFO - ⏭️  Skipping 'Mercedes-Benz GLE 2018+' (already exhausted today).
+2026-05-14 09:30:22,753 - INFO - ----------------------------------------------------------------------
+2026-05-14 09:30:22,801 - INFO - 🎯 TARGET: 'Isuzu D-Max 2018+' | site=carsza | maxPages=3
+2026-05-14 09:30:23,226 - INFO -    Pages    : 7–9
+2026-05-14 09:30:23,226 - INFO - [CZA] 📄 Page 7: https://www.webuycars.co.za/buy-a-car?q=Isuzu%20D-Max&P=7
+2026-05-14 09:30:59,991 - WARNING - [CZA] ⏳ Cards did not appear within 25 s on page 7.
+2026-05-14 09:31:00,677 - INFO - [CZA] 💾 HTML dumped → logs/carsza_debug_page7.html  (open to inspect real selectors)
+2026-05-14 09:31:00,678 - INFO - 🏁 'Isuzu D-Max 2018+' exhausted at page 7
+2026-05-14 09:31:01,022 - INFO - 📌 Progress: 'Isuzu D-Max 2018+' | lastPage=6 | exhausted=True
+2026-05-14 09:31:01,024 - INFO -    ✔ Done | cars=0 | lastPage=6 | exhausted=True
+2026-05-14 09:31:01,026 - INFO - ----------------------------------------------------------------------
+2026-05-14 09:31:01,026 - INFO - 🎯 TARGET: 'BMW X7 2019+' | site=carsza | maxPages=2
+2026-05-14 09:31:02,198 - INFO - ⏭️  'BMW X7 2019+' already exhausted — skipping.
+2026-05-14 09:31:02,198 - INFO - ⏭️  Skipping 'BMW X7 2019+' (already exhausted today).
+2026-05-14 09:31:22,307 - INFO - ======================================================================
+2026-05-14 09:31:22,307 - INFO - 🏁 RUN FINISHED
+2026-05-14 09:31:22,309 - INFO -    Run ID     : 3f320689-48cf-40e7-a56f-cd56854111e5
+2026-05-14 09:31:22,310 - INFO -    Start      : 2026-05-14 09:26:51
+2026-05-14 09:31:22,311 - INFO -    End        : 2026-05-14 09:31:22
+2026-05-14 09:31:22,311 - INFO -    Duration   : 0:04:30
+2026-05-14 09:31:22,315 - INFO -    Cars saved : 0
+2026-05-14 09:31:22,315 - INFO -    Targets ✔  : 6
+2026-05-14 09:31:22,316 - INFO -    Targets ⏭  : 2
+2026-05-14 09:31:22,317 - INFO -    Targets ✗  : 0
+2026-05-14 09:31:22,317 - INFO -    Log file   : logs\run_2026-05-14_09-26-51.log
+2026-05-14 09:31:22,318 - INFO - ======================================================================

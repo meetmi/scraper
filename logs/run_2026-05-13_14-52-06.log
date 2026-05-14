@@ -1,0 +1,435 @@
+2026-05-13 14:52:07,660 - INFO - ======================================================================
+2026-05-13 14:52:07,660 - INFO - 🚦 RUN STARTED
+2026-05-13 14:52:07,726 - INFO -    Run ID   : 6ceef3fe-535f-4737-8f3f-b86e6a1ca604
+2026-05-13 14:52:07,726 - INFO -    Start    : 2026-05-13 14:52:07
+2026-05-13 14:52:07,727 - INFO -    Log file : logs\run_2026-05-13_14-52-06.log
+2026-05-13 14:52:07,727 - INFO - ======================================================================
+2026-05-13 14:52:13,609 - INFO - 📋 Loaded 8 enabled targets from Firestore.
+2026-05-13 14:52:48,458 - INFO - ----------------------------------------------------------------------
+2026-05-13 14:52:48,651 - INFO - 🎯 TARGET: 'Toyota Hilux 2017+' | site=webuycars | maxPages=2
+2026-05-13 14:52:49,002 - INFO -    Pages    : 3–4
+2026-05-13 14:52:49,358 - INFO - [WBC] 📄 Page 3: https://www.webuycars.co.za/buy-a-car?q=%22Toyota%20Hilux%22&Year_Gte=%222017%22&page=3
+2026-05-13 14:54:54,649 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Hilux-24-Gd-6-RB-Raider-Pick-Up-Single-Cab/15B807837
+2026-05-13 14:54:59,852 - INFO -    ✅ 15B807837 | page 3
+2026-05-13 14:55:00,015 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Hilux-24-Gd-6-RB-Raider-Auto-Pick-Up-Double-Cab/40E712127
+2026-05-13 14:55:06,993 - INFO -    ✅ 40E712127 | page 3
+2026-05-13 14:55:06,993 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Hilux-24-Gd-6-Raider-4x4-Auto-Pick-Up-Double-Cab/D43613116
+2026-05-13 14:55:11,330 - INFO -    ✅ D43613116 | page 3
+2026-05-13 14:55:11,330 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Hilux-24-Gd-6-RB-Raider-Pick-Up-E-cab/4CF709676
+2026-05-13 14:55:15,906 - INFO -    ✅ 4CF709676 | page 3
+2026-05-13 14:55:15,907 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Hilux-28-Gd-6-RB-Legend-Pick-Up-Double-Cab/5CAB08534
+2026-05-13 14:55:20,373 - INFO -    ✅ 5CAB08534 | page 3
+2026-05-13 14:55:20,373 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Hilux-24-Gd-6-RB-Raider-Auto-Pick-Up-Double-Cab/B5A008061
+2026-05-13 14:55:25,032 - INFO -    ✅ B5A008061 | page 3
+2026-05-13 14:55:25,032 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Hilux-24-Gd-6-RB-Raider-Auto-Pick-Up-Double-Cab/935302633
+2026-05-13 14:55:28,369 - INFO -    ✅ 935302633 | page 3
+2026-05-13 14:55:28,369 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Hilux-28-Gd-6-RB-Legend-Auto-Pick-Up-E-cab/109A03936
+2026-05-13 14:55:31,706 - INFO -    ✅ 109A03936 | page 3
+2026-05-13 14:55:31,706 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Hilux-28-Gd-6-Raider-4x4-Auto-Pick-Up-Double-Cab/58FB05287
+2026-05-13 14:55:34,703 - INFO -    ✅ 58FB05287 | page 3
+2026-05-13 14:55:34,703 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Hilux-24-Gd-6-RB-Raider-Pick-Up-Single-Cab/19BD00795
+2026-05-13 14:55:37,409 - INFO -    ✅ 19BD00795 | page 3
+2026-05-13 14:55:37,410 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Hilux-24-Gd-6-RB-Raider-Auto-Pick-Up-Double-Cab/C76005458
+2026-05-13 14:55:40,297 - INFO -    ✅ C76005458 | page 3
+2026-05-13 14:55:40,297 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Hilux-24-Gd-6-RB-Raider-Pick-Up-E-cab/E34E07630
+2026-05-13 14:55:43,713 - INFO -    ✅ E34E07630 | page 3
+2026-05-13 14:55:43,713 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Hilux-28-Gd-6-Gr-S-4x4-Auto-Pick-Up-Double-Cab/B48701014
+2026-05-13 14:55:46,672 - INFO -    ✅ B48701014 | page 3
+2026-05-13 14:55:46,672 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Hilux-28-Gd-6-RB-Legend-Pick-Up-E-cab/371701620
+2026-05-13 14:55:49,667 - INFO -    ✅ 371701620 | page 3
+2026-05-13 14:55:49,668 - INFO - [WBC] 📄 Page 4: https://www.webuycars.co.za/buy-a-car?q=%22Toyota%20Hilux%22&Year_Gte=%222017%22&page=4
+2026-05-13 14:56:08,934 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Hilux-28-Gd-6-RB-Legend-Auto-Pick-Up-E-cab/F81915254
+2026-05-13 14:56:14,015 - INFO -    ✅ F81915254 | page 4
+2026-05-13 14:56:14,015 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Hilux-28-Gd-6-RB-Legend-Auto-Pick-Up-Double-Cab/DA2602012
+2026-05-13 14:56:18,251 - INFO -    ✅ DA2602012 | page 4
+2026-05-13 14:56:18,251 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Hilux-28-Gd-6-RB-Legend-Pick-Up-Double-Cab/25E901843
+2026-05-13 14:56:21,367 - INFO -    ✅ 25E901843 | page 4
+2026-05-13 14:56:21,368 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Hilux-Legend-50-28-Gd-6-4x2-A-T-Double-Cab/4C4505065
+2026-05-13 14:56:24,272 - INFO -    ✅ 4C4505065 | page 4
+2026-05-13 14:56:24,273 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Hilux-24-Gd-6-RB-SRX-Auto-Pick-Up-Double-Cab/6AF302682
+2026-05-13 14:56:27,227 - INFO -    ✅ 6AF302682 | page 4
+2026-05-13 14:56:27,227 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Hilux-24-Gd-6-RB-Raider-Auto-Pick-Up-Double-Cab/F53F09656
+2026-05-13 14:56:32,309 - INFO -    ✅ F53F09656 | page 4
+2026-05-13 14:56:32,310 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Hilux-24-Gd-6-RB-Raider-Auto-Pick-Up-Double-Cab/A9E205709
+2026-05-13 14:56:37,089 - INFO -    ✅ A9E205709 | page 4
+2026-05-13 14:56:37,090 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Hilux-24-Gd-6-RB-SRX-Pick-Up-E-cab/88A903013
+2026-05-13 14:56:40,048 - INFO -    ✅ 88A903013 | page 4
+2026-05-13 14:56:40,048 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Hilux-24-Gd-6-RB-Raider-Auto-Pick-Up-Double-Cab/A50B12463
+2026-05-13 14:56:43,125 - INFO -    ✅ A50B12463 | page 4
+2026-05-13 14:56:43,128 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Hilux-20-Vvti-A-C-Pick-Up-Single-Cab/EEA110745
+2026-05-13 14:56:45,882 - INFO -    ✅ EEA110745 | page 4
+2026-05-13 14:56:45,883 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Hilux-24-Gd-6-RB-Raider-Pick-Up-E-cab/E21D00893
+2026-05-13 14:56:53,904 - INFO -    ✅ E21D00893 | page 4
+2026-05-13 14:56:53,905 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Hilux-28-Gd-6-RB-Legend-4x4-Auto-Pick-Up-Double-Cab/9AD404801
+2026-05-13 14:56:57,200 - INFO -    ✅ 9AD404801 | page 4
+2026-05-13 14:56:57,200 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Hilux-20-Vvti-A-C-Pick-Up-Single-Cab/BB6504503
+2026-05-13 14:57:02,309 - INFO -    ✅ BB6504503 | page 4
+2026-05-13 14:57:02,310 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Hilux-24-Gd-6-RB-Raider-Auto-Pick-Up-Double-Cab/C55614865
+2026-05-13 14:57:05,269 - INFO -    ✅ C55614865 | page 4
+2026-05-13 14:57:05,269 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Hilux-24-GD-A-C-Single-Cab/119C05135
+2026-05-13 14:57:08,367 - INFO -    ✅ 119C05135 | page 4
+2026-05-13 14:57:08,369 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Hilux-24-Gd-6-RB-SRX-Auto-Pick-Up-Double-Cab/72DC02671
+2026-05-13 14:57:11,137 - INFO -    ✅ 72DC02671 | page 4
+2026-05-13 14:57:24,803 - INFO - ✅ Saved 30 cars to Firestore.
+2026-05-13 14:57:25,310 - INFO - 📌 Progress saved: 'Toyota Hilux 2017+' | lastPage=4 | exhausted=False
+2026-05-13 14:57:25,310 - INFO -    ✔ Target done | cars=30 | lastPage=4 | exhausted=False
+2026-05-13 14:57:25,311 - INFO - ----------------------------------------------------------------------
+2026-05-13 14:57:25,311 - INFO - 🎯 TARGET: 'Ford Everest 2017+' | site=webuycars | maxPages=2
+2026-05-13 14:57:26,385 - INFO -    Pages    : 3–4
+2026-05-13 14:57:26,385 - INFO - [WBC] 📄 Page 3: https://www.webuycars.co.za/buy-a-car?q=%22Ford%20Everest%22&Year_Gte=%222017%22&page=3
+2026-05-13 14:57:46,178 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Everest-22-TDCi-XLS-Auto/AA0114598
+2026-05-13 14:58:20,758 - INFO -    ✅ AA0114598 | page 3
+2026-05-13 14:58:20,784 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Everest-32-TDCi-XLT-4x4-Auto/2D7F12554
+2026-05-13 14:58:27,159 - INFO -    ✅ 2D7F12554 | page 3
+2026-05-13 14:58:27,159 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Everest-20d-XLT-Auto/C4EE10100
+2026-05-13 14:58:30,218 - INFO -    ✅ C4EE10100 | page 3
+2026-05-13 14:58:30,218 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Everest-32-TDCi-XLT-4x4-Auto/59F004627
+2026-05-13 14:58:33,326 - INFO -    ✅ 59F004627 | page 3
+2026-05-13 14:58:33,326 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Everest-22-TDCi-XLT-Auto/741A01278
+2026-05-13 14:58:36,175 - INFO -    ✅ 741A01278 | page 3
+2026-05-13 14:58:36,175 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Everest-32-TDCi-XLT-Auto/6F7012698
+2026-05-13 14:58:38,772 - INFO -    ✅ 6F7012698 | page 3
+2026-05-13 14:58:38,773 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Everest-22-TDCi-XLT-Auto/D7A008296
+2026-05-13 14:58:41,516 - INFO -    ✅ D7A008296 | page 3
+2026-05-13 14:58:41,516 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Everest-22-TDCi-XLS-Auto/29E603841
+2026-05-13 14:58:45,400 - INFO -    ✅ 29E603841 | page 3
+2026-05-13 14:58:45,400 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Everest-22-TDCi-XLT-Auto/A6DE07276
+2026-05-13 14:58:48,357 - INFO -    ✅ A6DE07276 | page 3
+2026-05-13 14:58:48,357 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Everest-32-TDCi-LTD-4x4-Auto/48F910397
+2026-05-13 14:58:51,597 - INFO -    ✅ 48F910397 | page 3
+2026-05-13 14:58:51,598 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Everest-32-TDCi-XLT-4x4-Auto/17EA03845
+2026-05-13 14:58:56,741 - INFO -    ✅ 17EA03845 | page 3
+2026-05-13 14:58:56,741 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Everest-30d-V6-Wildtrack-AWD-Auto/FA7413309
+2026-05-13 14:58:59,312 - INFO -    ✅ FA7413309 | page 3
+2026-05-13 14:58:59,312 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Everest-32-TDCi-XLT-4x4-Auto/066411404
+2026-05-13 14:59:03,821 - INFO -    ✅ 066411404 | page 3
+2026-05-13 14:59:03,822 - INFO - [WBC] 📄 Page 4: https://www.webuycars.co.za/buy-a-car?q=%22Ford%20Everest%22&Year_Gte=%222017%22&page=4
+2026-05-13 14:59:22,283 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Everest-20d-XLT-Auto/58F309227
+2026-05-13 14:59:55,905 - INFO -    ✅ 58F309227 | page 4
+2026-05-13 14:59:55,906 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Everest-20d-XLT-Sport-Auto/671B10528
+2026-05-13 15:00:03,437 - INFO -    ✅ 671B10528 | page 4
+2026-05-13 15:00:03,437 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Everest-32-TDCi-XLT-Auto/8F6504166
+2026-05-13 15:00:06,434 - INFO -    ✅ 8F6504166 | page 4
+2026-05-13 15:00:06,435 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Everest-20d-XLT-Sport-4x4-Auto/083115931
+2026-05-13 15:00:16,005 - INFO -    ✅ 083115931 | page 4
+2026-05-13 15:00:16,005 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Everest-20d-Bi-Turbo-LTD-4x4-Auto/26FA00924
+2026-05-13 15:00:25,534 - INFO -    ✅ 26FA00924 | page 4
+2026-05-13 15:00:25,534 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Everest-20d-Bi-Turbo-4x4-Auto/035806406
+2026-05-13 15:00:27,894 - INFO -    ✅ 035806406 | page 4
+2026-05-13 15:00:27,894 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Everest-20d-XLT-Sport-Auto/2BC204708
+2026-05-13 15:00:30,673 - INFO -    ✅ 2BC204708 | page 4
+2026-05-13 15:00:30,673 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Everest-20d-XLT-Sport-Auto/AB2400437
+2026-05-13 15:00:33,278 - INFO -    ✅ AB2400437 | page 4
+2026-05-13 15:00:33,278 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Everest-20d-Bi-Turbo-4x4-Auto/738310194
+2026-05-13 15:00:35,361 - INFO -    ✅ 738310194 | page 4
+2026-05-13 15:00:35,362 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Everest-20d-XLT-Auto/BCA113943
+2026-05-13 15:00:39,466 - INFO -    ✅ BCA113943 | page 4
+2026-05-13 15:00:39,466 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Everest-20d-Bi-Turbo-LTD-4x4-Auto/6B0B05293
+2026-05-13 15:00:42,411 - INFO -    ✅ 6B0B05293 | page 4
+2026-05-13 15:00:42,412 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Everest-20d-XLT-Sport-4x4-Auto/47C311562
+2026-05-13 15:00:47,829 - INFO -    ✅ 47C311562 | page 4
+2026-05-13 15:00:47,829 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Everest-20d-Bi-Turbo-LTD-4x4-Auto/432D03548
+2026-05-13 15:00:50,774 - INFO -    ✅ 432D03548 | page 4
+2026-05-13 15:00:50,774 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Everest-30d-V6-Platinum-AWD-Auto/03E402118
+2026-05-13 15:00:53,685 - INFO -    ✅ 03E402118 | page 4
+2026-05-13 15:00:53,685 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Everest-20d-Bi-Turbo-4x4-Auto/6C3816510
+2026-05-13 15:00:57,507 - INFO -    ✅ 6C3816510 | page 4
+2026-05-13 15:01:02,196 - INFO - ✅ Saved 28 cars to Firestore.
+2026-05-13 15:01:02,557 - INFO - 📌 Progress saved: 'Ford Everest 2017+' | lastPage=4 | exhausted=False
+2026-05-13 15:01:02,636 - INFO -    ✔ Target done | cars=28 | lastPage=4 | exhausted=False
+2026-05-13 15:01:02,636 - INFO - ----------------------------------------------------------------------
+2026-05-13 15:01:02,636 - INFO - 🎯 TARGET: 'Nissan NP300 2016+' | site=webuycars | maxPages=2
+2026-05-13 15:01:03,740 - INFO -    Pages    : 3–4
+2026-05-13 15:01:03,776 - INFO - [WBC] 📄 Page 3: https://www.webuycars.co.za/buy-a-car?q=%22Nissan%20NP300%22&Year_Gte=%222016%22&page=3
+2026-05-13 15:01:22,516 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/Hardbody-Np300-24i-LWB-4x4-Pick-Up-Single-Cab/AC8A05634
+2026-05-13 15:01:34,520 - INFO -    ✅ AC8A05634 | page 3
+2026-05-13 15:01:34,520 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/Hardbody-Np300-24i-Hi-Rider-Pick-Up-Double-Cab/87E707640
+2026-05-13 15:01:48,453 - INFO -    ✅ 87E707640 | page 3
+2026-05-13 15:01:48,497 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/NP200-16-A-C-Safety-Pack-Pick-Up-Single-Cab/D62806095
+2026-05-13 15:01:54,705 - INFO -    ✅ D62806095 | page 3
+2026-05-13 15:01:54,706 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/NP200-15-DCI-A-C-Safety-Pack-Pick-Up-Single-Cab/521D05783
+2026-05-13 15:02:07,892 - INFO -    ✅ 521D05783 | page 3
+2026-05-13 15:02:07,892 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/NP200-16-A-C-Safety-Pack-Pick-Up-Single-Cab/A3C314404
+2026-05-13 15:02:12,600 - INFO -    ✅ A3C314404 | page 3
+2026-05-13 15:02:12,601 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/NP200-16-A-C-Safety-Pack-Pick-Up-Single-Cab/E1F415561
+2026-05-13 15:02:16,231 - INFO -    ✅ E1F415561 | page 3
+2026-05-13 15:02:16,231 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/NP200-15-DCI-A-C-Safety-Pack-Pick-Up-Single-Cab/48BA02246
+2026-05-13 15:02:20,466 - INFO -    ✅ 48BA02246 | page 3
+2026-05-13 15:02:20,466 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/NP200-16-Pick-Up-Single-Cab/A53A09105
+2026-05-13 15:02:23,132 - INFO -    ✅ A53A09105 | page 3
+2026-05-13 15:02:23,133 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/NP200-15-DCI-A-C-Safety-Pack-Pick-Up-Single-Cab/CF4316371
+2026-05-13 15:02:27,056 - INFO -    ✅ CF4316371 | page 3
+2026-05-13 15:02:27,056 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/NP200-15-DCI-A-C-Safety-Pack-Pick-Up-Single-Cab/406301954
+2026-05-13 15:02:32,335 - INFO -    ✅ 406301954 | page 3
+2026-05-13 15:02:32,336 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/NP200-15-DCI-A-C-Safety-Pack-Pick-Up-Single-Cab/E65009953
+2026-05-13 15:02:35,079 - INFO -    ✅ E65009953 | page 3
+2026-05-13 15:02:35,079 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/NP200-16-SE-Pick-Up-Single-Cab/888C00763
+2026-05-13 15:02:37,896 - INFO -    ✅ 888C00763 | page 3
+2026-05-13 15:02:37,896 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/NP200-16-A-C-Pick-Up-Single-Cab/20DC01794
+2026-05-13 15:02:40,750 - INFO -    ✅ 20DC01794 | page 3
+2026-05-13 15:02:40,750 - INFO - [WBC] 📄 Page 4: https://www.webuycars.co.za/buy-a-car?q=%22Nissan%20NP300%22&Year_Gte=%222016%22&page=4
+2026-05-13 15:02:58,020 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/Hardbody-Np300-25-TDI-Hi-Rider-Pick-Up-Double-Cab/DADA13971
+2026-05-13 15:03:02,566 - INFO -    ✅ DADA13971 | page 4
+2026-05-13 15:03:02,566 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/NP200-16-Pick-Up-Single-Cab/DE9511412
+2026-05-13 15:03:22,348 - INFO -    ✅ DE9511412 | page 4
+2026-05-13 15:03:22,348 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/NP200-16-Pick-Up-Single-Cab/9C4B06364
+2026-05-13 15:03:25,278 - INFO -    ✅ 9C4B06364 | page 4
+2026-05-13 15:03:25,279 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/NP200-16-Pick-Up-Single-Cab/44B801917
+2026-05-13 15:03:29,341 - INFO -    ✅ 44B801917 | page 4
+2026-05-13 15:03:29,342 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/Hardbody-Np300-25-TDI-4x4-Pick-Up-Double-Cab/EF1112658
+2026-05-13 15:03:33,376 - INFO -    ✅ EF1112658 | page 4
+2026-05-13 15:03:33,377 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/NP200-16-Pick-Up-Single-Cab/EA6A00688
+2026-05-13 15:03:36,875 - INFO -    ✅ EA6A00688 | page 4
+2026-05-13 15:03:36,875 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/NP200-15-DCI-A-C-Safety-Pack-Pick-Up-Single-Cab/41CD08243
+2026-05-13 15:03:40,556 - INFO -    ✅ 41CD08243 | page 4
+2026-05-13 15:03:40,556 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/NP200-16-Pick-Up-Single-Cab/DD5506588
+2026-05-13 15:03:43,518 - INFO -    ✅ DD5506588 | page 4
+2026-05-13 15:03:43,519 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/NP200-15-DCI-A-C-Safety-Pack-Pick-Up-Single-Cab/B44406424
+2026-05-13 15:03:46,974 - INFO -    ✅ B44406424 | page 4
+2026-05-13 15:03:46,975 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/NP200-15-DCI-A-C-Safety-Pack-Pick-Up-Single-Cab/BB9A09230
+2026-05-13 15:03:49,813 - INFO -    ✅ BB9A09230 | page 4
+2026-05-13 15:03:49,814 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/NP200-15-DCI-A-C-Safety-Pack-Pick-Up-Single-Cab/610A10211
+2026-05-13 15:03:52,893 - INFO -    ✅ 610A10211 | page 4
+2026-05-13 15:03:52,894 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/Hardbody-Np300-25-TDI-Hi-Rider-Pick-Up-Double-Cab/652A00826
+2026-05-13 15:03:56,480 - INFO -    ✅ 652A00826 | page 4
+2026-05-13 15:03:56,480 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/NP200-16-A-C-Safety-Pack-Pick-Up-Single-Cab/710814003
+2026-05-13 15:04:00,291 - INFO -    ✅ 710814003 | page 4
+2026-05-13 15:04:04,573 - INFO - ✅ Saved 26 cars to Firestore.
+2026-05-13 15:04:05,005 - INFO - 📌 Progress saved: 'Nissan NP300 2016+' | lastPage=4 | exhausted=False
+2026-05-13 15:04:05,006 - INFO -    ✔ Target done | cars=26 | lastPage=4 | exhausted=False
+2026-05-13 15:04:05,006 - INFO - ----------------------------------------------------------------------
+2026-05-13 15:04:05,006 - INFO - 🎯 TARGET: 'Toyota Fortuner 2018+' | site=webuycars | maxPages=2
+2026-05-13 15:04:06,199 - INFO -    Pages    : 3–4
+2026-05-13 15:04:06,200 - INFO - [WBC] 📄 Page 3: https://www.webuycars.co.za/buy-a-car?q=%22Toyota%20Fortuner%22&Year_Gte=%222018%22&page=3
+2026-05-13 15:04:23,763 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B-Auto/769304805
+2026-05-13 15:04:27,248 - INFO -    ✅ 769304805 | page 3
+2026-05-13 15:04:27,248 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-R-B-Auto/456D12249
+2026-05-13 15:04:32,308 - INFO -    ✅ 456D12249 | page 3
+2026-05-13 15:04:32,308 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B/B38007743
+2026-05-13 15:04:36,130 - INFO -    ✅ B38007743 | page 3
+2026-05-13 15:04:36,130 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-R-B/625409470
+2026-05-13 15:04:39,083 - INFO -    ✅ 625409470 | page 3
+2026-05-13 15:04:39,084 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-Epic-Auto/991215575
+2026-05-13 15:04:42,183 - INFO -    ✅ 991215575 | page 3
+2026-05-13 15:04:42,184 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B-Auto/729506979
+2026-05-13 15:05:11,795 - INFO -    ✅ 729506979 | page 3
+2026-05-13 15:05:11,795 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B/F35212740
+2026-05-13 15:05:14,574 - INFO -    ✅ F35212740 | page 3
+2026-05-13 15:05:14,575 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-R-B-Auto/1EBF01107
+2026-05-13 15:05:18,661 - INFO -    ✅ 1EBF01107 | page 3
+2026-05-13 15:05:18,661 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B-Auto/3F3F06219
+2026-05-13 15:05:21,892 - INFO -    ✅ 3F3F06219 | page 3
+2026-05-13 15:05:21,893 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-4x4-Auto/F0EC10564
+2026-05-13 15:05:24,639 - INFO -    ✅ F0EC10564 | page 3
+2026-05-13 15:05:24,640 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B/B33413749
+2026-05-13 15:05:28,146 - INFO -    ✅ B33413749 | page 3
+2026-05-13 15:05:28,147 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B-Auto/16AF13876
+2026-05-13 15:05:30,852 - INFO -    ✅ 16AF13876 | page 3
+2026-05-13 15:05:30,853 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-4x4-Auto/1B9505834
+2026-05-13 15:05:33,624 - INFO -    ✅ 1B9505834 | page 3
+2026-05-13 15:05:33,624 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-R-B/055902229
+2026-05-13 15:05:36,277 - INFO -    ✅ 055902229 | page 3
+2026-05-13 15:05:36,277 - INFO - [WBC] 📄 Page 4: https://www.webuycars.co.za/buy-a-car?q=%22Toyota%20Fortuner%22&Year_Gte=%222018%22&page=4
+2026-05-13 15:05:57,872 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-R-B-Auto/E80B15687
+2026-05-13 15:06:03,295 - INFO -    ✅ E80B15687 | page 4
+2026-05-13 15:06:03,302 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-R-B-Auto/46C013029
+2026-05-13 15:06:09,549 - INFO -    ✅ 46C013029 | page 4
+2026-05-13 15:06:09,549 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-4x4-Epic-Auto/9F7004902
+2026-05-13 15:06:13,777 - INFO -    ✅ 9F7004902 | page 4
+2026-05-13 15:06:13,777 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B-Auto/40DF14887
+2026-05-13 15:06:16,965 - INFO -    ✅ 40DF14887 | page 4
+2026-05-13 15:06:16,965 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-R-B-Auto/E9A112820
+2026-05-13 15:06:20,318 - INFO -    ✅ E9A112820 | page 4
+2026-05-13 15:06:20,318 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28-Gd-6-4x4-VX-Auto/020B05618
+2026-05-13 15:06:23,659 - INFO -    ✅ 020B05618 | page 4
+2026-05-13 15:06:23,659 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-R-B-Auto/54B613542
+2026-05-13 15:06:26,360 - INFO -    ✅ 54B613542 | page 4
+2026-05-13 15:06:26,360 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B-Auto/2C0D09633
+2026-05-13 15:06:29,192 - INFO -    ✅ 2C0D09633 | page 4
+2026-05-13 15:06:29,193 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28-Gd-6-4x4-VX-Auto/30B700560
+2026-05-13 15:06:32,118 - INFO -    ✅ 30B700560 | page 4
+2026-05-13 15:06:32,118 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-R-B-Auto/B7D402423
+2026-05-13 15:06:34,659 - INFO -    ✅ B7D402423 | page 4
+2026-05-13 15:06:34,659 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B-Auto/A3CB09647
+2026-05-13 15:06:38,607 - INFO -    ✅ A3CB09647 | page 4
+2026-05-13 15:06:38,607 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B/D3D116114
+2026-05-13 15:06:41,394 - INFO -    ✅ D3D116114 | page 4
+2026-05-13 15:06:41,395 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-R-B-Auto/1F0B12641
+2026-05-13 15:06:45,182 - INFO -    ✅ 1F0B12641 | page 4
+2026-05-13 15:06:50,169 - INFO - ✅ Saved 27 cars to Firestore.
+2026-05-13 15:06:50,751 - INFO - 📌 Progress saved: 'Toyota Fortuner 2018+' | lastPage=4 | exhausted=False
+2026-05-13 15:06:50,751 - INFO -    ✔ Target done | cars=27 | lastPage=4 | exhausted=False
+2026-05-13 15:06:50,752 - INFO - ----------------------------------------------------------------------
+2026-05-13 15:06:50,752 - INFO - 🎯 TARGET: 'Ford Ranger Wildtrak 2018+' | site=webuycars | maxPages=2
+2026-05-13 15:06:51,800 - INFO -    Pages    : 3–4
+2026-05-13 15:06:51,801 - INFO - [WBC] 📄 Page 3: https://www.webuycars.co.za/buy-a-car?q=%22Ford%20Ranger%20Wildtrak%22&Year_Gte=%222018%22&page=3
+2026-05-13 15:07:09,661 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Ranger-32tdci-32-Wildtrak-4x4-Auto-Pick-Up-Double-Cab/CC8A02012
+2026-05-13 15:07:15,179 - INFO -    ✅ CC8A02012 | page 3
+2026-05-13 15:07:15,179 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Ranger-20d-Bi-Turbo-Wildtrak-Auto-Double-Cab-Pick-Up/1F8A16863
+2026-05-13 15:07:45,889 - INFO -    ✅ 1F8A16863 | page 3
+2026-05-13 15:07:45,890 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Ranger-20d-Bi-Turbo-Wildtrak-X-AWD-Auto-Double-Cab-Pick-Up/EE3605111
+2026-05-13 15:08:11,758 - WARNING - [WBC] ⚠️ Detail timeout for EE3605111
+2026-05-13 15:08:16,036 - INFO -    ✅ EE3605111 | page 3
+2026-05-13 15:08:16,036 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Ranger-30d-V6-Wildtrak-AWD-Auto-Double-Cab-Pick-Up/01F115882
+2026-05-13 15:08:22,965 - INFO -    ✅ 01F115882 | page 3
+2026-05-13 15:08:22,965 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Ranger-20d-Bi-Turbo-Wildtrak-X-AWD-Auto-Double-Cab-Pick-Up/52B006066
+2026-05-13 15:08:42,353 - INFO -    ✅ 52B006066 | page 3
+2026-05-13 15:08:42,353 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Ranger-20d-Bi-Turbo-Wildtrak-Auto-Pick-Up-Double-Cab/047714944
+2026-05-13 15:08:46,637 - INFO -    ✅ 047714944 | page 3
+2026-05-13 15:08:46,638 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Ranger-20d-Bi-Turbo-Wildtrak-Auto-Double-Cab-Pick-Up/511002706
+2026-05-13 15:08:50,014 - INFO -    ✅ 511002706 | page 3
+2026-05-13 15:08:50,014 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Ranger-20d-Bi-Turbo-Wildtrak-4x4-Auto-Double-Cab-Pick-Up/CCB013010
+2026-05-13 15:08:53,287 - INFO -    ✅ CCB013010 | page 3
+2026-05-13 15:08:53,288 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Ranger-20d-Bi-Turbo-Wildtrak-Auto-Double-Cab-Pick-Up/DB2601224
+2026-05-13 15:08:57,063 - INFO -    ✅ DB2601224 | page 3
+2026-05-13 15:08:57,063 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Ranger-20d-Bi-Turbo-Wildtrak-Auto-Pick-Up-Double-Cab/323714465
+2026-05-13 15:09:00,432 - INFO -    ✅ 323714465 | page 3
+2026-05-13 15:09:00,432 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Ranger-20d-Bi-Turbo-Wildtrak-4x4-Auto-Double-Cab-Pick-Up/92CC01531
+2026-05-13 15:09:03,732 - INFO -    ✅ 92CC01531 | page 3
+2026-05-13 15:09:03,732 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Ranger-20d-Bi-Turbo-Wildtrak-Auto-Double-Cab-Pick-Up/8B0A08740
+2026-05-13 15:09:12,418 - INFO -    ✅ 8B0A08740 | page 3
+2026-05-13 15:09:12,418 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Ranger-20d-Bi-Turbo-Wildtrak-4x4-Auto-Pick-Up-Double-Cab/0A2908122
+2026-05-13 15:09:15,291 - INFO -    ✅ 0A2908122 | page 3
+2026-05-13 15:09:15,292 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Ranger-20d-Bi-Turbo-Wildtrak-4x4-Auto-Pick-Up-Double-Cab/3D2804662
+2026-05-13 15:09:20,768 - INFO -    ✅ 3D2804662 | page 3
+2026-05-13 15:09:20,769 - INFO - [WBC] 📄 Page 4: https://www.webuycars.co.za/buy-a-car?q=%22Ford%20Ranger%20Wildtrak%22&Year_Gte=%222018%22&page=4
+2026-05-13 15:09:39,157 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Ranger-20d-Bi-Turbo-Wildtrak-Auto-Pick-Up-Double-Cab/456509264
+2026-05-13 15:09:47,293 - INFO -    ✅ 456509264 | page 4
+2026-05-13 15:09:47,293 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Ranger-20d-Bi-T-Wildtrak-HR-Auto-4x4-SUP-CAB-Pick-Up/AC5C06941
+2026-05-13 15:09:54,874 - INFO -    ✅ AC5C06941 | page 4
+2026-05-13 15:09:54,874 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Ranger-20d-Bi-Turbo-Wildtrak-Auto-Pick-Up-Double-Cab/BF1A06100
+2026-05-13 15:10:05,031 - INFO -    ✅ BF1A06100 | page 4
+2026-05-13 15:10:05,031 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Ranger-20d-Bi-Turbo-Wildtrak-4x4-Auto-Pick-Up-Double-Cab/CBE905067
+2026-05-13 15:10:23,395 - INFO -    ✅ CBE905067 | page 4
+2026-05-13 15:10:23,395 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Ranger-20d-Bi-Turbo-Wildtrak-X-AWD-Auto-Double-Cab-Pick-Up/BEEA02190
+2026-05-13 15:10:34,458 - INFO -    ✅ BEEA02190 | page 4
+2026-05-13 15:10:34,459 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Ranger-20d-Bi-Turbo-Wildtrak-Auto-Pick-Up-Double-Cab/2BCE09003
+2026-05-13 15:10:38,074 - INFO -    ✅ 2BCE09003 | page 4
+2026-05-13 15:10:38,098 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Ranger-32tdci-Wildtrak-Auto-Pick-Up-Double-Cab/BEFD09294
+2026-05-13 15:10:41,036 - INFO -    ✅ BEFD09294 | page 4
+2026-05-13 15:10:41,036 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Ranger-32tdci-Wildtrak-Auto-Pick-Up-Double-Cab/D28E02100
+2026-05-13 15:10:46,854 - INFO -    ✅ D28E02100 | page 4
+2026-05-13 15:10:46,854 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Ranger-32tdci-32-Wildtrak-4x4-Auto-Pick-Up-Double-Cab/D3B515561
+2026-05-13 15:10:49,529 - INFO -    ✅ D3B515561 | page 4
+2026-05-13 15:10:49,529 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Ranger-20d-Bi-Turbo-Wildtrak-Auto-Double-Cab-Pick-Up/32D209046
+2026-05-13 15:10:52,411 - INFO -    ✅ 32D209046 | page 4
+2026-05-13 15:10:52,411 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Ranger-20d-Bi-Turbo-Wildtrak-Auto-Pick-Up-Double-Cab/F53D10618
+2026-05-13 15:10:55,302 - INFO -    ✅ F53D10618 | page 4
+2026-05-13 15:10:55,302 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Ranger-20d-Bi-Turbo-Wildtrak-X-AWD-Auto-Double-Cab-Pick-Up/0F2902021
+2026-05-13 15:10:58,273 - INFO -    ✅ 0F2902021 | page 4
+2026-05-13 15:10:58,274 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Ranger-20d-Bi-Turbo-Wildtrak-4x4-Auto-Pick-Up-Double-Cab/57A815175
+2026-05-13 15:11:00,727 - INFO -    ✅ 57A815175 | page 4
+2026-05-13 15:11:27,383 - INFO - ✅ Saved 27 cars to Firestore.
+2026-05-13 15:11:27,822 - INFO - 📌 Progress saved: 'Ford Ranger Wildtrak 2018+' | lastPage=4 | exhausted=False
+2026-05-13 15:11:27,823 - INFO -    ✔ Target done | cars=27 | lastPage=4 | exhausted=False
+2026-05-13 15:11:27,824 - INFO - ----------------------------------------------------------------------
+2026-05-13 15:11:27,824 - INFO - 🎯 TARGET: 'Mercedes-Benz GLE 2018+' | site=webuycars | maxPages=2
+2026-05-13 15:11:29,127 - INFO - ⏭️  'Mercedes-Benz GLE 2018+' already exhausted — skipping.
+2026-05-13 15:11:29,148 - INFO - ⏭️  Skipping 'Mercedes-Benz GLE 2018+' (already exhausted today).
+2026-05-13 15:11:29,149 - INFO - ----------------------------------------------------------------------
+2026-05-13 15:11:29,149 - INFO - 🎯 TARGET: 'Isuzu D-Max 2018+' | site=webuycars | maxPages=3
+2026-05-13 15:11:30,449 - INFO -    Pages    : 4–6
+2026-05-13 15:11:30,450 - INFO - [WBC] 📄 Page 4: https://www.webuycars.co.za/buy-a-car?q=Isuzu%20D-Max&page=4
+2026-05-13 15:11:50,367 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-30-DDI-HR-LSE-n-r-Auto-E-cab/DBA111483
+2026-05-13 15:12:36,653 - INFO -    ✅ DBA111483 | page 4
+2026-05-13 15:12:36,653 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-19-DDI-HR-X-Rider-Auto-Double-Cab-Pick-Up/281314730
+2026-05-13 15:12:41,473 - INFO -    ✅ 281314730 | page 4
+2026-05-13 15:12:41,474 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-19-DDI-HR-LS-Auto-Double-Cab-Pick-Up/872817455
+2026-05-13 15:12:48,195 - INFO -    ✅ 872817455 | page 4
+2026-05-13 15:12:48,195 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-30ddi-Arctic-4x4-Auto-Pick-Up-Double-Cab/EDD901228
+2026-05-13 15:12:51,762 - INFO -    ✅ EDD901228 | page 4
+2026-05-13 15:12:51,762 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-19-DDI-HR-LS-Auto-E-CAB/804203838
+2026-05-13 15:12:54,797 - INFO -    ✅ 804203838 | page 4
+2026-05-13 15:12:54,797 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-19-DDI-HR-LS-E-CAB/1E2808875
+2026-05-13 15:13:03,523 - INFO -    ✅ 1E2808875 | page 4
+2026-05-13 15:13:03,523 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-19-DDI-HR-L-E-CAB/70BD05339
+2026-05-13 15:13:08,769 - INFO -    ✅ 70BD05339 | page 4
+2026-05-13 15:13:08,808 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-19-DDI-HR-LS-Double-Cab-Pick-Up/7A2013462
+2026-05-13 15:13:12,096 - INFO -    ✅ 7A2013462 | page 4
+2026-05-13 15:13:12,097 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-250-HO-X-Rider-Auto-Double-Cab-Pick-Up/769D09834
+2026-05-13 15:13:15,613 - INFO -    ✅ 769D09834 | page 4
+2026-05-13 15:13:15,613 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-250c-Single-Cab-Pick-Up/2EC407528
+2026-05-13 15:13:18,584 - INFO -    ✅ 2EC407528 | page 4
+2026-05-13 15:13:18,585 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-250c-Fleetside-Single-Cab-Pick-Up/CAD403796
+2026-05-13 15:13:21,517 - INFO -    ✅ CAD403796 | page 4
+2026-05-13 15:13:21,517 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-250-HO-Hi-Ride-Double-Cab-Pick-Up/B19516630
+2026-05-13 15:13:24,534 - INFO -    ✅ B19516630 | page 4
+2026-05-13 15:13:24,535 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-19-DDI-HR-LS-Auto-Double-Cab-Pick-Up/B55C16810
+2026-05-13 15:13:27,411 - INFO -    ✅ B55C16810 | page 4
+2026-05-13 15:13:27,414 - INFO - [WBC] 📄 Page 5: https://www.webuycars.co.za/buy-a-car?q=Isuzu%20D-Max&page=5
+2026-05-13 15:13:45,114 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-19-DDI-HR-L-Auto-Single-Cab-Pick-Up/DCB304064
+2026-05-13 15:13:53,047 - INFO -    ✅ DCB304064 | page 5
+2026-05-13 15:13:53,047 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-19-DDI-HR-L-E-CAB/3D8910206
+2026-05-13 15:14:05,163 - INFO -    ✅ 3D8910206 | page 5
+2026-05-13 15:14:05,163 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-250-HO-Fleetside-Safety-Single-Cab-Pick-Up/F19C16270
+2026-05-13 15:14:10,633 - INFO -    ✅ F19C16270 | page 5
+2026-05-13 15:14:10,633 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-19-DDI-HR-L-Single-Cab-Pick-Up/ADFF11194
+2026-05-13 15:14:13,521 - INFO -    ✅ ADFF11194 | page 5
+2026-05-13 15:14:13,521 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-19-DDI-HR-L-4x4-Single-Cab-Pick-Up/E69805369
+2026-05-13 15:14:16,702 - INFO -    ✅ E69805369 | page 5
+2026-05-13 15:14:16,702 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-19-DDI-HR-L-4x4-Single-Cab-Pick-Up/D66111189
+2026-05-13 15:14:19,718 - INFO -    ✅ D66111189 | page 5
+2026-05-13 15:14:19,718 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-250-HO-Hi-Ride-Double-Cab-Pick-Up/275E09338
+2026-05-13 15:14:23,027 - INFO -    ✅ 275E09338 | page 5
+2026-05-13 15:14:23,028 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-30-DDI-V-Cross-HR-4x4-Auto-Double-Cab-Pick-Up/C62403355
+2026-05-13 15:14:26,165 - INFO -    ✅ C62403355 | page 5
+2026-05-13 15:14:26,166 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-250c-Fleetside-Single-Cab-Pick-Up/F50703162
+2026-05-13 15:14:29,228 - INFO -    ✅ F50703162 | page 5
+2026-05-13 15:14:29,256 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-30-DDI-V-Cross-HR-4x4-Auto-Double-Cab-Pick-Up/3BF612497
+2026-05-13 15:14:32,567 - INFO -    ✅ 3BF612497 | page 5
+2026-05-13 15:14:32,567 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-250-HO-Double-Cab-Pick-Up/C78706129
+2026-05-13 15:14:35,232 - INFO -    ✅ C78706129 | page 5
+2026-05-13 15:14:35,233 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-19-DDI-HR-LS-Double-Cab-Pick-Up/88A400142
+2026-05-13 15:14:37,968 - INFO -    ✅ 88A400142 | page 5
+2026-05-13 15:14:37,969 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-250-HO-Hi-Ride-Double-Cab-Pick-Up/C33D03548
+2026-05-13 15:14:40,718 - INFO -    ✅ C33D03548 | page 5
+2026-05-13 15:14:40,718 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-19-DDI-HR-LS-Double-Cab-Pick-Up/569012893
+2026-05-13 15:14:43,089 - INFO -    ✅ 569012893 | page 5
+2026-05-13 15:14:43,089 - INFO - [WBC] 📄 Page 6: https://www.webuycars.co.za/buy-a-car?q=Isuzu%20D-Max&page=6
+2026-05-13 15:15:01,522 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-250-HO-Hi-Ride-Double-Cab-Pick-Up/198A07113
+2026-05-13 15:15:04,808 - INFO -    ✅ 198A07113 | page 6
+2026-05-13 15:15:04,808 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-19-DDI-HR-L-4x4-Single-Cab-Pick-Up/21B002783
+2026-05-13 15:15:07,855 - INFO -    ✅ 21B002783 | page 6
+2026-05-13 15:15:07,856 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-250-HO-Hi-Ride-Double-Cab-Pick-Up/83CE08487
+2026-05-13 15:15:11,145 - INFO -    ✅ 83CE08487 | page 6
+2026-05-13 15:15:11,188 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-250-HO-Hi-Ride-E-cab-Pick-Up/915B09331
+2026-05-13 15:15:15,078 - INFO -    ✅ 915B09331 | page 6
+2026-05-13 15:15:15,078 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-250-HO-Hi-Ride-E-cab-Pick-Up/310607893
+2026-05-13 15:15:19,829 - INFO -    ✅ 310607893 | page 6
+2026-05-13 15:15:19,829 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-250-HO-Hi-Ride-Double-Cab-Pick-Up/0DEB13750
+2026-05-13 15:15:22,585 - INFO -    ✅ 0DEB13750 | page 6
+2026-05-13 15:15:22,585 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-30-DDI-LSE-4x4-Auto-E-cab/12C514314
+2026-05-13 15:15:25,453 - INFO -    ✅ 12C514314 | page 6
+2026-05-13 15:15:25,454 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-250-HO-Hi-Ride-Double-Cab-Pick-Up/A1E702740
+2026-05-13 15:15:28,322 - INFO -    ✅ A1E702740 | page 6
+2026-05-13 15:15:28,322 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-19-DDI-HR-LS-Auto-Double-Cab-Pick-Up/A7D703294
+2026-05-13 15:15:31,145 - INFO -    ✅ A7D703294 | page 6
+2026-05-13 15:15:31,146 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-19-DDI-HR-LS-Auto-Double-Cab-Pick-Up/75D503297
+2026-05-13 15:15:33,885 - INFO -    ✅ 75D503297 | page 6
+2026-05-13 15:15:33,885 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-250-HO-Hi-Ride-Double-Cab-Pick-Up/C89110254
+2026-05-13 15:15:36,725 - INFO -    ✅ C89110254 | page 6
+2026-05-13 15:15:36,726 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-250-HO-X-Rider-4x4-Double-Cab-Pick-Up/0F4611758
+2026-05-13 15:15:39,456 - INFO -    ✅ 0F4611758 | page 6
+2026-05-13 15:15:39,456 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-250-HO-Hi-Ride-Double-Cab-Pick-Up/10BB12294
+2026-05-13 15:15:41,629 - INFO -    ✅ 10BB12294 | page 6
+2026-05-13 15:15:41,630 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Isuzu/D-MAX-250-HO-Fleetside-Safety-Single-Cab-Pick-Up/659004107
+2026-05-13 15:15:44,511 - INFO -    ✅ 659004107 | page 6
+2026-05-13 15:15:55,430 - INFO - ✅ Saved 41 cars to Firestore.
+2026-05-13 15:15:55,827 - INFO - 📌 Progress saved: 'Isuzu D-Max 2018+' | lastPage=6 | exhausted=False
+2026-05-13 15:15:55,827 - INFO -    ✔ Target done | cars=41 | lastPage=6 | exhausted=False
+2026-05-13 15:15:55,827 - INFO - ----------------------------------------------------------------------
+2026-05-13 15:15:55,828 - INFO - 🎯 TARGET: 'BMW X7 2019+' | site=webuycars | maxPages=2
+2026-05-13 15:15:57,005 - INFO - ⏭️  'BMW X7 2019+' already exhausted — skipping.
+2026-05-13 15:15:57,005 - INFO - ⏭️  Skipping 'BMW X7 2019+' (already exhausted today).
+2026-05-13 15:16:28,028 - INFO - ======================================================================
+2026-05-13 15:16:28,028 - INFO - 🏁 RUN FINISHED
+2026-05-13 15:16:28,029 - INFO -    Run ID     : 6ceef3fe-535f-4737-8f3f-b86e6a1ca604
+2026-05-13 15:16:28,029 - INFO -    Start      : 2026-05-13 14:52:07
+2026-05-13 15:16:28,029 - INFO -    End        : 2026-05-13 15:16:27
+2026-05-13 15:16:28,029 - INFO -    Duration   : 0:24:20
+2026-05-13 15:16:28,030 - INFO -    Cars saved : 179
+2026-05-13 15:16:28,030 - INFO -    Targets ✔  : 6
+2026-05-13 15:16:28,030 - INFO -    Targets ⏭  : 2
+2026-05-13 15:16:28,030 - INFO -    Targets ✗  : 0
+2026-05-13 15:16:28,031 - INFO -    Log file   : logs\run_2026-05-13_14-52-06.log
+2026-05-13 15:16:28,031 - INFO - ======================================================================
