@@ -1,0 +1,164 @@
+2026-05-14 14:32:47,764 - INFO - ======================================================================
+2026-05-14 14:32:47,764 - INFO - 🚦 RUN STARTED
+2026-05-14 14:32:47,766 - INFO -    Run ID   : 415b0504-a2dd-449b-9eca-2725c364a2a4
+2026-05-14 14:32:47,767 - INFO -    Start    : 2026-05-14 14:32:47
+2026-05-14 14:32:47,768 - INFO -    Log file : logs\run_2026-05-14_14-32-47.log
+2026-05-14 14:32:47,768 - INFO - ======================================================================
+2026-05-14 14:32:50,723 - INFO - 📋 Loaded 1 enabled target(s) from Firestore.
+2026-05-14 14:32:52,468 - INFO - ----------------------------------------------------------------------
+2026-05-14 14:32:52,469 - INFO - 🎯 TARGET: 'jetour' | site=webuycars | maxPages=5
+2026-05-14 14:32:52,815 - INFO -    Pages    : 1–5
+2026-05-14 14:32:52,816 - INFO - [WBC] 📄 Page 1: https://www.webuycars.co.za/buy-a-car?q=%22jetour%22
+2026-05-14 14:33:19,203 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Jetour/X70-Plus-15T-Deluxe/364910769
+2026-05-14 14:33:23,028 - INFO -    ✅ 364910769 | page 1
+2026-05-14 14:33:23,029 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Jetour/Dashing-15T-Deluxe/B0F810411
+2026-05-14 14:33:34,827 - INFO -    ✅ B0F810411 | page 1
+2026-05-14 14:33:34,828 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Jetour/Dashing-15T-Deluxe/34AB14251
+2026-05-14 14:33:45,962 - INFO -    ✅ 34AB14251 | page 1
+2026-05-14 14:33:45,962 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Jetour/Dashing-15T-Deluxe/985012678
+2026-05-14 14:33:55,516 - INFO -    ✅ 985012678 | page 1
+2026-05-14 14:33:55,516 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Jetour/Dashing-15T-Deluxe/0D0402491
+2026-05-14 14:34:04,363 - INFO -    ✅ 0D0402491 | page 1
+2026-05-14 14:34:04,363 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Jetour/T2-20T-Odyssey/139B04701
+2026-05-14 14:34:12,551 - INFO -    ✅ 139B04701 | page 1
+2026-05-14 14:34:12,551 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Jetour/Dashing-15T-Deluxe/F59413145
+2026-05-14 14:34:24,562 - INFO -    ✅ F59413145 | page 1
+2026-05-14 14:34:24,564 - INFO - [WBC] 📄 Page 2: https://www.webuycars.co.za/buy-a-car?q=%22jetour%22&page=2
+2026-05-14 14:35:21,113 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Peugeot/107---108-108-10-THP-Active/1A2E12373
+2026-05-14 14:35:26,356 - INFO -    ✅ 1A2E12373 | page 2
+2026-05-14 14:35:26,356 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/MG/Cyberster-4WD/369514534
+2026-05-14 14:35:30,025 - INFO -    ✅ 369514534 | page 2
+2026-05-14 14:35:30,025 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-Aircross-12T-Puretech-Shine-Auto/393804207
+2026-05-14 14:35:43,811 - INFO -    ✅ 393804207 | page 2
+2026-05-14 14:35:43,812 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Mustang-50-GT-Auto/3D1D09239
+2026-05-14 14:35:49,295 - INFO -    ✅ 3D1D09239 | page 2
+2026-05-14 14:35:49,295 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i10-Grand-I10-10-Motion-premium/353405740
+2026-05-14 14:35:52,391 - INFO -    ✅ 353405740 | page 2
+2026-05-14 14:35:52,391 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Mini/Mini-ONE-16/4EB313348
+2026-05-14 14:35:56,060 - INFO -    ✅ 4EB313348 | page 2
+2026-05-14 14:35:56,061 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-Aircross-12T-Puretech-Shine-Auto/526212092
+2026-05-14 14:36:01,558 - INFO -    ✅ 526212092 | page 2
+2026-05-14 14:36:01,558 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/S-Presso-10-GL/563712436
+2026-05-14 14:36:04,812 - INFO -    ✅ 563712436 | page 2
+2026-05-14 14:36:04,813 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-12-MAX-61-KW/5A3F01370
+2026-05-14 14:36:08,055 - INFO -    ✅ 5A3F01370 | page 2
+2026-05-14 14:36:08,055 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Fiat/Panda-900t-4x4/57A412018
+2026-05-14 14:36:11,602 - INFO -    ✅ 57A412018 | page 2
+2026-05-14 14:36:11,602 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Creta-15-Premium-IVT/6F1D00354
+2026-05-14 14:36:14,875 - INFO -    ✅ 6F1D00354 | page 2
+2026-05-14 14:36:14,875 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-Aircross-12T-Puretech-Shine-Auto/78DD08891
+2026-05-14 14:36:18,049 - INFO -    ✅ 78DD08891 | page 2
+2026-05-14 14:36:18,049 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-Aircross-12T-Puretech-Shine-Auto/84B412120
+2026-05-14 14:36:21,064 - INFO -    ✅ 84B412120 | page 2
+2026-05-14 14:36:21,065 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/S-Presso-10-GL/A24605614
+2026-05-14 14:36:24,669 - INFO -    ✅ A24605614 | page 2
+2026-05-14 14:36:24,669 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Celerio-10-GA/A3AD11913
+2026-05-14 14:36:27,723 - INFO -    ✅ A3AD11913 | page 2
+2026-05-14 14:36:27,724 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Figo-14-Trend/B5E402735
+2026-05-14 14:36:31,025 - INFO -    ✅ B5E402735 | page 2
+2026-05-14 14:36:31,026 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Fiat/500-12-Style-Auto/C11516864
+2026-05-14 14:36:40,593 - INFO -    ✅ C11516864 | page 2
+2026-05-14 14:36:40,594 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Atos-Atoz-11-GLS/CF7E04870
+2026-05-14 14:36:44,597 - INFO -    ✅ CF7E04870 | page 2
+2026-05-14 14:36:44,597 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i20-14-Auto/D59904359
+2026-05-14 14:36:49,085 - INFO -    ✅ D59904359 | page 2
+2026-05-14 14:36:49,085 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Atos-Atoz-11-Motion/E2B515689
+2026-05-14 14:36:52,320 - INFO -    ✅ E2B515689 | page 2
+2026-05-14 14:36:52,321 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Exter-12-Executive/E8BA11013
+2026-05-14 14:36:55,462 - INFO -    ✅ E8BA11013 | page 2
+2026-05-14 14:36:55,462 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Mercedes-Benz/E-Class-E-200/F06410942
+2026-05-14 14:36:58,674 - INFO -    ✅ F06410942 | page 2
+2026-05-14 14:36:58,674 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i10-Grand-I10-10-Motion-premium/F49314541
+2026-05-14 14:37:02,202 - INFO -    ✅ F49314541 | page 2
+2026-05-14 14:37:02,203 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Tiggo-4-PRO-Panel-Van/FDA908469
+2026-05-14 14:37:05,977 - INFO -    ✅ FDA908469 | page 2
+2026-05-14 14:37:05,977 - INFO - [WBC] 📄 Page 3: https://www.webuycars.co.za/buy-a-car?q=%22jetour%22&page=3
+2026-05-14 14:37:24,271 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Peugeot/107---108-108-10-THP-Active/1A2E12373
+2026-05-14 14:37:27,126 - INFO -    ✅ 1A2E12373 | page 3
+2026-05-14 14:37:27,126 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/MG/Cyberster-4WD/369514534
+2026-05-14 14:37:30,061 - INFO -    ✅ 369514534 | page 3
+2026-05-14 14:37:30,061 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-Aircross-12T-Puretech-Shine-Auto/393804207
+2026-05-14 14:37:33,061 - INFO -    ✅ 393804207 | page 3
+2026-05-14 14:37:33,061 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Mustang-50-GT-Auto/3D1D09239
+2026-05-14 14:37:36,578 - INFO -    ✅ 3D1D09239 | page 3
+2026-05-14 14:37:36,578 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Fiat/500-12-Style-Auto/C11516864
+2026-05-14 14:37:39,512 - INFO -    ✅ C11516864 | page 3
+2026-05-14 14:37:39,513 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Atos-Atoz-11-GLS/CF7E04870
+2026-05-14 14:37:42,554 - INFO -    ✅ CF7E04870 | page 3
+2026-05-14 14:37:42,555 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i20-14-Auto/D59904359
+2026-05-14 14:37:45,596 - INFO -    ✅ D59904359 | page 3
+2026-05-14 14:37:45,596 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Atos-Atoz-11-Motion/E2B515689
+2026-05-14 14:37:48,396 - INFO -    ✅ E2B515689 | page 3
+2026-05-14 14:37:48,397 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Exter-12-Executive/E8BA11013
+2026-05-14 14:37:51,054 - INFO -    ✅ E8BA11013 | page 3
+2026-05-14 14:37:51,054 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Mercedes-Benz/E-Class-E-200/F06410942
+2026-05-14 14:37:53,871 - INFO -    ✅ F06410942 | page 3
+2026-05-14 14:37:53,871 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i10-Grand-I10-10-Motion-premium/F49314541
+2026-05-14 14:37:56,709 - INFO -    ✅ F49314541 | page 3
+2026-05-14 14:37:56,709 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Tiggo-4-PRO-Panel-Van/FDA908469
+2026-05-14 14:37:59,461 - INFO -    ✅ FDA908469 | page 3
+2026-05-14 14:37:59,462 - INFO - [WBC] 📄 Page 4: https://www.webuycars.co.za/buy-a-car?q=%22jetour%22&page=4
+2026-05-14 14:38:16,496 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Peugeot/107---108-108-10-THP-Active/1A2E12373
+2026-05-14 14:38:20,226 - INFO -    ✅ 1A2E12373 | page 4
+2026-05-14 14:38:20,227 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/MG/Cyberster-4WD/369514534
+2026-05-14 14:38:25,822 - INFO -    ✅ 369514534 | page 4
+2026-05-14 14:38:25,823 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-Aircross-12T-Puretech-Shine-Auto/393804207
+2026-05-14 14:38:30,482 - INFO -    ✅ 393804207 | page 4
+2026-05-14 14:38:30,483 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Mustang-50-GT-Auto/3D1D09239
+2026-05-14 14:38:33,267 - INFO -    ✅ 3D1D09239 | page 4
+2026-05-14 14:38:33,267 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Fiat/500-12-Style-Auto/C11516864
+2026-05-14 14:38:36,522 - INFO -    ✅ C11516864 | page 4
+2026-05-14 14:38:36,523 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Atos-Atoz-11-GLS/CF7E04870
+2026-05-14 14:38:39,802 - INFO -    ✅ CF7E04870 | page 4
+2026-05-14 14:38:39,803 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i20-14-Auto/D59904359
+2026-05-14 14:38:42,560 - INFO -    ✅ D59904359 | page 4
+2026-05-14 14:38:42,560 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Atos-Atoz-11-Motion/E2B515689
+2026-05-14 14:38:45,370 - INFO -    ✅ E2B515689 | page 4
+2026-05-14 14:38:45,370 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Exter-12-Executive/E8BA11013
+2026-05-14 14:38:48,380 - INFO -    ✅ E8BA11013 | page 4
+2026-05-14 14:38:48,380 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Mercedes-Benz/E-Class-E-200/F06410942
+2026-05-14 14:38:51,425 - INFO -    ✅ F06410942 | page 4
+2026-05-14 14:38:51,425 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i10-Grand-I10-10-Motion-premium/F49314541
+2026-05-14 14:38:54,524 - INFO -    ✅ F49314541 | page 4
+2026-05-14 14:38:54,524 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Tiggo-4-PRO-Panel-Van/FDA908469
+2026-05-14 14:39:16,440 - INFO -    ✅ FDA908469 | page 4
+2026-05-14 14:39:16,441 - INFO - [WBC] 📄 Page 5: https://www.webuycars.co.za/buy-a-car?q=%22jetour%22&page=5
+2026-05-14 14:39:38,590 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Peugeot/107---108-108-10-THP-Active/1A2E12373
+2026-05-14 14:39:44,077 - INFO -    ✅ 1A2E12373 | page 5
+2026-05-14 14:39:44,078 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/MG/Cyberster-4WD/369514534
+2026-05-14 14:39:47,619 - INFO -    ✅ 369514534 | page 5
+2026-05-14 14:39:47,620 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-Aircross-12T-Puretech-Shine-Auto/393804207
+2026-05-14 14:39:50,810 - INFO -    ✅ 393804207 | page 5
+2026-05-14 14:39:50,810 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Mustang-50-GT-Auto/3D1D09239
+2026-05-14 14:39:53,980 - INFO -    ✅ 3D1D09239 | page 5
+2026-05-14 14:39:53,980 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Fiat/500-12-Style-Auto/C11516864
+2026-05-14 14:39:56,914 - INFO -    ✅ C11516864 | page 5
+2026-05-14 14:39:56,915 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Atos-Atoz-11-GLS/CF7E04870
+2026-05-14 14:39:59,867 - INFO -    ✅ CF7E04870 | page 5
+2026-05-14 14:39:59,868 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i20-14-Auto/D59904359
+2026-05-14 14:40:02,666 - INFO -    ✅ D59904359 | page 5
+2026-05-14 14:40:02,666 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Atos-Atoz-11-Motion/E2B515689
+2026-05-14 14:40:05,575 - INFO -    ✅ E2B515689 | page 5
+2026-05-14 14:40:05,575 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Exter-12-Executive/E8BA11013
+2026-05-14 14:40:08,538 - INFO -    ✅ E8BA11013 | page 5
+2026-05-14 14:40:08,539 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Mercedes-Benz/E-Class-E-200/F06410942
+2026-05-14 14:40:11,454 - INFO -    ✅ F06410942 | page 5
+2026-05-14 14:40:11,454 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i10-Grand-I10-10-Motion-premium/F49314541
+2026-05-14 14:40:14,308 - INFO -    ✅ F49314541 | page 5
+2026-05-14 14:40:14,308 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Tiggo-4-PRO-Panel-Van/FDA908469
+2026-05-14 14:40:17,533 - INFO -    ✅ FDA908469 | page 5
+2026-05-14 14:40:24,977 - INFO - ✅ Saved 67 car(s) to Firestore.
+2026-05-14 14:40:25,349 - INFO - 📌 Progress: 'jetour' | lastPage=5 | exhausted=False
+2026-05-14 14:40:25,350 - INFO -    ✔ Done | cars=67 | lastPage=5 | exhausted=False
+2026-05-14 14:40:31,187 - INFO - ======================================================================
+2026-05-14 14:40:31,187 - INFO - 🏁 RUN FINISHED
+2026-05-14 14:40:31,188 - INFO -    Run ID     : 415b0504-a2dd-449b-9eca-2725c364a2a4
+2026-05-14 14:40:31,190 - INFO -    Start      : 2026-05-14 14:32:47
+2026-05-14 14:40:31,191 - INFO -    End        : 2026-05-14 14:40:31
+2026-05-14 14:40:31,191 - INFO -    Duration   : 0:07:43
+2026-05-14 14:40:31,192 - INFO -    Cars saved : 67
+2026-05-14 14:40:31,193 - INFO -    Targets ✔  : 1
+2026-05-14 14:40:31,193 - INFO -    Targets ⏭  : 0
+2026-05-14 14:40:31,194 - INFO -    Targets ✗  : 0
+2026-05-14 14:40:31,195 - INFO -    Log file   : logs\run_2026-05-14_14-32-47.log
+2026-05-14 14:40:31,195 - INFO - ======================================================================

@@ -24,9 +24,9 @@ logger = logging.getLogger(__name__)
 # value = adapter class (not instance)
 
 ADAPTERS: dict[str, type[SiteAdapter]] = {
-    # "webuycars": WeBuyCarsAdapter,   # muted — working but not needed right now
+    "webuycars": WeBuyCarsAdapter,   # muted — working but not needed right now
     "carsza":      CarsDotCoZaAdapter,
-    # "autotrader":  AutoTraderAdapter,  # uncomment when implemented
+    "autotrader":  AutoTraderAdapter,  # uncomment when implemented
 }
 
 

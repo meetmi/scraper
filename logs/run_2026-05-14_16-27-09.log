@@ -1,0 +1,93 @@
+2026-05-14 16:27:09,807 - INFO - ======================================================================
+2026-05-14 16:27:09,807 - INFO - 🚦 RUN STARTED
+2026-05-14 16:27:09,808 - INFO -    Run ID   : 6a67e5e2-bf9f-498c-ac13-110299f3e415
+2026-05-14 16:27:09,808 - INFO -    Start    : 2026-05-14 16:27:09
+2026-05-14 16:27:09,808 - INFO -    Log file : logs\run_2026-05-14_16-27-09.log
+2026-05-14 16:27:09,808 - INFO - ======================================================================
+2026-05-14 16:27:12,936 - INFO - 📋 Loaded 1 enabled target(s) from Firestore.
+2026-05-14 16:27:16,110 - INFO - ----------------------------------------------------------------------
+2026-05-14 16:27:16,111 - INFO - 🎯 TARGET: 'Aston Martin' | site=autotrader | maxPages=2
+2026-05-14 16:27:16,453 - INFO -    Pages    : 1–2
+2026-05-14 16:27:16,454 - INFO - [AT] 📄 Page 1: https://www.autotrader.co.za/cars-for-sale/aston-martin
+2026-05-14 16:27:54,248 - INFO - [AT] ✔ 26 cards on page 1
+2026-05-14 16:28:01,686 - INFO - [AT] ✅ Extracted 26 cars from page 1
+2026-05-14 16:28:01,686 - INFO - [AT] 🔎 Detail: https://www.autotrader.co.za/car-for-sale/aston-martin/vantage/v8/28552439
+2026-05-14 16:28:12,162 - INFO -    ✅ 28552439 | page 1
+2026-05-14 16:28:12,163 - INFO - [AT] 🔎 Detail: https://www.autotrader.co.za/car-for-sale/aston-martin/dbs/ultimate/28552026
+2026-05-14 16:28:16,257 - INFO -    ✅ 28552026 | page 1
+2026-05-14 16:28:16,258 - INFO - [AT] 🔎 Detail: https://www.autotrader.co.za/car-for-sale/aston-martin/dbx/dbx/28530600
+2026-05-14 16:28:19,664 - INFO -    ✅ 28530600 | page 1
+2026-05-14 16:28:19,665 - INFO - [AT] 🔎 Detail: https://www.autotrader.co.za/car-for-sale/aston-martin/dbx/dbx/28530046
+2026-05-14 16:28:23,182 - INFO -    ✅ 28530046 | page 1
+2026-05-14 16:28:23,183 - INFO - [AT] 🔎 Detail: https://www.autotrader.co.za/car-for-sale/aston-martin/rapide/v12/28551971
+2026-05-14 16:28:43,116 - INFO -    ✅ 28551971 | page 1
+2026-05-14 16:28:43,116 - INFO - [AT] 🔎 Detail: https://www.autotrader.co.za/car-for-sale/aston-martin/vanquish/v12/28509075
+2026-05-14 16:28:50,568 - INFO -    ✅ 28509075 | page 1
+2026-05-14 16:28:50,568 - INFO - [AT] 🔎 Detail: https://www.autotrader.co.za/car-for-sale/aston-martin/vantage/v8/28524906
+2026-05-14 16:28:56,270 - INFO -    ✅ 28524906 | page 1
+2026-05-14 16:28:56,270 - INFO - [AT] 🔎 Detail: https://www.autotrader.co.za/car-for-sale/aston-martin/dbs/v12/28475183
+2026-05-14 16:29:02,000 - INFO -    ✅ 28475183 | page 1
+2026-05-14 16:29:02,000 - INFO - [AT] 🔎 Detail: https://www.autotrader.co.za/car-for-sale/aston-martin/db9/v12/28446944
+2026-05-14 16:29:07,477 - INFO -    ✅ 28446944 | page 1
+2026-05-14 16:29:07,478 - INFO - [AT] 🔎 Detail: https://www.autotrader.co.za/car-for-sale/aston-martin/dbs/6.0/28466611
+2026-05-14 16:29:11,338 - INFO -    ✅ 28466611 | page 1
+2026-05-14 16:29:11,339 - INFO - [AT] 🔎 Detail: https://www.autotrader.co.za/car-for-sale/aston-martin/vanquish/vanquish/28480283
+2026-05-14 16:29:15,230 - INFO -    ✅ 28480283 | page 1
+2026-05-14 16:29:15,231 - INFO - [AT] 🔎 Detail: https://www.autotrader.co.za/car-for-sale/aston-martin/db11/v8/28401253
+2026-05-14 16:29:20,003 - INFO -    ✅ 28401253 | page 1
+2026-05-14 16:29:20,005 - INFO - [AT] 🔎 Detail: https://www.autotrader.co.za/car-for-sale/aston-martin/vantage/v12/28515210
+2026-05-14 16:29:25,042 - INFO -    ✅ 28515210 | page 1
+2026-05-14 16:29:25,042 - INFO - [AT] 🔎 Detail: https://www.autotrader.co.za/car-for-sale/aston-martin/dbx/dbx/28452830
+2026-05-14 16:29:29,107 - INFO -    ✅ 28452830 | page 1
+2026-05-14 16:29:29,108 - INFO - [AT] 🔎 Detail: https://www.autotrader.co.za/car-for-sale/aston-martin/vantage/v8/28422123
+2026-05-14 16:29:35,481 - INFO -    ✅ 28422123 | page 1
+2026-05-14 16:29:35,482 - INFO - [AT] 🔎 Detail: https://www.autotrader.co.za/car-for-sale/aston-martin/dbx/dbx/28466520
+2026-05-14 16:29:57,578 - INFO -    ✅ 28466520 | page 1
+2026-05-14 16:29:57,580 - INFO - [AT] 🔎 Detail: https://www.autotrader.co.za/car-for-sale/aston-martin/dbx/dbx/28498726
+2026-05-14 16:30:06,433 - INFO -    ✅ 28498726 | page 1
+2026-05-14 16:30:06,433 - INFO - [AT] 🔎 Detail: https://www.autotrader.co.za/car-for-sale/aston-martin/dbx/dbx/28349438
+2026-05-14 16:30:29,477 - WARNING - [AT] ⚠️ Detail page slow for 28349438 — reading anyway.
+2026-05-14 16:30:31,695 - INFO -    ✅ 28349438 | page 1
+2026-05-14 16:30:31,696 - INFO - [AT] 🔎 Detail: https://www.autotrader.co.za/car-for-sale/aston-martin/vantage/v8/28512831
+2026-05-14 16:30:53,093 - WARNING - [AT] ⚠️ Detail page slow for 28512831 — reading anyway.
+2026-05-14 16:30:55,135 - INFO -    ✅ 28512831 | page 1
+2026-05-14 16:30:55,136 - INFO - [AT] 🔎 Detail: https://www.autotrader.co.za/car-for-sale/aston-martin/vanquish/v12/28336298
+2026-05-14 16:31:16,108 - WARNING - [AT] ⚠️ Detail page slow for 28336298 — reading anyway.
+2026-05-14 16:31:18,154 - INFO -    ✅ 28336298 | page 1
+2026-05-14 16:31:18,155 - INFO - [AT] 🔎 Detail: https://www.autotrader.co.za/car-for-sale/aston-martin/db9/v12/28376065
+2026-05-14 16:31:38,857 - WARNING - [AT] ⚠️ Detail page slow for 28376065 — reading anyway.
+2026-05-14 16:31:40,901 - INFO -    ✅ 28376065 | page 1
+2026-05-14 16:31:40,901 - INFO - [AT] 🔎 Detail: https://www.autotrader.co.za/car-for-sale/aston-martin/dbx/dbx/28425241
+2026-05-14 16:32:01,835 - WARNING - [AT] ⚠️ Detail page slow for 28425241 — reading anyway.
+2026-05-14 16:32:03,883 - INFO -    ✅ 28425241 | page 1
+2026-05-14 16:32:03,884 - INFO - [AT] 🔎 Detail: https://www.autotrader.co.za/car-for-sale/aston-martin/dbs/superleggera/28407821
+2026-05-14 16:32:24,385 - WARNING - [AT] ⚠️ Detail page slow for 28407821 — reading anyway.
+2026-05-14 16:32:26,435 - INFO -    ✅ 28407821 | page 1
+2026-05-14 16:32:26,435 - INFO - [AT] 🔎 Detail: https://www.autotrader.co.za/car-for-sale/aston-martin/vantage/v8/28487869
+2026-05-14 16:32:47,759 - WARNING - [AT] ⚠️ Detail page slow for 28487869 — reading anyway.
+2026-05-14 16:32:49,804 - INFO -    ✅ 28487869 | page 1
+2026-05-14 16:32:49,804 - INFO - [AT] 🔎 Detail: https://www.autotrader.co.za/car-for-sale/aston-martin/vantage/gt8/28426078
+2026-05-14 16:33:10,288 - WARNING - [AT] ⚠️ Detail page slow for 28426078 — reading anyway.
+2026-05-14 16:33:12,334 - INFO -    ✅ 28426078 | page 1
+2026-05-14 16:33:12,335 - INFO - [AT] 🔎 Detail: https://www.autotrader.co.za/car-for-sale/aston-martin/vantage/gt12/28426365
+2026-05-14 16:33:32,888 - WARNING - [AT] ⚠️ Detail page slow for 28426365 — reading anyway.
+2026-05-14 16:33:34,937 - INFO -    ✅ 28426365 | page 1
+2026-05-14 16:33:34,937 - INFO - [AT] 📄 Page 2: https://www.autotrader.co.za/cars-for-sale/aston-martin?page=2
+2026-05-14 16:34:00,582 - WARNING - [AT] ⏳ No cards within 25 s on page 2.
+2026-05-14 16:34:00,612 - INFO - [AT] 💾 HTML dumped → logs/autotrader_debug_page2.html
+2026-05-14 16:34:00,613 - INFO - 🏁 'Aston Martin' exhausted at page 2
+2026-05-14 16:34:03,920 - INFO - ✅ Saved 26 car(s) to Firestore.
+2026-05-14 16:34:04,279 - INFO - 📌 Progress: 'Aston Martin' | lastPage=1 | exhausted=True
+2026-05-14 16:34:04,280 - INFO -    ✔ Done | cars=26 | lastPage=1 | exhausted=True
+2026-05-14 16:34:10,006 - INFO - ======================================================================
+2026-05-14 16:34:10,006 - INFO - 🏁 RUN FINISHED
+2026-05-14 16:34:10,008 - INFO -    Run ID     : 6a67e5e2-bf9f-498c-ac13-110299f3e415
+2026-05-14 16:34:10,009 - INFO -    Start      : 2026-05-14 16:27:09
+2026-05-14 16:34:10,010 - INFO -    End        : 2026-05-14 16:34:10
+2026-05-14 16:34:10,010 - INFO -    Duration   : 0:07:00
+2026-05-14 16:34:10,011 - INFO -    Cars saved : 26
+2026-05-14 16:34:10,012 - INFO -    Targets ✔  : 1
+2026-05-14 16:34:10,012 - INFO -    Targets ⏭  : 0
+2026-05-14 16:34:10,013 - INFO -    Targets ✗  : 0
+2026-05-14 16:34:10,014 - INFO -    Log file   : logs\run_2026-05-14_16-27-09.log
+2026-05-14 16:34:10,014 - INFO - ======================================================================
