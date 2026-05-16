@@ -1,0 +1,119 @@
+2026-05-16 10:15:41,291 - INFO - ======================================================================
+2026-05-16 10:15:41,321 - INFO - 🚦 RUN STARTED
+2026-05-16 10:15:41,331 - INFO -    Run ID   : 9bae7324-be36-4ef0-84e5-94d46169bd43
+2026-05-16 10:15:41,332 - INFO -    Start    : 2026-05-16 10:15:41
+2026-05-16 10:15:41,332 - INFO -    Log file : logs\run_2026-05-16_10-15-40.log
+2026-05-16 10:15:41,332 - INFO - ======================================================================
+2026-05-16 10:15:44,589 - INFO - 📋 Loaded 1 enabled target(s) from Firestore.
+2026-05-16 10:15:54,950 - INFO - ----------------------------------------------------------------------
+2026-05-16 10:15:54,950 - INFO - 🎯 TARGET: 'wbc-"gwm-p-series"' | site=webuycars | maxPages=2
+2026-05-16 10:15:55,308 - INFO -    Pages    : 1–2
+2026-05-16 10:15:55,660 - INFO - [WBC] 📄 Page 1: https://www.webuycars.co.za/buy-a-car?q=%22GWM%20P-Series%22
+2026-05-16 10:16:47,073 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-LT-4x4-Auto-Double-Cab-Pick-Up/E13501539
+2026-05-16 10:16:52,430 - INFO -    ✅ E13501539 | page 1
+2026-05-16 10:16:52,430 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-SX-4x4-Auto-Double-Cab-Pick-Up/05BC01977
+2026-05-16 10:17:00,170 - INFO -    ✅ 05BC01977 | page 1
+2026-05-16 10:17:00,171 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-DLX-Double-Cab-Pick-Up/694813287
+2026-05-16 10:17:07,766 - INFO -    ✅ 694813287 | page 1
+2026-05-16 10:17:07,767 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-SX-Auto-Double-Cab-Pick-Up/C16605335
+2026-05-16 10:17:13,034 - INFO -    ✅ C16605335 | page 1
+2026-05-16 10:17:13,034 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-SX-Single-Cab-Pick-Up/D83604104
+2026-05-16 10:17:16,756 - INFO -    ✅ D83604104 | page 1
+2026-05-16 10:17:16,756 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-Ls-black-Edition-Auto-Double-Cab-Pick-Up/673E07831
+2026-05-16 10:17:20,555 - INFO -    ✅ 673E07831 | page 1
+2026-05-16 10:17:20,555 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-Ls-black-Edition-4x4-Auto-Double-Cab-Pick-Up/9BCC08526
+2026-05-16 10:17:26,892 - INFO -    ✅ 9BCC08526 | page 1
+2026-05-16 10:17:26,892 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-DLX-Double-Cab-Pick-Up/9BF607245
+2026-05-16 10:17:30,772 - INFO -    ✅ 9BF607245 | page 1
+2026-05-16 10:17:30,773 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-Ls-black-Edition-Auto-Double-Cab-Pick-Up/C28515326
+2026-05-16 10:17:33,410 - INFO -    ✅ C28515326 | page 1
+2026-05-16 10:17:33,410 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-DLX-Double-Cab-Pick-Up/F50505069
+2026-05-16 10:17:37,757 - INFO -    ✅ F50505069 | page 1
+2026-05-16 10:17:37,758 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-DLX-Double-Cab-Pick-Up/823403134
+2026-05-16 10:17:42,201 - INFO -    ✅ 823403134 | page 1
+2026-05-16 10:17:42,202 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-Ls-black-Edition-Auto-Double-Cab-Pick-Up/107B02713
+2026-05-16 10:17:45,737 - INFO -    ✅ 107B02713 | page 1
+2026-05-16 10:17:45,737 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-SX-4x4-Auto-Double-Cab-Pick-Up/AB6808226
+2026-05-16 10:17:48,821 - INFO -    ✅ AB6808226 | page 1
+2026-05-16 10:17:48,822 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-LT-Auto-Double-Cab-Pick-Up/69E200158
+2026-05-16 10:17:51,698 - INFO -    ✅ 69E200158 | page 1
+2026-05-16 10:17:51,698 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-DLX-Double-Cab-Pick-Up/5EAC13071
+2026-05-16 10:17:54,565 - INFO -    ✅ 5EAC13071 | page 1
+2026-05-16 10:17:54,565 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-Ls-black-Edition-Auto-Double-Cab-Pick-Up/9A6B11728
+2026-05-16 10:17:57,530 - INFO -    ✅ 9A6B11728 | page 1
+2026-05-16 10:17:57,530 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-LT-4x4-Auto-Double-Cab-Pick-Up/B3B416733
+2026-05-16 10:18:00,347 - INFO -    ✅ B3B416733 | page 1
+2026-05-16 10:18:00,347 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-Ls-black-Edition-Auto-Double-Cab-Pick-Up/A1FF01144
+2026-05-16 10:18:03,361 - INFO -    ✅ A1FF01144 | page 1
+2026-05-16 10:18:03,361 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-P300-24td-LS-Auto-Double-Cab-Pick-Up/6C6206672
+2026-05-16 10:18:06,232 - INFO -    ✅ 6C6206672 | page 1
+2026-05-16 10:18:06,233 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-LT-4x4-Auto-Double-Cab-Pick-Up/221E11166
+2026-05-16 10:18:08,945 - INFO -    ✅ 221E11166 | page 1
+2026-05-16 10:18:08,946 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-LT-4x4-Auto-Double-Cab-Pick-Up/351012037
+2026-05-16 10:18:12,583 - INFO -    ✅ 351012037 | page 1
+2026-05-16 10:18:12,584 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-Ls-black-Edition-Auto-Double-Cab-Pick-Up/576215696
+2026-05-16 10:18:15,483 - INFO -    ✅ 576215696 | page 1
+2026-05-16 10:18:15,483 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-Ls-black-Edition-Auto-Double-Cab-Pick-Up/473E05082
+2026-05-16 10:18:18,817 - INFO -    ✅ 473E05082 | page 1
+2026-05-16 10:18:18,818 - INFO - [WBC] 📄 Page 2: https://www.webuycars.co.za/buy-a-car?q=%22GWM%20P-Series%22&page=2
+2026-05-16 10:18:42,130 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-Ls-black-Edition-Auto-Double-Cab-Pick-Up/556912377
+2026-05-16 10:18:47,584 - INFO -    ✅ 556912377 | page 2
+2026-05-16 10:18:47,584 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-LT-4x4-Auto-Double-Cab-Pick-Up/C20610879
+2026-05-16 10:18:50,810 - INFO -    ✅ C20610879 | page 2
+2026-05-16 10:18:50,811 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-DLX-Double-Cab-Pick-Up/BFF911364
+2026-05-16 10:18:53,737 - INFO -    ✅ BFF911364 | page 2
+2026-05-16 10:18:53,738 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-LT-Auto-Double-Cab-Pick-Up/138311767
+2026-05-16 10:18:56,642 - INFO -    ✅ 138311767 | page 2
+2026-05-16 10:18:56,643 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-DLX-Double-Cab-Pick-Up/AEF210381
+2026-05-16 10:18:59,510 - INFO -    ✅ AEF210381 | page 2
+2026-05-16 10:18:59,510 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-LT-4x4-Auto-Double-Cab-Pick-Up/C24901955
+2026-05-16 10:19:02,494 - INFO -    ✅ C24901955 | page 2
+2026-05-16 10:19:02,494 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-Ls-black-Edition-Auto-Double-Cab-Pick-Up/081C15891
+2026-05-16 10:19:05,694 - INFO -    ✅ 081C15891 | page 2
+2026-05-16 10:19:05,695 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-LTD-4x4-Auto-Double-Cab-Pick-Up/E75206691
+2026-05-16 10:19:08,525 - INFO -    ✅ E75206691 | page 2
+2026-05-16 10:19:08,526 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-Ls-black-Edition-Auto-Double-Cab-Pick-Up/01BA10115
+2026-05-16 10:19:11,616 - INFO -    ✅ 01BA10115 | page 2
+2026-05-16 10:19:11,617 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-LT-Auto-Double-Cab-Pick-Up/540504441
+2026-05-16 10:19:14,647 - INFO -    ✅ 540504441 | page 2
+2026-05-16 10:19:14,648 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-LT-4x4-Auto-Double-Cab-Pick-Up/DA8D07871
+2026-05-16 10:19:18,340 - INFO -    ✅ DA8D07871 | page 2
+2026-05-16 10:19:18,340 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-LT-4x4-Auto-Double-Cab-Pick-Up/32C001488
+2026-05-16 10:19:20,678 - INFO -    ✅ 32C001488 | page 2
+2026-05-16 10:19:20,679 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-Ls-black-Edition-Auto-Double-Cab-Pick-Up/6C8116266
+2026-05-16 10:19:25,339 - INFO -    ✅ 6C8116266 | page 2
+2026-05-16 10:19:25,340 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-Ls-black-Edition-Auto-Double-Cab-Pick-Up/F1B200381
+2026-05-16 10:19:28,581 - INFO -    ✅ F1B200381 | page 2
+2026-05-16 10:19:28,581 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-Ls-black-Edition-Auto-Double-Cab-Pick-Up/D10300140
+2026-05-16 10:19:31,574 - INFO -    ✅ D10300140 | page 2
+2026-05-16 10:19:31,575 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-Ls-black-Edition-Auto-Double-Cab-Pick-Up/F5C207719
+2026-05-16 10:19:34,519 - INFO -    ✅ F5C207719 | page 2
+2026-05-16 10:19:34,520 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-Ls-black-Edition-Auto-Double-Cab-Pick-Up/598C05115
+2026-05-16 10:19:37,447 - INFO -    ✅ 598C05115 | page 2
+2026-05-16 10:19:37,447 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-Ls-black-Edition-Auto-Double-Cab-Pick-Up/D89617959
+2026-05-16 10:19:40,370 - INFO -    ✅ D89617959 | page 2
+2026-05-16 10:19:40,370 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-LT-Auto-Double-Cab-Pick-Up/5EE915031
+2026-05-16 10:19:43,220 - INFO -    ✅ 5EE915031 | page 2
+2026-05-16 10:19:43,221 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-LT-4x4-Auto-Double-Cab-Pick-Up/696712068
+2026-05-16 10:19:46,081 - INFO -    ✅ 696712068 | page 2
+2026-05-16 10:19:46,082 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-Ls-black-Edition-Auto-Double-Cab-Pick-Up/CBF613425
+2026-05-16 10:19:48,903 - INFO -    ✅ CBF613425 | page 2
+2026-05-16 10:19:48,904 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-DLX-4x4-Auto-Double-Cab-Pick-Up/8C3A14582
+2026-05-16 10:19:51,672 - INFO -    ✅ 8C3A14582 | page 2
+2026-05-16 10:19:51,673 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-20td-LT-Auto-Double-Cab-Pick-Up/B5AF03752
+2026-05-16 10:19:54,009 - INFO -    ✅ B5AF03752 | page 2
+2026-05-16 10:19:58,019 - INFO - ✅ Saved 46 car(s) to Firestore.
+2026-05-16 10:19:58,409 - INFO - 📌 Progress: 'wbc-"gwm-p-series"' | lastPage=2 | exhausted=False
+2026-05-16 10:19:58,410 - INFO -    ✔ Done | cars=46 | lastPage=2 | exhausted=False
+2026-05-16 10:20:03,985 - INFO - ======================================================================
+2026-05-16 10:20:03,985 - INFO - 🏁 RUN FINISHED
+2026-05-16 10:20:03,986 - INFO -    Run ID     : 9bae7324-be36-4ef0-84e5-94d46169bd43
+2026-05-16 10:20:03,988 - INFO -    Start      : 2026-05-16 10:15:41
+2026-05-16 10:20:03,988 - INFO -    End        : 2026-05-16 10:20:03
+2026-05-16 10:20:03,989 - INFO -    Duration   : 0:04:22
+2026-05-16 10:20:03,990 - INFO -    Cars saved : 46
+2026-05-16 10:20:03,990 - INFO -    Targets ✔  : 1
+2026-05-16 10:20:03,991 - INFO -    Targets ⏭  : 0
+2026-05-16 10:20:03,991 - INFO -    Targets ✗  : 0
+2026-05-16 10:20:03,992 - INFO -    Log file   : logs\run_2026-05-16_10-15-40.log
+2026-05-16 10:20:03,993 - INFO - ======================================================================

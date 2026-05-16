@@ -44,47 +44,86 @@ class WeBuyCarsAdapter(SiteAdapter):
         self.scroll_page()
 
         cards = self.driver.find_elements(By.CLASS_NAME, "grid-card")
+
         if not cards:
             return [], False
 
         cars = []
+
         for card in cards:
             try:
-                title    = card.find_element(By.CLASS_NAME, "description").text.strip()
-                stock_id = card.find_element(
-                    By.CSS_SELECTOR, "[data-stocknumber]"
-                ).get_attribute("data-stocknumber")
-
-                parts      = title.split()
-                make       = parts[1] if len(parts) > 1 else "Unknown"
-                model_slug = _slugify(" ".join(parts[2:]))
+                title = card.find_element(
+                    By.CLASS_NAME,
+                    "description"
+                ).text.strip()
 
                 try:
-                    self.driver.execute_script("arguments[0].scrollIntoView(true);", card)
+                    price = card.find_element(
+                        By.CSS_SELECTOR,
+                        ".price-text span"
+                    ).text.strip()
+                except Exception:
+                    price = None
+
+                price_value = (
+                    re.sub(r"[^\d]", "", price)
+                    if price else None
+                )
+
+                stock_id = card.find_element(
+                    By.CSS_SELECTOR,
+                    "[data-stocknumber]"
+                ).get_attribute("data-stocknumber")
+
+                parts = title.split()
+
+                make = parts[1] if len(parts) > 1 else "Unknown"
+
+                model_slug = _slugify(
+                    " ".join(parts[2:])
+                )
+
+                try:
+                    self.driver.execute_script(
+                        "arguments[0].scrollIntoView(true);",
+                        card
+                    )
                     time.sleep(0.3)
+
                 except Exception:
                     pass
 
                 image_urls = []
+
                 for img in card.find_elements(By.TAG_NAME, "img"):
+
                     src = (
                         img.get_attribute("src")
                         or img.get_attribute("data-src")
                         or img.get_attribute("data-lazy")
                     )
-                    if src and "photos.webuycars.co.za" in src and src not in image_urls:
+
+                    if (
+                        src
+                        and "photos.webuycars.co.za" in src
+                        and src not in image_urls
+                    ):
                         image_urls.append(src)
 
                 cars.append({
-                    "title":         title,
-                    "stock_id":      stock_id,
+                    "title": title,
+                    "stock_id": stock_id,
+                    "price": price,
+                    "priceValue": price_value,
                     "navigationUrl": (
-                        f"https://www.webuycars.co.za/buy-a-car/{make}/{model_slug}/{stock_id}"
+                        f"https://www.webuycars.co.za/buy-a-car/"
+                        f"{make}/{model_slug}/{stock_id}"
                     ),
-                    "imageUrls":     image_urls,
-                    "sourcePage":    page_number,
+                    "imageUrls": image_urls,
+                    "sourcePage": page_number,
                     "listingSource": "webuycars",
                 })
+
             except Exception as e:
                 logger.warning(f"[WBC] ⚠️ Card parse failed: {e}")
 
@@ -93,16 +132,25 @@ class WeBuyCarsAdapter(SiteAdapter):
     # ── Detail page ───────────────────────────────────────────────────────────
 
     def scrape_detail_page(self, car: dict) -> dict:
+
         url = car["navigationUrl"]
+
         logger.info(f"[WBC] 🔎 Detail: {url}")
+
         self.driver.get(url)
 
         try:
             WebDriverWait(self.driver, 10).until(
-                EC.presence_of_element_located((By.XPATH, "//div[contains(text(), 'Make:')]"))
+                EC.presence_of_element_located((
+                    By.XPATH,
+                    "//div[contains(text(), 'Make:')]"
+                ))
             )
+
         except Exception:
-            logger.warning(f"[WBC] ⚠️ Detail timeout for {car.get('stock_id')}")
+            logger.warning(
+                f"[WBC] ⚠️ Detail timeout for {car.get('stock_id')}"
+            )
 
         def gv(label):
             try:
@@ -110,24 +158,27 @@ class WeBuyCarsAdapter(SiteAdapter):
                     By.XPATH,
                     f"//div[contains(text(), '{label}')]/following-sibling::div"
                 ).text.strip()
+
             except Exception:
                 try:
                     return self.driver.find_element(
                         By.XPATH,
                         f"//*[normalize-space()='{label}']/following-sibling::*"
                     ).text.strip()
+
                 except Exception:
                     return None
 
         car.update({
-            "variant":          gv("Variant:"),
+            "variant": gv("Variant:"),
             "registrationYear": gv("Registration Year:"),
-            "mileage":          gv("Mileage:"),
-            "transmission":     gv("Transmission:"),
-            "branch":           gv("Branch:"),
-            "bodyType":         gv("Body Type:"),
-            "color":            gv("Colour:"),
-            "engineSize":       gv("Engine Capacity:"),
-            "fuelType":         gv("Fuel Type:"),
+            "mileage": gv("Mileage:"),
+            "transmission": gv("Transmission:"),
+            "branch": gv("Branch:"),
+            "bodyType": gv("Body Type:"),
+            "color": gv("Colour:"),
+            "engineSize": gv("Engine Capacity:"),
+            "fuelType": gv("Fuel Type:"),
         })
+
         return car
