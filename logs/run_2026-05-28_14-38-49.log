@@ -1,0 +1,166 @@
+2026-05-28 14:38:49,378 - INFO - ======================================================================
+2026-05-28 14:38:49,379 - INFO - 🚦 RUN STARTED
+2026-05-28 14:38:49,413 - INFO -    Run ID   : c8921135-3e01-498a-91c5-31249ca1fae8
+2026-05-28 14:38:49,413 - INFO -    Start    : 2026-05-28 14:38:49
+2026-05-28 14:38:49,414 - INFO -    Log file : logs\run_2026-05-28_14-38-49.log
+2026-05-28 14:38:49,414 - INFO - ======================================================================
+2026-05-28 14:38:51,989 - INFO - 📋 Loaded 1 enabled target(s) from Firestore.
+2026-05-28 14:39:02,372 - INFO - ----------------------------------------------------------------------
+2026-05-28 14:39:02,373 - INFO - 🎯 TARGET: 'wbc-"fortuner"' | site=webuycars | maxPages=3
+2026-05-28 14:39:02,740 - INFO -    Pages    : 1–3
+2026-05-28 14:39:02,740 - INFO - [WBC] 📄 Page 1: https://www.webuycars.co.za/buy-a-car?q=%22fortuner%22
+2026-05-28 14:39:38,213 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28-Gd-6-4x4-VX-Auto/389813802
+2026-05-28 14:41:38,212 - WARNING -    ⚠️ Detail failed for https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28-Gd-6-4x4-VX-Auto/389813802: HTTPConnectionPool(host='localhost', port=64009): Read timed out. (read timeout=120)
+2026-05-28 14:41:38,213 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-4x4-Gr-S-Auto/CB2B10753
+2026-05-28 14:42:17,259 - INFO -    ✅ CB2B10753 | page 1
+2026-05-28 14:42:17,260 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-VX-Auto/7A3013512
+2026-05-28 14:42:20,328 - INFO -    ✅ 7A3013512 | page 1
+2026-05-28 14:42:20,329 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28-Gd-6-4x4-VX-Auto/7B8E05246
+2026-05-28 14:42:23,617 - INFO -    ✅ 7B8E05246 | page 1
+2026-05-28 14:42:23,618 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-4x4-Auto/CB0E10504
+2026-05-28 14:42:26,980 - INFO -    ✅ CB0E10504 | page 1
+2026-05-28 14:42:26,980 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-4x4-Auto/1A9D06537
+2026-05-28 14:42:29,849 - INFO -    ✅ 1A9D06537 | page 1
+2026-05-28 14:42:29,849 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B-Auto/903805322
+2026-05-28 14:42:32,826 - INFO -    ✅ 903805322 | page 1
+2026-05-28 14:42:32,826 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B-Auto/F1C414564
+2026-05-28 14:42:35,755 - INFO -    ✅ F1C414564 | page 1
+2026-05-28 14:42:35,756 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B/142B09769
+2026-05-28 14:42:38,737 - INFO -    ✅ 142B09769 | page 1
+2026-05-28 14:42:38,738 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B-Auto/DEE213681
+2026-05-28 14:42:41,991 - INFO -    ✅ DEE213681 | page 1
+2026-05-28 14:42:41,992 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B-Auto/F54106705
+2026-05-28 14:42:45,873 - INFO -    ✅ F54106705 | page 1
+2026-05-28 14:42:45,874 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B-Auto/B5E211093
+2026-05-28 14:42:53,279 - INFO -    ✅ B5E211093 | page 1
+2026-05-28 14:42:53,281 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-4x4-Auto/215A15346
+2026-05-28 14:42:56,527 - INFO -    ✅ 215A15346 | page 1
+2026-05-28 14:42:56,527 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B-Auto/1EE106711
+2026-05-28 14:43:00,036 - INFO -    ✅ 1EE106711 | page 1
+2026-05-28 14:43:00,037 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-R-B-Auto/B5CA10039
+2026-05-28 14:43:03,214 - INFO -    ✅ B5CA10039 | page 1
+2026-05-28 14:43:03,215 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-R-B-Auto/629303840
+2026-05-28 14:43:07,191 - INFO -    ✅ 629303840 | page 1
+2026-05-28 14:43:07,191 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-4x4-Auto/01E606071
+2026-05-28 14:43:10,394 - INFO -    ✅ 01E606071 | page 1
+2026-05-28 14:43:10,395 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B-Auto/CECF08744
+2026-05-28 14:43:13,372 - INFO -    ✅ CECF08744 | page 1
+2026-05-28 14:43:13,372 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B-Auto/8B7400049
+2026-05-28 14:43:16,872 - INFO -    ✅ 8B7400049 | page 1
+2026-05-28 14:43:16,872 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B-Auto/65FC10114
+2026-05-28 14:43:19,775 - INFO -    ✅ 65FC10114 | page 1
+2026-05-28 14:43:19,777 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B-Auto/7A9413958
+2026-05-28 14:43:24,018 - INFO -    ✅ 7A9413958 | page 1
+2026-05-28 14:43:24,018 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B-Auto/78A615384
+2026-05-28 14:43:26,902 - INFO -    ✅ 78A615384 | page 1
+2026-05-28 14:43:26,902 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-R-B-Auto/F1B713092
+2026-05-28 14:43:29,857 - INFO -    ✅ F1B713092 | page 1
+2026-05-28 14:43:29,858 - INFO - [WBC] 📄 Page 2: https://www.webuycars.co.za/buy-a-car?q=%22fortuner%22&page=2
+2026-05-28 14:43:52,966 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-R-B-Auto/0E6B02077
+2026-05-28 14:43:56,079 - INFO -    ✅ 0E6B02077 | page 2
+2026-05-28 14:43:56,079 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B/231504873
+2026-05-28 14:43:58,580 - INFO -    ✅ 231504873 | page 2
+2026-05-28 14:43:58,581 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B-Auto/2AA815194
+2026-05-28 14:44:02,767 - INFO -    ✅ 2AA815194 | page 2
+2026-05-28 14:44:02,768 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B-Auto/380610705
+2026-05-28 14:44:06,070 - INFO -    ✅ 380610705 | page 2
+2026-05-28 14:44:06,071 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28-Gd-6-AT-mhev/F50115513
+2026-05-28 14:44:08,915 - INFO -    ✅ F50115513 | page 2
+2026-05-28 14:44:08,916 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-R-B-Auto/638515597
+2026-05-28 14:44:11,864 - INFO -    ✅ 638515597 | page 2
+2026-05-28 14:44:11,865 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B-Auto/649D03417
+2026-05-28 14:44:15,659 - INFO -    ✅ 649D03417 | page 2
+2026-05-28 14:44:15,659 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-R-B-Auto/715700493
+2026-05-28 14:44:18,557 - INFO -    ✅ 715700493 | page 2
+2026-05-28 14:44:18,557 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-R-B-Auto/9EC910166
+2026-05-28 14:44:21,455 - INFO -    ✅ 9EC910166 | page 2
+2026-05-28 14:44:21,456 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-25d-4d-RB-Auto/22DA06483
+2026-05-28 14:44:24,327 - INFO -    ✅ 22DA06483 | page 2
+2026-05-28 14:44:24,327 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-R-B-Auto/626306203
+2026-05-28 14:44:27,226 - INFO -    ✅ 626306203 | page 2
+2026-05-28 14:44:27,227 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-30d-4d-R-B/531515132
+2026-05-28 14:44:30,239 - INFO -    ✅ 531515132 | page 2
+2026-05-28 14:44:30,240 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-30d-4d-R-B-Auto/69D912459
+2026-05-28 14:44:33,027 - INFO -    ✅ 69D912459 | page 2
+2026-05-28 14:44:33,027 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B/94CA07820
+2026-05-28 14:44:36,657 - INFO -    ✅ 94CA07820 | page 2
+2026-05-28 14:44:36,657 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B-Auto/9BBA03268
+2026-05-28 14:44:39,708 - INFO -    ✅ 9BBA03268 | page 2
+2026-05-28 14:44:39,708 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B-Auto/F38F15343
+2026-05-28 14:44:42,661 - INFO -    ✅ F38F15343 | page 2
+2026-05-28 14:44:42,661 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-R-B-Auto/FC0C14815
+2026-05-28 14:44:46,665 - INFO -    ✅ FC0C14815 | page 2
+2026-05-28 14:44:46,665 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-25d-4d-RB-Auto/361707431
+2026-05-28 14:44:49,590 - INFO -    ✅ 361707431 | page 2
+2026-05-28 14:44:49,591 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-30d-4d-R-B/4C4207446
+2026-05-28 14:44:52,704 - INFO -    ✅ 4C4207446 | page 2
+2026-05-28 14:44:52,704 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-R-B-Auto/C9B604678
+2026-05-28 14:44:57,180 - INFO -    ✅ C9B604678 | page 2
+2026-05-28 14:44:57,181 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-30d-4d-R-B/DFC805867
+2026-05-28 14:45:02,550 - INFO -    ✅ DFC805867 | page 2
+2026-05-28 14:45:02,551 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-30d-4d-R-B-Auto/57A209501
+2026-05-28 14:45:08,691 - INFO -    ✅ 57A209501 | page 2
+2026-05-28 14:45:08,691 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-30d-4d-4x4/A8FF05910
+2026-05-28 14:45:12,503 - INFO -    ✅ A8FF05910 | page 2
+2026-05-28 14:45:12,504 - INFO - [WBC] 📄 Page 3: https://www.webuycars.co.za/buy-a-car?q=%22fortuner%22&page=3
+2026-05-28 14:45:35,264 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-R-B/4CBE12074
+2026-05-28 14:45:38,081 - INFO -    ✅ 4CBE12074 | page 3
+2026-05-28 14:45:38,082 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-30d-4d-4x4-Auto/A99009827
+2026-05-28 14:45:40,855 - INFO -    ✅ A99009827 | page 3
+2026-05-28 14:45:40,856 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-30d-4d-R-B-Auto/F32E15246
+2026-05-28 14:45:43,777 - INFO -    ✅ F32E15246 | page 3
+2026-05-28 14:45:43,778 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-VX-Auto/C58F01654
+2026-05-28 14:45:47,556 - INFO -    ✅ C58F01654 | page 3
+2026-05-28 14:45:47,557 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28-Gd-6-4x4-VX-Auto/749203176
+2026-05-28 14:45:50,357 - INFO -    ✅ 749203176 | page 3
+2026-05-28 14:45:50,357 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-40-V6-R-B/566E07142
+2026-05-28 14:45:53,157 - INFO -    ✅ 566E07142 | page 3
+2026-05-28 14:45:53,157 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B-Auto/5E4813468
+2026-05-28 14:45:55,922 - INFO -    ✅ 5E4813468 | page 3
+2026-05-28 14:45:55,922 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-R-B-Auto/9FC212171
+2026-05-28 14:45:58,753 - INFO -    ✅ 9FC212171 | page 3
+2026-05-28 14:45:58,754 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B-Auto/20EA07852
+2026-05-28 14:46:01,674 - INFO -    ✅ 20EA07852 | page 3
+2026-05-28 14:46:01,674 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-4x4-Auto/7B0A07533
+2026-05-28 14:46:04,460 - INFO -    ✅ 7B0A07533 | page 3
+2026-05-28 14:46:04,460 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B-Auto/7D6905893
+2026-05-28 14:46:07,338 - INFO -    ✅ 7D6905893 | page 3
+2026-05-28 14:46:07,338 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B-Auto/6E3606784
+2026-05-28 14:46:10,294 - INFO -    ✅ 6E3606784 | page 3
+2026-05-28 14:46:10,294 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B-Auto/ACB510884
+2026-05-28 14:46:13,133 - INFO -    ✅ ACB510884 | page 3
+2026-05-28 14:46:13,133 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-Epic-Auto/34D310087
+2026-05-28 14:46:16,121 - INFO -    ✅ 34D310087 | page 3
+2026-05-28 14:46:16,122 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-25d-4d-RB/AF6F14297
+2026-05-28 14:46:18,629 - INFO -    ✅ AF6F14297 | page 3
+2026-05-28 14:46:18,629 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-30d-4d-R-B-Auto/BF7B05864
+2026-05-28 14:46:22,343 - INFO -    ✅ BF7B05864 | page 3
+2026-05-28 14:46:22,343 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-R-B-Auto/456D12249
+2026-05-28 14:46:25,124 - INFO -    ✅ 456D12249 | page 3
+2026-05-28 14:46:25,124 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-40-V6-RB-Auto/F7D011231
+2026-05-28 14:46:27,851 - INFO -    ✅ F7D011231 | page 3
+2026-05-28 14:46:27,851 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-R-B-Auto/974110923
+2026-05-28 14:46:30,680 - INFO -    ✅ 974110923 | page 3
+2026-05-28 14:46:30,680 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-30d-4d-R-B-Auto/DA8306531
+2026-05-28 14:46:33,480 - INFO -    ✅ DA8306531 | page 3
+2026-05-28 14:46:33,480 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-R-B-Auto/43A611421
+2026-05-28 14:46:39,662 - INFO -    ✅ 43A611421 | page 3
+2026-05-28 14:46:39,662 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-R-B/6E3708660
+2026-05-28 14:46:42,501 - INFO -    ✅ 6E3708660 | page 3
+2026-05-28 14:46:42,502 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-VX-Auto/78F415197
+2026-05-28 14:46:45,371 - INFO -    ✅ 78F415197 | page 3
+2026-05-28 14:46:51,742 - INFO - ✅ Saved 68 car(s) to Firestore.
+2026-05-28 14:46:52,148 - INFO - 📌 Progress: 'wbc-"fortuner"' | lastPage=3 | exhausted=False
+2026-05-28 14:46:52,148 - INFO -    ✔ Done | cars=68 | lastPage=3 | exhausted=False
+2026-05-28 14:46:56,535 - INFO - ======================================================================
+2026-05-28 14:46:56,536 - INFO - 🏁 RUN FINISHED
+2026-05-28 14:46:56,537 - INFO -    Run ID     : c8921135-3e01-498a-91c5-31249ca1fae8
+2026-05-28 14:46:56,539 - INFO -    Start      : 2026-05-28 14:38:49
+2026-05-28 14:46:56,539 - INFO -    End        : 2026-05-28 14:46:56
+2026-05-28 14:46:56,540 - INFO -    Duration   : 0:08:07
+2026-05-28 14:46:56,541 - INFO -    Cars saved : 68
+2026-05-28 14:46:56,541 - INFO -    Targets ✔  : 1
+2026-05-28 14:46:56,542 - INFO -    Targets ⏭  : 0
+2026-05-28 14:46:56,543 - INFO -    Targets ✗  : 0
+2026-05-28 14:46:56,544 - INFO -    Log file   : logs\run_2026-05-28_14-38-49.log
+2026-05-28 14:46:56,544 - INFO - ======================================================================

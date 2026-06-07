@@ -1,0 +1,1037 @@
+2026-05-28 19:03:52,180 - INFO - ======================================================================
+2026-05-28 19:03:52,181 - INFO - 🚦 RUN STARTED
+2026-05-28 19:03:52,196 - INFO -    Run ID   : 6f2d2426-c69b-4721-9150-f16e0dbad33c
+2026-05-28 19:03:52,197 - INFO -    Start    : 2026-05-28 19:03:52
+2026-05-28 19:03:52,197 - INFO -    Log file : logs\run_2026-05-28_19-03-51.log
+2026-05-28 19:03:52,198 - INFO - ======================================================================
+2026-05-28 19:03:56,091 - INFO - 📋 Loaded 1 enabled target(s) from Firestore.
+2026-05-28 19:04:05,029 - INFO - ----------------------------------------------------------------------
+2026-05-28 19:04:05,030 - INFO - 🎯 TARGET: 'cars' | site=webuycars | maxPages=20
+2026-05-28 19:04:05,500 - INFO -    Pages    : 1–20
+2026-05-28 19:04:05,545 - INFO - [WBC] 📄 Page 1: https://www.webuycars.co.za/buy-a-car?Year=[2017,2026]&Year_Gte=%222017%22&BodyType=[%22Sports%20Utility%20Vehicle%20(SUV)%22,%22Hatchback%22,%22Double%20Cab%22,%22Single%20Cab%22,%22Crossover%20(SUV)%22,%22Station%20Wagon%22,%22Panel%20Van%22,%22Dropside%22,%22D/C%20%E2%80%93%20Double%20Cab%22]&InspectionCondition=[%22Certified%22,%22Ready%22]
+2026-05-28 19:04:38,933 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Swift-12-GL/176901726
+2026-05-28 19:04:48,758 - INFO -    ✅ 176901726 | page 1
+2026-05-28 19:04:48,758 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-Aircross-MAX-12T-Auto/293D08690
+2026-05-28 19:04:51,949 - INFO -    ✅ 293D08690 | page 1
+2026-05-28 19:04:51,949 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Mahindra/KUV-100-12-K2-NXT/188911498
+2026-05-28 19:04:58,981 - INFO -    ✅ 188911498 | page 1
+2026-05-28 19:04:58,982 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-Aircross-12T-Puretech-Shine-Auto/393804207
+2026-05-28 19:05:04,182 - INFO -    ✅ 393804207 | page 1
+2026-05-28 19:05:04,183 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Ignis-12-GLX-Auto/3B0F02459
+2026-05-28 19:05:07,400 - INFO -    ✅ 3B0F02459 | page 1
+2026-05-28 19:05:07,400 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kwid-10-Dynamique---ZEN---Techno-5-Door/4A2806782
+2026-05-28 19:05:11,164 - INFO -    ✅ 4A2806782 | page 1
+2026-05-28 19:05:11,164 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-12-Feel---Plus-61-KW/4A9507494
+2026-05-28 19:05:14,726 - INFO -    ✅ 4A9507494 | page 1
+2026-05-28 19:05:14,727 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-P300-20td-SX-Auto-Double-Cab-Pick-Up/4F1512908
+2026-05-28 19:05:17,841 - INFO -    ✅ 4F1512908 | page 1
+2026-05-28 19:05:17,841 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-Aircross-12T-Puretech-Shine-Auto/526212092
+2026-05-28 19:05:21,716 - INFO -    ✅ 526212092 | page 1
+2026-05-28 19:05:21,716 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/S-Presso-10-GL/563712436
+2026-05-28 19:05:26,045 - INFO -    ✅ 563712436 | page 1
+2026-05-28 19:05:27,150 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:05:27,151 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-Aircross-12T-Puretech-Shine-Auto/57FD13498
+2026-05-28 19:05:33,049 - INFO -    ✅ 57FD13498 | page 1
+2026-05-28 19:05:33,049 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Creta-15-Premium-IVT/6F1D00354
+2026-05-28 19:05:38,292 - INFO -    ✅ 6F1D00354 | page 1
+2026-05-28 19:05:38,292 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-Aircross-12T-Puretech-Shine-Auto/84B412120
+2026-05-28 19:05:42,531 - INFO -    ✅ 84B412120 | page 1
+2026-05-28 19:05:42,532 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kwid-10-Climber-5-Door/A25C12322
+2026-05-28 19:05:46,614 - INFO -    ✅ A25C12322 | page 1
+2026-05-28 19:05:46,614 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-12-Puretech-Feel-60-KW/AF6C06106
+2026-05-28 19:05:56,703 - INFO -    ✅ AF6C06106 | page 1
+2026-05-28 19:05:56,704 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-12-Feel---Plus-61-KW/AF7F09615
+2026-05-28 19:06:00,665 - INFO -    ✅ AF7F09615 | page 1
+2026-05-28 19:06:00,665 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/BMW/X2-M35i-F39/B19807971
+2026-05-28 19:06:04,445 - INFO -    ✅ B19807971 | page 1
+2026-05-28 19:06:04,446 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Atos-Atoz-11-Motion/E2B515689
+2026-05-28 19:06:09,318 - INFO -    ✅ E2B515689 | page 1
+2026-05-28 19:06:09,318 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/GWM/P-Series-P300-20td-SX-Auto-Double-Cab-Pick-Up/C96A11155
+2026-05-28 19:06:15,656 - INFO -    ✅ C96A11155 | page 1
+2026-05-28 19:06:15,656 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Fiat/500-12-Style-Auto/C11516864
+2026-05-28 19:06:20,336 - INFO -    ✅ C11516864 | page 1
+2026-05-28 19:06:21,308 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:06:21,308 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Exter-12-Executive/E8BA11013
+2026-05-28 19:06:24,766 - INFO -    ✅ E8BA11013 | page 1
+2026-05-28 19:06:24,767 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Swift-14T-Sport-Auto/E91C07799
+2026-05-28 19:06:28,073 - INFO -    ✅ E91C07799 | page 1
+2026-05-28 19:06:28,073 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/KIA/Sportage-16-CRDi-EX-Auto/09C502745
+2026-05-28 19:06:31,209 - INFO -    ✅ 09C502745 | page 1
+2026-05-28 19:06:31,209 - INFO - [WBC] 📄 Page 2: https://www.webuycars.co.za/buy-a-car?Year=[2017,2026]&Year_Gte=%222017%22&BodyType=[%22Sports%20Utility%20Vehicle%20(SUV)%22,%22Hatchback%22,%22Double%20Cab%22,%22Single%20Cab%22,%22Crossover%20(SUV)%22,%22Station%20Wagon%22,%22Panel%20Van%22,%22Dropside%22,%22D/C%20%E2%80%93%20Double%20Cab%22]&InspectionCondition=[%22Certified%22,%22Ready%22]&page=2
+2026-05-28 19:06:54,729 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kwid-10-Dynamique---ZEN---Techno-5-Door/178D09680
+2026-05-28 19:06:57,881 - INFO -    ✅ 178D09680 | page 2
+2026-05-28 19:06:57,882 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-12-Feel---Plus-61-KW/2DFD06688
+2026-05-28 19:07:00,899 - INFO -    ✅ 2DFD06688 | page 2
+2026-05-28 19:07:00,900 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-Aircross-12T-Puretech-Shine-Auto/31F610865
+2026-05-28 19:07:03,880 - INFO -    ✅ 31F610865 | page 2
+2026-05-28 19:07:03,880 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/KIA/Picanto-10-Start-Auto/35FE05870
+2026-05-28 19:07:06,842 - INFO -    ✅ 35FE05870 | page 2
+2026-05-28 19:07:06,843 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-12-Feel---Plus-61-KW/411006111
+2026-05-28 19:07:09,708 - INFO -    ✅ 411006111 | page 2
+2026-05-28 19:07:09,709 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Exter-12-Executive-AMT/72EF01797
+2026-05-28 19:07:12,574 - INFO -    ✅ 72EF01797 | page 2
+2026-05-28 19:07:12,575 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Tiggo-4-PRO-15T-Elite/73E905028
+2026-05-28 19:07:15,330 - INFO -    ✅ 73E905028 | page 2
+2026-05-28 19:07:16,418 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:07:16,419 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-12-Feel---Plus-61-KW/741A07453
+2026-05-28 19:07:19,372 - INFO -    ✅ 741A07453 | page 2
+2026-05-28 19:07:19,372 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Eeco-12-Panel-Van/91B205948
+2026-05-28 19:07:22,237 - INFO -    ✅ 91B205948 | page 2
+2026-05-28 19:07:22,237 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-Aircross-12T-Puretech-Feel-Auto/B04F10039
+2026-05-28 19:07:25,151 - INFO -    ✅ B04F10039 | page 2
+2026-05-28 19:07:25,152 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kwid-10-Dynamique-5-Door/B25211610
+2026-05-28 19:07:28,054 - INFO -    ✅ B25211610 | page 2
+2026-05-28 19:07:28,054 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Celerio-10-GL/B9DA11263
+2026-05-28 19:07:31,098 - INFO -    ✅ B9DA11263 | page 2
+2026-05-28 19:07:31,101 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/Micra-12-Active-Visia/B61610981
+2026-05-28 19:07:34,368 - INFO -    ✅ B61610981 | page 2
+2026-05-28 19:07:34,368 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-Aircross-12T-Puretech-Feel-Auto/C52C10187
+2026-05-28 19:07:37,381 - INFO -    ✅ C52C10187 | page 2
+2026-05-28 19:07:37,382 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/KIA/Picanto-12-Style/D25C16580
+2026-05-28 19:07:40,252 - INFO -    ✅ D25C16580 | page 2
+2026-05-28 19:07:40,253 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Triber-10-Prestige---Intens/DDD711159
+2026-05-28 19:07:43,151 - INFO -    ✅ DDD711159 | page 2
+2026-05-28 19:07:43,151 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/LDV/Terron-9-25d-Flagship-4x4-Auto-Double-Cab-Pick-Up/F10407020
+2026-05-28 19:07:46,017 - INFO -    ✅ F10407020 | page 2
+2026-05-28 19:07:47,040 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:07:47,041 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Honda/Brio-12-Comfort-5-Door/F16317339
+2026-05-28 19:07:49,842 - INFO -    ✅ F16317339 | page 2
+2026-05-28 19:07:49,843 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/Polo-Vivo-16-Life-TIP-5dr/F9B505855
+2026-05-28 19:07:52,711 - INFO -    ✅ F9B505855 | page 2
+2026-05-28 19:07:52,711 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-Aircross-12T-Puretech-Feel-Auto/022312165
+2026-05-28 19:07:55,502 - INFO -    ✅ 022312165 | page 2
+2026-05-28 19:07:55,502 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Prado-Vx-L-28gd-Auto/084C02561
+2026-05-28 19:07:58,418 - INFO -    ✅ 084C02561 | page 2
+2026-05-28 19:07:58,418 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-12-Feel---Plus-61-KW/199907491
+2026-05-28 19:08:01,655 - INFO -    ✅ 199907491 | page 2
+2026-05-28 19:08:01,655 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Baleno-15-GLX-Auto/1CA902907
+2026-05-28 19:08:04,759 - INFO -    ✅ 1CA902907 | page 2
+2026-05-28 19:08:04,759 - INFO - [WBC] 📄 Page 3: https://www.webuycars.co.za/buy-a-car?Year=[2017,2026]&Year_Gte=%222017%22&BodyType=[%22Sports%20Utility%20Vehicle%20(SUV)%22,%22Hatchback%22,%22Double%20Cab%22,%22Single%20Cab%22,%22Crossover%20(SUV)%22,%22Station%20Wagon%22,%22Panel%20Van%22,%22Dropside%22,%22D/C%20%E2%80%93%20Double%20Cab%22]&InspectionCondition=[%22Certified%22,%22Ready%22]&page=3
+2026-05-28 19:08:28,718 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28-Gd-6-4x4-VX-Auto/389813802
+2026-05-28 19:08:31,578 - INFO -    ✅ 389813802 | page 3
+2026-05-28 19:08:31,578 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Swift-12-GL-AMT/425212349
+2026-05-28 19:08:35,145 - INFO -    ✅ 425212349 | page 3
+2026-05-28 19:08:35,146 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kiger-10T-Intens-CVT/581506977
+2026-05-28 19:08:38,433 - INFO -    ✅ 581506977 | page 3
+2026-05-28 19:08:38,433 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Tiggo-7-16T-Prestige-DCT/4EB605802
+2026-05-28 19:08:41,533 - INFO -    ✅ 4EB605802 | page 3
+2026-05-28 19:08:42,602 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:08:42,602 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Venue-10T-Executive-DCT/632208397
+2026-05-28 19:08:45,523 - INFO -    ✅ 632208397 | page 3
+2026-05-28 19:08:45,523 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/S-Presso-10-GL/6F4408805
+2026-05-28 19:08:48,413 - INFO -    ✅ 6F4408805 | page 3
+2026-05-28 19:08:48,413 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Swift-12-GL/83FD13418
+2026-05-28 19:08:51,278 - INFO -    ✅ 83FD13418 | page 3
+2026-05-28 19:08:51,278 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Figo-15ti-VCT-Trend-5dr/9B5B01215
+2026-05-28 19:08:54,118 - INFO -    ✅ 9B5B01215 | page 3
+2026-05-28 19:08:54,119 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Fiat/500-12-Style-Auto/AC4F07429
+2026-05-28 19:08:57,298 - INFO -    ✅ AC4F07429 | page 3
+2026-05-28 19:08:57,298 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-12-Feel---Plus-61-KW/ACDD03108
+2026-05-28 19:09:00,185 - INFO -    ✅ ACDD03108 | page 3
+2026-05-28 19:09:00,185 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Exter-12-Premium-AMT/B3D808000
+2026-05-28 19:09:03,064 - INFO -    ✅ B3D808000 | page 3
+2026-05-28 19:09:03,064 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kwid-10-Climber-5-Door-AMT/C23814852
+2026-05-28 19:09:05,887 - INFO -    ✅ C23814852 | page 3
+2026-05-28 19:09:05,887 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Jetour/T1-20T-Odyssey-awd/C5C606769
+2026-05-28 19:09:09,105 - INFO -    ✅ C5C606769 | page 3
+2026-05-28 19:09:09,106 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Swift-12-GL-CVT/D6CC13167
+2026-05-28 19:09:13,265 - INFO -    ✅ D6CC13167 | page 3
+2026-05-28 19:09:14,315 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:09:14,315 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Corolla-Cross-18-XI/058D07138
+2026-05-28 19:09:17,240 - INFO -    ✅ 058D07138 | page 3
+2026-05-28 19:09:17,240 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Celerio-10-GL-AMT/064104912
+2026-05-28 19:09:20,133 - INFO -    ✅ 064104912 | page 3
+2026-05-28 19:09:20,133 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i10-Grand-I10-125-Fluid/27D703392
+2026-05-28 19:09:23,068 - INFO -    ✅ 27D703392 | page 3
+2026-05-28 19:09:23,068 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/Polo-Vivo-14-Life-5dr/2E2513207
+2026-05-28 19:09:26,055 - INFO -    ✅ 2E2513207 | page 3
+2026-05-28 19:09:26,055 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Urban-Cruiser-15-XS/43BE03306
+2026-05-28 19:09:28,927 - INFO -    ✅ 43BE03306 | page 3
+2026-05-28 19:09:28,928 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Mitsubishi/Eclipse-Cross-15T-GLS-CVT/460609791
+2026-05-28 19:09:31,864 - INFO -    ✅ 460609791 | page 3
+2026-05-28 19:09:31,865 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Atos-Atoz-11-Motion/38EC13158
+2026-05-28 19:09:34,724 - INFO -    ✅ 38EC13158 | page 3
+2026-05-28 19:09:34,724 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-12-Puretech-Feel-60-KW/556211405
+2026-05-28 19:09:37,829 - INFO -    ✅ 556211405 | page 3
+2026-05-28 19:09:37,829 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-Aircross-12T-Puretech-Feel-Auto/660E10850
+2026-05-28 19:09:40,845 - INFO -    ✅ 660E10850 | page 3
+2026-05-28 19:09:40,845 - INFO - [WBC] 📄 Page 4: https://www.webuycars.co.za/buy-a-car?Year=[2017,2026]&Year_Gte=%222017%22&BodyType=[%22Sports%20Utility%20Vehicle%20(SUV)%22,%22Hatchback%22,%22Double%20Cab%22,%22Single%20Cab%22,%22Crossover%20(SUV)%22,%22Station%20Wagon%22,%22Panel%20Van%22,%22Dropside%22,%22D/C%20%E2%80%93%20Double%20Cab%22]&InspectionCondition=[%22Certified%22,%22Ready%22]&page=4
+2026-05-28 19:10:04,288 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-12-Feel---Plus-61-KW/675411838
+2026-05-28 19:10:07,239 - INFO -    ✅ 675411838 | page 4
+2026-05-28 19:10:09,049 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:10:09,050 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/Polo-Vivo-14-5dr/664213699
+2026-05-28 19:10:12,591 - INFO -    ✅ 664213699 | page 4
+2026-05-28 19:10:12,592 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-12-Puretech-Feel-60-KW/8A6703102
+2026-05-28 19:10:18,020 - INFO -    ✅ 8A6703102 | page 4
+2026-05-28 19:10:18,020 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-Aircross-12T-Puretech-Feel-Auto/93AA08141
+2026-05-28 19:10:20,876 - INFO -    ✅ 93AA08141 | page 4
+2026-05-28 19:10:20,876 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-Aircross-12T-Puretech-Shine-Auto/A4D412369
+2026-05-28 19:10:23,696 - INFO -    ✅ A4D412369 | page 4
+2026-05-28 19:10:23,696 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kiger-10-Energy-ZEN/A5C012243
+2026-05-28 19:10:26,462 - INFO -    ✅ A5C012243 | page 4
+2026-05-28 19:10:26,462 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Lexus/RX-350-SE/AC6500427
+2026-05-28 19:10:29,336 - INFO -    ✅ AC6500427 | page 4
+2026-05-28 19:10:29,336 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Omoda/Omoda-C5-15T-Style/B9FC05076
+2026-05-28 19:10:32,864 - INFO -    ✅ B9FC05076 | page 4
+2026-05-28 19:10:32,864 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kwid-10-Climber-5-Door-AMT/BF3D13941
+2026-05-28 19:10:36,922 - INFO -    ✅ BF3D13941 | page 4
+2026-05-28 19:10:36,923 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Land/Rover-Defender-110-P635-V8-Octa-Edition-ONE-467-KW/BDDE09107
+2026-05-28 19:10:40,478 - INFO -    ✅ BDDE09107 | page 4
+2026-05-28 19:10:40,478 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Etios-15-Xs-sprint-5-Door/D0B104336
+2026-05-28 19:10:46,877 - INFO -    ✅ D0B104336 | page 4
+2026-05-28 19:10:47,848 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:10:47,849 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Atos-Atoz-11-Motion/EDB311450
+2026-05-28 19:10:51,663 - INFO -    ✅ EDB311450 | page 4
+2026-05-28 19:10:51,663 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/T-Cross-10-TSI-R-Line-DSG/F19903535
+2026-05-28 19:10:55,250 - INFO -    ✅ F19903535 | page 4
+2026-05-28 19:10:55,250 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Tiggo-4-PRO-15-LIT-CVT/F59903836
+2026-05-28 19:10:59,821 - INFO -    ✅ F59903836 | page 4
+2026-05-28 19:10:59,822 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/Micra-12-Active-Visia/F59D07638
+2026-05-28 19:11:08,470 - INFO -    ✅ F59D07638 | page 4
+2026-05-28 19:11:08,470 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kwid-10-Expression---Life---Evolution-5-Door/17A913920
+2026-05-28 19:11:13,194 - INFO -    ✅ 17A913920 | page 4
+2026-05-28 19:11:13,195 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-Aircross-12T-Puretech-Feel-Auto/1EF309612
+2026-05-28 19:11:16,068 - INFO -    ✅ 1EF309612 | page 4
+2026-05-28 19:11:16,069 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Dayun/DY3-Standard/24B807794
+2026-05-28 19:11:19,755 - INFO -    ✅ 24B807794 | page 4
+2026-05-28 19:11:19,756 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/T-Cross-10-TSI-DSG/252412496
+2026-05-28 19:11:23,202 - INFO -    ✅ 252412496 | page 4
+2026-05-28 19:11:23,202 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-Aircross-12T-Puretech-Feel-Auto/2D3510034
+2026-05-28 19:11:26,311 - INFO -    ✅ 2D3510034 | page 4
+2026-05-28 19:11:26,311 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Figo-Freestyle-15ti-VCT-Trend-5dr/3E4905189
+2026-05-28 19:11:29,516 - INFO -    ✅ 3E4905189 | page 4
+2026-05-28 19:11:30,525 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:11:30,526 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Sandero-900-T-Expression/4C1F08140
+2026-05-28 19:11:34,060 - INFO -    ✅ 4C1F08140 | page 4
+2026-05-28 19:11:34,061 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Starlet-14-XS-Auto/381608897
+2026-05-28 19:11:36,943 - INFO -    ✅ 381608897 | page 4
+2026-05-28 19:11:36,943 - INFO - [WBC] 📄 Page 5: https://www.webuycars.co.za/buy-a-car?Year=[2017,2026]&Year_Gte=%222017%22&BodyType=[%22Sports%20Utility%20Vehicle%20(SUV)%22,%22Hatchback%22,%22Double%20Cab%22,%22Single%20Cab%22,%22Crossover%20(SUV)%22,%22Station%20Wagon%22,%22Panel%20Van%22,%22Dropside%22,%22D/C%20%E2%80%93%20Double%20Cab%22]&InspectionCondition=[%22Certified%22,%22Ready%22]&page=5
+2026-05-28 19:12:00,365 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Yaris-15-XS-CVT-5-Door/51FC01994
+2026-05-28 19:12:04,392 - INFO -    ✅ 51FC01994 | page 5
+2026-05-28 19:12:04,394 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kiger-10-Energy-ZEN-AMT/415102596
+2026-05-28 19:12:08,176 - INFO -    ✅ 415102596 | page 5
+2026-05-28 19:12:08,177 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Tiggo-8-PRO-MAX-20-Tgdi-Executive-DCT/565C03647
+2026-05-28 19:12:10,983 - INFO -    ✅ 565C03647 | page 5
+2026-05-28 19:12:10,984 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/Polo-Vivo-16-Comfortline-TIP-5dr/633503939
+2026-05-28 19:12:14,318 - INFO -    ✅ 633503939 | page 5
+2026-05-28 19:12:14,318 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Yaris-13-XS-CVT-5-Door/736111369
+2026-05-28 19:12:17,193 - INFO -    ✅ 736111369 | page 5
+2026-05-28 19:12:17,193 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-Aircross-12T-Puretech-Feel-Auto/74EB07039
+2026-05-28 19:12:20,908 - INFO -    ✅ 74EB07039 | page 5
+2026-05-28 19:12:20,909 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Omoda/C9-20T-Inspire/AAC203814
+2026-05-28 19:12:26,166 - INFO -    ✅ AAC203814 | page 5
+2026-05-28 19:12:26,167 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Haval/Jolion-PRO-15T-Super-Luxury-DCT/9A0E02403
+2026-05-28 19:12:29,872 - INFO -    ✅ 9A0E02403 | page 5
+2026-05-28 19:12:30,892 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:12:30,892 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kwid-10-Dynamique---ZEN---Techno-5-Door/9B1611955
+2026-05-28 19:12:34,344 - INFO -    ✅ 9B1611955 | page 5
+2026-05-28 19:12:34,344 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/S-Presso-10-GL-AMT/DBC503740
+2026-05-28 19:12:38,115 - INFO -    ✅ DBC503740 | page 5
+2026-05-28 19:12:38,116 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/Polo-Vivo-14-5dr/F73700914
+2026-05-28 19:12:42,514 - INFO -    ✅ F73700914 | page 5
+2026-05-28 19:12:42,515 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kwid-10-Dynamique-5-Door/048609291
+2026-05-28 19:12:46,491 - INFO -    ✅ 048609291 | page 5
+2026-05-28 19:12:46,492 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Atos-Atoz-11-Fluid-Cargo-Panel-Van/19A416177
+2026-05-28 19:12:50,685 - INFO -    ✅ 19A416177 | page 5
+2026-05-28 19:12:50,685 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Tiggo-4-PRO-15-LIT/2B1A09084
+2026-05-28 19:12:56,999 - INFO -    ✅ 2B1A09084 | page 5
+2026-05-28 19:12:56,999 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-Aircross-12T-Puretech-Shine-Auto/2FC104870
+2026-05-28 19:13:00,192 - INFO -    ✅ 2FC104870 | page 5
+2026-05-28 19:13:00,192 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Mini/Cooper-C-Auto-F66/4B1B07275
+2026-05-28 19:13:03,335 - INFO -    ✅ 4B1B07275 | page 5
+2026-05-28 19:13:03,336 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Fronx-15-GL/4D0603770
+2026-05-28 19:13:06,228 - INFO -    ✅ 4D0603770 | page 5
+2026-05-28 19:13:06,229 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Fronx-15-GL-Auto/7B3103807
+2026-05-28 19:13:09,687 - INFO -    ✅ 7B3103807 | page 5
+2026-05-28 19:13:10,691 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:13:10,691 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/Polo-10-TSI-Life-DSG/7EA901634
+2026-05-28 19:13:14,630 - INFO -    ✅ 7EA901634 | page 5
+2026-05-28 19:13:14,632 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-12-Puretech-Feel-60-KW/804501432
+2026-05-28 19:13:18,347 - INFO -    ✅ 804501432 | page 5
+2026-05-28 19:13:18,347 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chevrolet/Spark-12-LS-5-Door/6E4E10777
+2026-05-28 19:13:22,167 - INFO -    ✅ 6E4E10777 | page 5
+2026-05-28 19:13:22,167 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/Juke-12T-Acenta/92BA08962
+2026-05-28 19:13:26,135 - INFO -    ✅ 92BA08962 | page 5
+2026-05-28 19:13:26,135 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-Aircross-12T-Puretech-Shine-Auto/AA5A12375
+2026-05-28 19:13:29,317 - INFO -    ✅ AA5A12375 | page 5
+2026-05-28 19:13:29,317 - INFO - [WBC] 📄 Page 6: https://www.webuycars.co.za/buy-a-car?Year=[2017,2026]&Year_Gte=%222017%22&BodyType=[%22Sports%20Utility%20Vehicle%20(SUV)%22,%22Hatchback%22,%22Double%20Cab%22,%22Single%20Cab%22,%22Crossover%20(SUV)%22,%22Station%20Wagon%22,%22Panel%20Van%22,%22Dropside%22,%22D/C%20%E2%80%93%20Double%20Cab%22]&InspectionCondition=[%22Certified%22,%22Ready%22]&page=6
+2026-05-28 19:13:52,679 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Vitz-10-XR-AMT/AC7610876
+2026-05-28 19:13:56,807 - INFO -    ✅ AC7610876 | page 6
+2026-05-28 19:13:56,808 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Celerio-10-GL-AMT/B0F113024
+2026-05-28 19:14:00,064 - INFO -    ✅ B0F113024 | page 6
+2026-05-28 19:14:00,064 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/Golf-8-20-TSI-R-DSG/B4A410863
+2026-05-28 19:14:05,032 - INFO -    ✅ B4A410863 | page 6
+2026-05-28 19:14:05,032 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i10-Grand-I10-10-Motion-premium/E0ED13659
+2026-05-28 19:14:08,237 - INFO -    ✅ E0ED13659 | page 6
+2026-05-28 19:14:08,237 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-Aircross-12T-Puretech-Feel-Auto/FFBC12341
+2026-05-28 19:14:11,680 - INFO -    ✅ FFBC12341 | page 6
+2026-05-28 19:14:12,778 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:14:12,778 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-Aircross-12T-Puretech-Shine-Auto/061610858
+2026-05-28 19:14:18,868 - INFO -    ✅ 061610858 | page 6
+2026-05-28 19:14:18,869 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-Aircross-12T-Puretech-Shine-Auto/159905584
+2026-05-28 19:14:22,334 - INFO -    ✅ 159905584 | page 6
+2026-05-28 19:14:22,336 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Haval/H1-15-VVT/064D02083
+2026-05-28 19:14:27,074 - INFO -    ✅ 064D02083 | page 6
+2026-05-28 19:14:27,075 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Mahindra/Thar-25-Crde-4x4/203E10042
+2026-05-28 19:14:33,681 - INFO -    ✅ 203E10042 | page 6
+2026-05-28 19:14:33,681 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kwid-10-Dynamique---ZEN---Techno-5-Door-AMT/300B04925
+2026-05-28 19:14:40,071 - INFO -    ✅ 300B04925 | page 6
+2026-05-28 19:14:40,071 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Fiat/Tipo-14-Life-5-Door/477A11224
+2026-05-28 19:14:43,838 - INFO -    ✅ 477A11224 | page 6
+2026-05-28 19:14:43,838 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/Polo-Vivo-16-Comfortline-TIP-5dr/58A005630
+2026-05-28 19:14:47,342 - INFO -    ✅ 58A005630 | page 6
+2026-05-28 19:14:47,343 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Tiggo-4-PRO-15-LIT-CVT/5B5913912
+2026-05-28 19:14:50,775 - INFO -    ✅ 5B5913912 | page 6
+2026-05-28 19:14:51,040 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Corolla-Cross-18-Gr-S/6BFE03216
+2026-05-28 19:14:56,328 - INFO -    ✅ 6BFE03216 | page 6
+2026-05-28 19:14:56,328 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Mini/Cooper-S-Auto-F66/AC5806575
+2026-05-28 19:15:00,478 - INFO -    ✅ AC5806575 | page 6
+2026-05-28 19:15:01,525 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:15:01,526 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Figo-15ti-VCT-Trend-Auto-5dr/C5F212474
+2026-05-28 19:15:05,902 - INFO -    ✅ C5F212474 | page 6
+2026-05-28 19:15:05,903 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-Aircross-12T-Puretech-Shine-Auto/D1C712210
+2026-05-28 19:15:08,963 - INFO -    ✅ D1C712210 | page 6
+2026-05-28 19:15:08,963 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Omoda/Omoda-C5-15-Street/D1F714857
+2026-05-28 19:15:12,472 - INFO -    ✅ D1F714857 | page 6
+2026-05-28 19:15:12,472 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/S-Presso-10-GL/D9E507100
+2026-05-28 19:15:18,650 - INFO -    ✅ D9E507100 | page 6
+2026-05-28 19:15:18,650 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Mahindra/Xuv3xo-12T-MX3/F5AF12168
+2026-05-28 19:15:22,697 - INFO -    ✅ F5AF12168 | page 6
+2026-05-28 19:15:22,698 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Mahindra/Xuv300-12T-W4/0DBC02627
+2026-05-28 19:15:27,163 - INFO -    ✅ 0DBC02627 | page 6
+2026-05-28 19:15:27,163 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Triber-10-Prestige---Intens-AMT/0E3904268
+2026-05-28 19:15:31,668 - INFO -    ✅ 0E3904268 | page 6
+2026-05-28 19:15:31,669 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Alcazar-20-Executive-Auto/0FA703522
+2026-05-28 19:15:39,316 - INFO -    ✅ 0FA703522 | page 6
+2026-05-28 19:15:39,317 - INFO - [WBC] 📄 Page 7: https://www.webuycars.co.za/buy-a-car?Year=[2017,2026]&Year_Gte=%222017%22&BodyType=[%22Sports%20Utility%20Vehicle%20(SUV)%22,%22Hatchback%22,%22Double%20Cab%22,%22Single%20Cab%22,%22Crossover%20(SUV)%22,%22Station%20Wagon%22,%22Panel%20Van%22,%22Dropside%22,%22D/C%20%E2%80%93%20Double%20Cab%22]&InspectionCondition=[%22Certified%22,%22Ready%22]&page=7
+2026-05-28 19:16:04,333 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Tiggo-4-PRO-15-LIT/164607936
+2026-05-28 19:16:13,849 - INFO -    ✅ 164607936 | page 7
+2026-05-28 19:16:13,849 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Peugeot/107---108-108-10-THP-Active/1A2E12373
+2026-05-28 19:16:17,187 - INFO -    ✅ 1A2E12373 | page 7
+2026-05-28 19:16:18,481 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:16:18,481 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/Polo-Vivo-14-5dr/0FB006484
+2026-05-28 19:16:22,788 - INFO -    ✅ 0FB006484 | page 7
+2026-05-28 19:16:22,788 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/S-Presso-10-GL-AMT/21B606454
+2026-05-28 19:16:26,416 - INFO -    ✅ 21B606454 | page 7
+2026-05-28 19:16:26,416 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kwid-10-Climber-5-Door/37E710468
+2026-05-28 19:16:30,973 - INFO -    ✅ 37E710468 | page 7
+2026-05-28 19:16:30,973 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kwid-10-Climber-5-Door/4AD411838
+2026-05-28 19:16:37,340 - INFO -    ✅ 4AD411838 | page 7
+2026-05-28 19:16:37,340 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Datsun/GO-12-MID/5E4414611
+2026-05-28 19:16:41,291 - INFO -    ✅ 5E4414611 | page 7
+2026-05-28 19:16:41,292 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/S-Presso-10-GL/444115760
+2026-05-28 19:16:44,844 - INFO -    ✅ 444115760 | page 7
+2026-05-28 19:16:44,845 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kwid-10-Expression-5-Door/51AD06707
+2026-05-28 19:16:47,907 - INFO -    ✅ 51AD06707 | page 7
+2026-05-28 19:16:47,908 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Baleno-15-GL/7CE511883
+2026-05-28 19:16:53,393 - INFO -    ✅ 7CE511883 | page 7
+2026-05-28 19:16:53,394 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Corolla-Cross-18-XI/929100416
+2026-05-28 19:16:56,392 - INFO -    ✅ 929100416 | page 7
+2026-05-28 19:16:56,392 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/Magnite-10-Acenta-AMT-br10/707309623
+2026-05-28 19:16:59,383 - INFO -    ✅ 707309623 | page 7
+2026-05-28 19:17:00,496 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:17:00,496 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kiger-10-Energy-ZEN-AMT/939007647
+2026-05-28 19:17:04,200 - INFO -    ✅ 939007647 | page 7
+2026-05-28 19:17:04,200 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/KIA/Picanto-10-LS/C35B14772
+2026-05-28 19:17:07,699 - INFO -    ✅ C35B14772 | page 7
+2026-05-28 19:17:07,700 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Opel/Crossland-12T-Edition-Auto/D76110824
+2026-05-28 19:17:12,331 - INFO -    ✅ D76110824 | page 7
+2026-05-28 19:17:12,331 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Swift-12-GL/E73E11586
+2026-05-28 19:17:16,289 - INFO -    ✅ E73E11586 | page 7
+2026-05-28 19:17:16,289 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/KIA/Sonet-15-EX-CVT/F49309891
+2026-05-28 19:17:20,831 - INFO -    ✅ F49309891 | page 7
+2026-05-28 19:17:20,832 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Datsun/GO-12-MID/EC9E13748
+2026-05-28 19:17:23,841 - INFO -    ✅ EC9E13748 | page 7
+2026-05-28 19:17:23,842 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/KIA/Picanto-10-Smart/096311918
+2026-05-28 19:17:27,410 - INFO -    ✅ 096311918 | page 7
+2026-05-28 19:17:27,410 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Tiggo-7-PRO-15T-Distinction-CVT/0F1108264
+2026-05-28 19:17:30,677 - INFO -    ✅ 0F1108264 | page 7
+2026-05-28 19:17:30,678 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/KIA/Picanto-12-X-Line-Auto/223F08717
+2026-05-28 19:17:34,371 - INFO -    ✅ 223F08717 | page 7
+2026-05-28 19:17:34,372 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Omoda-C5-15T-Luxury/2D9F10792
+2026-05-28 19:17:38,075 - INFO -    ✅ 2D9F10792 | page 7
+2026-05-28 19:17:39,811 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:17:39,813 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-Aircross-12T-Puretech-Feel-Auto/35D412357
+2026-05-28 19:17:44,230 - INFO -    ✅ 35D412357 | page 7
+2026-05-28 19:17:44,230 - INFO - [WBC] 📄 Page 8: https://www.webuycars.co.za/buy-a-car?Year=[2017,2026]&Year_Gte=%222017%22&BodyType=[%22Sports%20Utility%20Vehicle%20(SUV)%22,%22Hatchback%22,%22Double%20Cab%22,%22Single%20Cab%22,%22Crossover%20(SUV)%22,%22Station%20Wagon%22,%22Panel%20Van%22,%22Dropside%22,%22D/C%20%E2%80%93%20Double%20Cab%22]&InspectionCondition=[%22Certified%22,%22Ready%22]&page=8
+2026-05-28 19:18:10,838 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i10-Grand-I10-125-Fluid-Auto/3B8115517
+2026-05-28 19:18:15,326 - INFO -    ✅ 3B8115517 | page 8
+2026-05-28 19:18:15,327 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Agya-10-Auto/474809378
+2026-05-28 19:18:18,408 - INFO -    ✅ 474809378 | page 8
+2026-05-28 19:18:18,409 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Mahindra/TUV-Tuv300-15td-7-Seat/525C16459
+2026-05-28 19:18:21,289 - INFO -    ✅ 525C16459 | page 8
+2026-05-28 19:18:21,290 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i10-Grand-I10-10-Motion-premium/4CD508700
+2026-05-28 19:18:24,594 - INFO -    ✅ 4CD508700 | page 8
+2026-05-28 19:18:24,595 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Fronx-15-GLX-Auto/58D504106
+2026-05-28 19:18:28,023 - INFO -    ✅ 58D504106 | page 8
+2026-05-28 19:18:28,034 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Haval/Jolion-15T-City-Plus-DCT/627002869
+2026-05-28 19:18:31,292 - INFO -    ✅ 627002869 | page 8
+2026-05-28 19:18:31,292 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/S-Presso-10-GL/689005935
+2026-05-28 19:18:34,732 - INFO -    ✅ 689005935 | page 8
+2026-05-28 19:18:34,732 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/Magnite-10T-Acenta-Plus-CVT/6F1103062
+2026-05-28 19:18:37,940 - INFO -    ✅ 6F1103062 | page 8
+2026-05-28 19:18:37,941 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/NP200-16-Pick-Up-Single-Cab/7DC414585
+2026-05-28 19:18:41,184 - INFO -    ✅ 7DC414585 | page 8
+2026-05-28 19:18:42,335 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:18:42,336 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Honda/Brio-12-Comfort-5-Door/997705922
+2026-05-28 19:18:45,823 - INFO -    ✅ 997705922 | page 8
+2026-05-28 19:18:45,824 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Honda/WR-V-12-Comfort/A7E804592
+2026-05-28 19:18:50,319 - INFO -    ✅ A7E804592 | page 8
+2026-05-28 19:18:50,320 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kwid-10-Dynamique---ZEN---Techno-5-Door/BA3006364
+2026-05-28 19:18:54,048 - INFO -    ✅ BA3006364 | page 8
+2026-05-28 19:18:54,048 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Triber-10-Express-III-Panel-Van/B56A07257
+2026-05-28 19:18:57,291 - INFO -    ✅ B56A07257 | page 8
+2026-05-28 19:18:57,291 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Tiggo-4-PRO-15-LIT-CVT/BE7016095
+2026-05-28 19:19:00,399 - INFO -    ✅ BE7016095 | page 8
+2026-05-28 19:19:00,399 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Peugeot/3008-16T-Active-Auto/E59416517
+2026-05-28 19:19:03,393 - INFO -    ✅ E59416517 | page 8
+2026-05-28 19:19:03,393 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i10-Grand-I10-10-Motion-Auto/2DBC13181
+2026-05-28 19:19:06,521 - INFO -    ✅ 2DBC13181 | page 8
+2026-05-28 19:19:06,521 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/Polo-Vivo-14-Xpress-5-Door/42C202921
+2026-05-28 19:19:10,219 - INFO -    ✅ 42C202921 | page 8
+2026-05-28 19:19:10,220 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Figo-15-Titanium-5dr/463F05853
+2026-05-28 19:19:13,256 - INFO -    ✅ 463F05853 | page 8
+2026-05-28 19:19:13,257 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Triber-10-Prestige---Intens-AMT/4EC611662
+2026-05-28 19:19:16,522 - INFO -    ✅ 4EC611662 | page 8
+2026-05-28 19:19:17,464 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:19:17,464 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i10-Grand-I10-10-Motion/546203801
+2026-05-28 19:19:20,733 - INFO -    ✅ 546203801 | page 8
+2026-05-28 19:19:20,733 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Peugeot/208-12-Active/6C0405463
+2026-05-28 19:19:24,419 - INFO -    ✅ 6C0405463 | page 8
+2026-05-28 19:19:24,420 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Fiat/500-900t-Cult/738711137
+2026-05-28 19:19:28,536 - INFO -    ✅ 738711137 | page 8
+2026-05-28 19:19:28,537 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/Polo-Vivo-14-Life-5dr/75EF08235
+2026-05-28 19:19:31,873 - INFO -    ✅ 75EF08235 | page 8
+2026-05-28 19:19:31,874 - INFO - [WBC] 📄 Page 9: https://www.webuycars.co.za/buy-a-car?Year=[2017,2026]&Year_Gte=%222017%22&BodyType=[%22Sports%20Utility%20Vehicle%20(SUV)%22,%22Hatchback%22,%22Double%20Cab%22,%22Single%20Cab%22,%22Crossover%20(SUV)%22,%22Station%20Wagon%22,%22Panel%20Van%22,%22Dropside%22,%22D/C%20%E2%80%93%20Double%20Cab%22]&InspectionCondition=[%22Certified%22,%22Ready%22]&page=9
+2026-05-28 19:19:57,906 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Tiggo-4-PRO-15-LIT/82B005799
+2026-05-28 19:20:01,993 - INFO -    ✅ 82B005799 | page 9
+2026-05-28 19:20:01,993 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Haval/H1-15-VVT/8F2005747
+2026-05-28 19:20:08,303 - INFO -    ✅ 8F2005747 | page 9
+2026-05-28 19:20:08,303 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Fronx-15-GL-Auto/836411452
+2026-05-28 19:20:12,059 - INFO -    ✅ 836411452 | page 9
+2026-05-28 19:20:12,059 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Omoda/Omoda-C5-15-Street/A63C14089
+2026-05-28 19:20:15,266 - INFO -    ✅ A63C14089 | page 9
+2026-05-28 19:20:15,266 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kiger-10T-Intens/A7BC10758
+2026-05-28 19:20:19,053 - INFO -    ✅ A7BC10758 | page 9
+2026-05-28 19:20:19,054 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Ecosport-10-EcoBoost-Active-Auto/B95D08071
+2026-05-28 19:20:22,658 - INFO -    ✅ B95D08071 | page 9
+2026-05-28 19:20:23,724 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:20:23,725 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Haval/Jolion-15T-Premium-DCT/C95003237
+2026-05-28 19:20:27,306 - INFO -    ✅ C95003237 | page 9
+2026-05-28 19:20:27,306 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Triber-10-Prestige---Intens/C4ED10471
+2026-05-28 19:20:30,975 - INFO -    ✅ C4ED10471 | page 9
+2026-05-28 19:20:30,976 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/MG/MG-HS-HS-15T-Comfort-Auto/CEA504743
+2026-05-28 19:20:35,669 - INFO -    ✅ CEA504743 | page 9
+2026-05-28 19:20:35,669 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Clio-IV-900-T-Dynamique-5-Door-66-KW/D5B912222
+2026-05-28 19:20:38,540 - INFO -    ✅ D5B912222 | page 9
+2026-05-28 19:20:38,542 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-4x4-Gr-S-Auto/CB2B10753
+2026-05-28 19:20:42,725 - INFO -    ✅ CB2B10753 | page 9
+2026-05-28 19:20:42,726 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Swift-12-GLX/E60512619
+2026-05-28 19:20:46,286 - INFO -    ✅ E60512619 | page 9
+2026-05-28 19:20:46,286 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/KIA/Seltos-15d-LX-Auto/E70200440
+2026-05-28 19:20:49,827 - INFO -    ✅ E70200440 | page 9
+2026-05-28 19:20:49,828 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Proton/X50-15T-Luxury/E90408761
+2026-05-28 19:20:53,203 - INFO -    ✅ E90408761 | page 9
+2026-05-28 19:20:53,203 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Agya-10-Auto/0BA309547
+2026-05-28 19:20:57,939 - INFO -    ✅ 0BA309547 | page 9
+2026-05-28 19:20:57,940 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Haval/H6-20T-Luxury-DCT/17A314280
+2026-05-28 19:21:00,915 - INFO -    ✅ 17A314280 | page 9
+2026-05-28 19:21:01,992 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:21:01,992 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Jetour/Dashing-15T-Deluxe/34AB14251
+2026-05-28 19:21:05,310 - INFO -    ✅ 34AB14251 | page 9
+2026-05-28 19:21:05,310 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Swift-12-GL/528A12094
+2026-05-28 19:21:08,547 - INFO -    ✅ 528A12094 | page 9
+2026-05-28 19:21:08,548 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kiger-10-Energy-ZEN/5C7808885
+2026-05-28 19:21:11,802 - INFO -    ✅ 5C7808885 | page 9
+2026-05-28 19:21:11,802 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Tiggo-Cross-Tiggo-4-Cross-15T-Comfort-DCT/6D1F10918
+2026-05-28 19:21:15,707 - INFO -    ✅ 6D1F10918 | page 9
+2026-05-28 19:21:15,708 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/S-Presso-10-GL/6F6409670
+2026-05-28 19:21:18,902 - INFO -    ✅ 6F6409670 | page 9
+2026-05-28 19:21:18,902 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-12-Feel---Plus-61-KW/7C5906153
+2026-05-28 19:21:22,119 - INFO -    ✅ 7C5906153 | page 9
+2026-05-28 19:21:22,120 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Swift-12-GL/7E6604296
+2026-05-28 19:21:25,389 - INFO -    ✅ 7E6604296 | page 9
+2026-05-28 19:21:25,389 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Jeep/Grand-Cherokee-L-36l-Limited/930615375
+2026-05-28 19:21:28,632 - INFO -    ✅ 930615375 | page 9
+2026-05-28 19:21:28,632 - INFO - [WBC] 📄 Page 10: https://www.webuycars.co.za/buy-a-car?Year=[2017,2026]&Year_Gte=%222017%22&BodyType=[%22Sports%20Utility%20Vehicle%20(SUV)%22,%22Hatchback%22,%22Double%20Cab%22,%22Single%20Cab%22,%22Crossover%20(SUV)%22,%22Station%20Wagon%22,%22Panel%20Van%22,%22Dropside%22,%22D/C%20%E2%80%93%20Double%20Cab%22]&InspectionCondition=[%22Certified%22,%22Ready%22]&page=10
+2026-05-28 19:21:53,735 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/Polo-10-TSI-Life/9C1304563
+2026-05-28 19:21:57,268 - INFO -    ✅ 9C1304563 | page 10
+2026-05-28 19:21:57,268 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/Polo-Vivo-16-Life-TIP-5dr/9F0B04170
+2026-05-28 19:22:00,892 - INFO -    ✅ 9F0B04170 | page 10
+2026-05-28 19:22:01,971 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:22:01,972 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Tiggo-4-PRO-15-LIT-CVT/B60E10438
+2026-05-28 19:22:05,267 - INFO -    ✅ B60E10438 | page 10
+2026-05-28 19:22:05,267 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Datsun/GO-12-LUX-CVT/C05802692
+2026-05-28 19:22:08,512 - INFO -    ✅ C05802692 | page 10
+2026-05-28 19:22:08,512 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/Magnite-10-Acenta-AMT-br10/EB8E11953
+2026-05-28 19:22:11,883 - INFO -    ✅ EB8E11953 | page 10
+2026-05-28 19:22:11,883 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Fronx-15-GLX/F9EB01373
+2026-05-28 19:22:15,206 - INFO -    ✅ F9EB01373 | page 10
+2026-05-28 19:22:15,206 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Tiggo-4-PRO-15-LIT/03F209793
+2026-05-28 19:22:18,640 - INFO -    ✅ 03F209793 | page 10
+2026-05-28 19:22:18,641 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Atos-Atoz-11-Motion/0CD503281
+2026-05-28 19:22:22,032 - INFO -    ✅ 0CD503281 | page 10
+2026-05-28 19:22:22,032 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i10-Grand-I10-10-Motion-premium/2F3E11534
+2026-05-28 19:22:25,284 - INFO -    ✅ 2F3E11534 | page 10
+2026-05-28 19:22:25,284 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Aygo-10-5dr/3CE606761
+2026-05-28 19:22:28,690 - INFO -    ✅ 3CE606761 | page 10
+2026-05-28 19:22:28,690 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Triber-10-Prestige---Intens-AMT/37EA12554
+2026-05-28 19:22:32,058 - INFO -    ✅ 37EA12554 | page 10
+2026-05-28 19:22:32,066 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kiger-10T-Intens-CVT/445905991
+2026-05-28 19:22:36,036 - INFO -    ✅ 445905991 | page 10
+2026-05-28 19:22:37,047 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:22:37,047 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Duster-15-DCI-Intens-EDC/61B205952
+2026-05-28 19:22:40,646 - INFO -    ✅ 61B205952 | page 10
+2026-05-28 19:22:40,646 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/Polo-Vivo-14-Comfortline-5dr/71B008852
+2026-05-28 19:22:44,249 - INFO -    ✅ 71B008852 | page 10
+2026-05-28 19:22:44,250 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Haval/H2-15T-City/618213499
+2026-05-28 19:22:48,205 - INFO -    ✅ 618213499 | page 10
+2026-05-28 19:22:48,207 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i10-Grand-I10-10-Motion-Auto/79A803454
+2026-05-28 19:22:52,544 - INFO -    ✅ 79A803454 | page 10
+2026-05-28 19:22:52,545 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Etios-Cross-15-XS-5-Door/7F5B05089
+2026-05-28 19:22:55,662 - INFO -    ✅ 7F5B05089 | page 10
+2026-05-28 19:22:55,662 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Urban-Cruiser-15-XS-Auto/9F8104701
+2026-05-28 19:22:59,247 - INFO -    ✅ 9F8104701 | page 10
+2026-05-28 19:22:59,248 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i10-Grand-I10-125-Fluid-Auto/9A4614178
+2026-05-28 19:23:02,739 - INFO -    ✅ 9A4614178 | page 10
+2026-05-28 19:23:02,740 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Swift-12-GL/A2EE02684
+2026-05-28 19:23:06,417 - INFO -    ✅ A2EE02684 | page 10
+2026-05-28 19:23:06,417 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Tiggo-8-PRO-16-Tgdi-Executive-Plus-DCT/AE0B07021
+2026-05-28 19:23:10,094 - INFO -    ✅ AE0B07021 | page 10
+2026-05-28 19:23:10,095 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Starlet-15-XR-Auto/B9CA02140
+2026-05-28 19:23:13,721 - INFO -    ✅ B9CA02140 | page 10
+2026-05-28 19:23:14,913 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:23:14,913 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Haval/H6-GT-20T-Super-Luxury-4x4-DCT/E36613399
+2026-05-28 19:23:18,479 - INFO -    ✅ E36613399 | page 10
+2026-05-28 19:23:18,479 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Audi/Q8-45TDI-quattro-tiptronic-Platinum-Edition/054C02671
+2026-05-28 19:23:22,053 - INFO -    ✅ 054C02671 | page 10
+2026-05-28 19:23:22,054 - INFO - [WBC] 📄 Page 11: https://www.webuycars.co.za/buy-a-car?Year=[2017,2026]&Year_Gte=%222017%22&BodyType=[%22Sports%20Utility%20Vehicle%20(SUV)%22,%22Hatchback%22,%22Double%20Cab%22,%22Single%20Cab%22,%22Crossover%20(SUV)%22,%22Station%20Wagon%22,%22Panel%20Van%22,%22Dropside%22,%22D/C%20%E2%80%93%20Double%20Cab%22]&InspectionCondition=[%22Certified%22,%22Ready%22]&page=11
+2026-05-28 19:23:48,833 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Clio-IV-900-T-Dynamique-5-Door-66-KW/144A05611
+2026-05-28 19:23:54,940 - INFO -    ✅ 144A05611 | page 11
+2026-05-28 19:23:54,941 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Honda/WR-V-12-Comfort/1B7806503
+2026-05-28 19:23:59,347 - INFO -    ✅ 1B7806503 | page 11
+2026-05-28 19:23:59,347 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kiger-10T-Intens/1A7609953
+2026-05-28 19:24:04,855 - INFO -    ✅ 1A7609953 | page 11
+2026-05-28 19:24:04,855 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Atos-Atoz-11-Motion/47E912510
+2026-05-28 19:24:08,722 - INFO -    ✅ 47E912510 | page 11
+2026-05-28 19:24:08,723 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Starlet-15-XS/693D14994
+2026-05-28 19:24:12,837 - INFO -    ✅ 693D14994 | page 11
+2026-05-28 19:24:12,838 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Haval/H6-20T-Luxury-DCT/8AEA02053
+2026-05-28 19:24:17,041 - INFO -    ✅ 8AEA02053 | page 11
+2026-05-28 19:24:17,042 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Mazda/CX-3-20-Individual-Auto/9F2507380
+2026-05-28 19:24:21,248 - INFO -    ✅ 9F2507380 | page 11
+2026-05-28 19:24:21,249 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kwid-10-Climber-5-Door-AMT/8B9A13275
+2026-05-28 19:24:25,295 - INFO -    ✅ 8B9A13275 | page 11
+2026-05-28 19:24:26,445 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:24:26,445 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Corolla-12T-XR-CVT-5dr/A75914965
+2026-05-28 19:24:31,168 - INFO -    ✅ A75914965 | page 11
+2026-05-28 19:24:31,169 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Swift-12-GL-AMT/ABE407304
+2026-05-28 19:24:36,422 - INFO -    ✅ ABE407304 | page 11
+2026-05-28 19:24:36,422 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Atos-Atoz-11-Motion/B0EF10472
+2026-05-28 19:24:40,691 - INFO -    ✅ B0EF10472 | page 11
+2026-05-28 19:24:40,692 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Starlet-15-XR/B46704937
+2026-05-28 19:24:44,506 - INFO -    ✅ B46704937 | page 11
+2026-05-28 19:24:44,506 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Fiat/Panda-900t-Lounge/B93F10007
+2026-05-28 19:24:48,311 - INFO -    ✅ B93F10007 | page 11
+2026-05-28 19:24:48,312 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Venue-10-Tgdi-Motion/BE9402251
+2026-05-28 19:24:53,382 - INFO -    ✅ BE9402251 | page 11
+2026-05-28 19:24:53,383 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/KIA/Seltos-14T-DCT-Gt-Line/E9A412406
+2026-05-28 19:24:58,182 - INFO -    ✅ E9A412406 | page 11
+2026-05-28 19:24:58,182 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/Magnite-10T-Acenta/035114160
+2026-05-28 19:25:02,857 - INFO -    ✅ 035114160 | page 11
+2026-05-28 19:25:02,857 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Tiggo-4-PRO-15T-LIT-DCT/10FD09467
+2026-05-28 19:25:09,197 - INFO -    ✅ 10FD09467 | page 11
+2026-05-28 19:25:09,198 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Baic/X55-15T-Premium-Auto/135E15603
+2026-05-28 19:25:14,141 - INFO -    ✅ 135E15603 | page 11
+2026-05-28 19:25:15,255 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:25:15,255 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Exter-12-Premium-AMT/299F06852
+2026-05-28 19:25:19,547 - INFO -    ✅ 299F06852 | page 11
+2026-05-28 19:25:19,547 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Omoda/Omoda-C5-15-Street/5D2411941
+2026-05-28 19:25:23,325 - INFO -    ✅ 5D2411941 | page 11
+2026-05-28 19:25:23,326 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Swift-12-GL/682500912
+2026-05-28 19:25:27,753 - INFO -    ✅ 682500912 | page 11
+2026-05-28 19:25:27,754 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/Tiguan-20-TDI-Life-4M-DSG/63B013543
+2026-05-28 19:25:31,527 - INFO -    ✅ 63B013543 | page 11
+2026-05-28 19:25:31,527 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Starlet-15-XS-Auto/6FA904523
+2026-05-28 19:25:35,343 - INFO -    ✅ 6FA904523 | page 11
+2026-05-28 19:25:35,343 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Jimny-15-GLX-Auto-5-Door/7BA610993
+2026-05-28 19:25:39,340 - INFO -    ✅ 7BA610993 | page 11
+2026-05-28 19:25:39,341 - INFO - [WBC] 📄 Page 12: https://www.webuycars.co.za/buy-a-car?Year=[2017,2026]&Year_Gte=%222017%22&BodyType=[%22Sports%20Utility%20Vehicle%20(SUV)%22,%22Hatchback%22,%22Double%20Cab%22,%22Single%20Cab%22,%22Crossover%20(SUV)%22,%22Station%20Wagon%22,%22Panel%20Van%22,%22Dropside%22,%22D/C%20%E2%80%93%20Double%20Cab%22]&InspectionCondition=[%22Certified%22,%22Ready%22]&page=12
+2026-05-28 19:26:08,336 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kwid-10-Dynamique---ZEN---Techno-5-Door/8A6402338
+2026-05-28 19:26:12,500 - INFO -    ✅ 8A6402338 | page 12
+2026-05-28 19:26:12,502 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-Aircross-12T-Puretech-Feel-Auto/A03612339
+2026-05-28 19:26:16,486 - INFO -    ✅ A03612339 | page 12
+2026-05-28 19:26:16,486 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i10-Grand-I10-10-Motion-premium/A90310863
+2026-05-28 19:26:20,839 - INFO -    ✅ A90310863 | page 12
+2026-05-28 19:26:20,840 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kwid-10-Climber-5-Door/A95502764
+2026-05-28 19:26:24,126 - INFO -    ✅ A95502764 | page 12
+2026-05-28 19:26:25,136 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:26:25,136 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Fronx-15-GL/CC7D02939
+2026-05-28 19:26:28,592 - INFO -    ✅ CC7D02939 | page 12
+2026-05-28 19:26:28,593 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Mini/Cooper-Auto/E20F06032
+2026-05-28 19:26:32,511 - INFO -    ✅ E20F06032 | page 12
+2026-05-28 19:26:32,511 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/BMW/X3-xDrive-20D-M-Sport-G45/E62305879
+2026-05-28 19:26:36,022 - INFO -    ✅ E62305879 | page 12
+2026-05-28 19:26:36,022 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-Aircross-12T-Puretech-Feel-Auto/F87C10857
+2026-05-28 19:26:39,473 - INFO -    ✅ F87C10857 | page 12
+2026-05-28 19:26:39,474 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Ecosport-15tivct-Ambiente/F74A02889
+2026-05-28 19:26:43,146 - INFO -    ✅ F74A02889 | page 12
+2026-05-28 19:26:43,146 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Land/Rover-Defender-110-D350-HSE-X-Dynamic/1B6506016
+2026-05-28 19:26:46,298 - INFO -    ✅ 1B6506016 | page 12
+2026-05-28 19:26:46,298 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/Polo-Vivo-14-Life-5dr/1DBB09441
+2026-05-28 19:26:50,223 - INFO -    ✅ 1DBB09441 | page 12
+2026-05-28 19:26:50,223 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Jaecoo/J5-15T-Vortex/0CA011779
+2026-05-28 19:26:54,089 - INFO -    ✅ 0CA011779 | page 12
+2026-05-28 19:26:54,089 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Tiggo-7-PRO-MAX-16T-Executive-4x4-DCT/25BB07737
+2026-05-28 19:26:57,708 - INFO -    ✅ 25BB07737 | page 12
+2026-05-28 19:26:57,708 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Tiggo-4-PRO-15T-LIT-DCT/284A00372
+2026-05-28 19:27:01,495 - INFO -    ✅ 284A00372 | page 12
+2026-05-28 19:27:02,514 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:27:02,514 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/Polo-Vivo-16-Life-TIP-5dr/2F7F09010
+2026-05-28 19:27:06,024 - INFO -    ✅ 2F7F09010 | page 12
+2026-05-28 19:27:06,024 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Everest-20d-Bi-Turbo-XLT-Auto/363008935
+2026-05-28 19:27:09,804 - INFO -    ✅ 363008935 | page 12
+2026-05-28 19:27:09,805 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Land/Rover-Evoque-20d-SE-R-Dynamic-147-KW-D200/67CD06372
+2026-05-28 19:27:14,124 - INFO -    ✅ 67CD06372 | page 12
+2026-05-28 19:27:14,124 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/Micra-900t-Acenta-Plus/804E16727
+2026-05-28 19:27:18,008 - INFO -    ✅ 804E16727 | page 12
+2026-05-28 19:27:18,009 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Honda/WR-V-12-Elegance/8AED07154
+2026-05-28 19:27:21,633 - INFO -    ✅ 8AED07154 | page 12
+2026-05-28 19:27:21,634 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i10-Grand-I10-10-Fluid/76C812342
+2026-05-28 19:27:25,074 - INFO -    ✅ 76C812342 | page 12
+2026-05-28 19:27:25,074 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Swift-12-GL-AMT/B66814651
+2026-05-28 19:27:28,825 - INFO -    ✅ B66814651 | page 12
+2026-05-28 19:27:28,826 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/Polo-10-TSI/CADD13934
+2026-05-28 19:27:31,900 - INFO -    ✅ CADD13934 | page 12
+2026-05-28 19:27:31,901 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Venue-12-Motion/BEE408807
+2026-05-28 19:27:34,900 - INFO -    ✅ BEE408807 | page 12
+2026-05-28 19:27:34,901 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Swift-12-GL/C63509521
+2026-05-28 19:27:37,907 - INFO -    ✅ C63509521 | page 12
+2026-05-28 19:27:38,861 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:27:38,862 - INFO - [WBC] 📄 Page 13: https://www.webuycars.co.za/buy-a-car?Year=[2017,2026]&Year_Gte=%222017%22&BodyType=[%22Sports%20Utility%20Vehicle%20(SUV)%22,%22Hatchback%22,%22Double%20Cab%22,%22Single%20Cab%22,%22Crossover%20(SUV)%22,%22Station%20Wagon%22,%22Panel%20Van%22,%22Dropside%22,%22D/C%20%E2%80%93%20Double%20Cab%22]&InspectionCondition=[%22Certified%22,%22Ready%22]&page=13
+2026-05-28 19:28:04,565 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/T-Cross-10-TSI-Life-DSG/D33A13442
+2026-05-28 19:28:09,137 - INFO -    ✅ D33A13442 | page 13
+2026-05-28 19:28:09,140 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kwid-10-Climber-5-Door/E51A08914
+2026-05-28 19:28:12,940 - INFO -    ✅ E51A08914 | page 13
+2026-05-28 19:28:12,940 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kwid-10-Climber-5-Door/EE2D11213
+2026-05-28 19:28:16,788 - INFO -    ✅ EE2D11213 | page 13
+2026-05-28 19:28:16,789 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Honda/Elevate-15-Comfort/FC4814694
+2026-05-28 19:28:20,453 - INFO -    ✅ FC4814694 | page 13
+2026-05-28 19:28:20,454 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Venue-12-Motion/FD7810220
+2026-05-28 19:28:24,137 - INFO -    ✅ FD7810220 | page 13
+2026-05-28 19:28:24,138 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Swift-14T-Sport/102E09934
+2026-05-28 19:28:27,880 - INFO -    ✅ 102E09934 | page 13
+2026-05-28 19:28:27,881 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Fiat/500-900t-Club-Auto/274211215
+2026-05-28 19:28:31,642 - INFO -    ✅ 274211215 | page 13
+2026-05-28 19:28:31,643 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kwid-10-Expression---Life---Evolution-5-Door/347A10766
+2026-05-28 19:28:35,514 - INFO -    ✅ 347A10766 | page 13
+2026-05-28 19:28:35,514 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Jimny-15-GLX-Auto/396B01092
+2026-05-28 19:28:39,281 - INFO -    ✅ 396B01092 | page 13
+2026-05-28 19:28:39,281 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Starlet-Cross-15xr/460E07596
+2026-05-28 19:28:42,931 - INFO -    ✅ 460E07596 | page 13
+2026-05-28 19:28:44,004 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:28:44,005 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i20-14-Premium-Auto/4F4D07116
+2026-05-28 19:28:47,437 - INFO -    ✅ 4F4D07116 | page 13
+2026-05-28 19:28:47,438 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Haval/H2-Jolion-15T-Luxury/731516813
+2026-05-28 19:28:50,778 - INFO -    ✅ 731516813 | page 13
+2026-05-28 19:28:50,779 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Tiggo-4-PRO-15T-LIT-DCT/5EAD00669
+2026-05-28 19:28:54,031 - INFO -    ✅ 5EAD00669 | page 13
+2026-05-28 19:28:54,032 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28gd-6-VX-Auto/7A3013512
+2026-05-28 19:28:57,391 - INFO -    ✅ 7A3013512 | page 13
+2026-05-28 19:28:57,391 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-12-Puretech-Feel-60-KW/6E3603098
+2026-05-28 19:29:00,667 - INFO -    ✅ 6E3603098 | page 13
+2026-05-28 19:29:00,668 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i10-Grand-I10-10-Motion/71D308229
+2026-05-28 19:29:03,769 - INFO -    ✅ 71D308229 | page 13
+2026-05-28 19:29:03,769 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Palisade-22d-Elite-AWD-Auto-7-Seat/82C114949
+2026-05-28 19:29:07,212 - INFO -    ✅ 82C114949 | page 13
+2026-05-28 19:29:07,213 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Swift-12-GLX/93ED07751
+2026-05-28 19:29:10,664 - INFO -    ✅ 93ED07751 | page 13
+2026-05-28 19:29:10,665 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Venue-12-Motion/A1B506174
+2026-05-28 19:29:16,854 - INFO -    ✅ A1B506174 | page 13
+2026-05-28 19:29:16,854 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i10-Grand-I10-10-Motion-premium/AF8504556
+2026-05-28 19:29:21,377 - INFO -    ✅ AF8504556 | page 13
+2026-05-28 19:29:22,319 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:29:22,320 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/KIA/Picanto-10-Street-Auto/B2A112159
+2026-05-28 19:29:25,871 - INFO -    ✅ B2A112159 | page 13
+2026-05-28 19:29:25,872 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i10-Grand-I10-10-Motion-premium/CE4709545
+2026-05-28 19:29:29,414 - INFO -    ✅ CE4709545 | page 13
+2026-05-28 19:29:29,415 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Fronx-15-GLX-Auto/041F15123
+2026-05-28 19:29:33,213 - INFO -    ✅ 041F15123 | page 13
+2026-05-28 19:29:33,214 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/Golf-14-TSI-Life-Tiptronic-110-KW/1F8B15525
+2026-05-28 19:29:36,804 - INFO -    ✅ 1F8B15525 | page 13
+2026-05-28 19:29:36,805 - INFO - [WBC] 📄 Page 14: https://www.webuycars.co.za/buy-a-car?Year=[2017,2026]&Year_Gte=%222017%22&BodyType=[%22Sports%20Utility%20Vehicle%20(SUV)%22,%22Hatchback%22,%22Double%20Cab%22,%22Single%20Cab%22,%22Crossover%20(SUV)%22,%22Station%20Wagon%22,%22Panel%20Van%22,%22Dropside%22,%22D/C%20%E2%80%93%20Double%20Cab%22]&InspectionCondition=[%22Certified%22,%22Ready%22]&page=14
+2026-05-28 19:30:01,787 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Jetour/X70-Plus-15T-Deluxe/364910769
+2026-05-28 19:30:05,800 - INFO -    ✅ 364910769 | page 14
+2026-05-28 19:30:05,801 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Citroen/C3-12-Feel---Plus-61-KW/374506413
+2026-05-28 19:30:09,239 - INFO -    ✅ 374506413 | page 14
+2026-05-28 19:30:09,240 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Fronx-15-GL-Auto/392A02879
+2026-05-28 19:30:12,798 - INFO -    ✅ 392A02879 | page 14
+2026-05-28 19:30:12,799 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Mazda/Mazda-2-15-Dynamic-Auto-5-Door/46EE10732
+2026-05-28 19:30:16,187 - INFO -    ✅ 46EE10732 | page 14
+2026-05-28 19:30:16,187 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i10-Grand-I10-10-Motion-Auto/496412545
+2026-05-28 19:30:19,633 - INFO -    ✅ 496412545 | page 14
+2026-05-28 19:30:19,634 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Haval/Jolion-15T-City/4ECE08813
+2026-05-28 19:30:23,055 - INFO -    ✅ 4ECE08813 | page 14
+2026-05-28 19:30:24,076 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:30:24,076 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Agya-10-Auto/602101766
+2026-05-28 19:30:27,447 - INFO -    ✅ 602101766 | page 14
+2026-05-28 19:30:27,448 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Fronx-15-GLX-Auto/79BE01893
+2026-05-28 19:30:30,847 - INFO -    ✅ 79BE01893 | page 14
+2026-05-28 19:30:30,847 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/Polo-10-TSI-Comfortline-DSG/7EF411479
+2026-05-28 19:30:34,273 - INFO -    ✅ 7EF411479 | page 14
+2026-05-28 19:30:34,273 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i10-Grand-I10-10-Motion-premium/A99900986
+2026-05-28 19:30:37,656 - INFO -    ✅ A99900986 | page 14
+2026-05-28 19:30:37,657 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/Magnite-10T-Acenta/0F4511333
+2026-05-28 19:30:41,172 - INFO -    ✅ 0F4511333 | page 14
+2026-05-28 19:30:41,173 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Sandero-900-T-Expression/4C5509552
+2026-05-28 19:30:44,919 - INFO -    ✅ 4C5509552 | page 14
+2026-05-28 19:30:44,919 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Urban-Cruiser-15xr-Auto/50FE07002
+2026-05-28 19:30:48,452 - INFO -    ✅ 50FE07002 | page 14
+2026-05-28 19:30:48,452 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/KIA/Sonet-15-EX-CVT/587311856
+2026-05-28 19:30:51,874 - INFO -    ✅ 587311856 | page 14
+2026-05-28 19:30:51,875 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/Polo-Vivo-14-5dr/59B712192
+2026-05-28 19:30:55,300 - INFO -    ✅ 59B712192 | page 14
+2026-05-28 19:30:55,300 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Corolla-Cross-18-XI/5B4309001
+2026-05-28 19:30:58,766 - INFO -    ✅ 5B4309001 | page 14
+2026-05-28 19:30:59,744 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:30:59,744 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Haval/H6-15T-Hybrid-Ultra-Luxury-DHT/77D608881
+2026-05-28 19:31:03,274 - INFO -    ✅ 77D608881 | page 14
+2026-05-28 19:31:03,275 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kiger-10T-Intens-CVT/8FDB02411
+2026-05-28 19:31:06,777 - INFO -    ✅ 8FDB02411 | page 14
+2026-05-28 19:31:06,778 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Omoda/Omoda-C5-15-Street/936109160
+2026-05-28 19:31:10,258 - INFO -    ✅ 936109160 | page 14
+2026-05-28 19:31:10,259 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i20-12-Motion/963508315
+2026-05-28 19:31:13,733 - INFO -    ✅ 963508315 | page 14
+2026-05-28 19:31:13,734 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Tiggo-4-PRO-15T-Elite-DCT/A4D605635
+2026-05-28 19:31:17,088 - INFO -    ✅ A4D605635 | page 14
+2026-05-28 19:31:17,091 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Ignis-12-GLX/B4C512018
+2026-05-28 19:31:20,811 - INFO -    ✅ B4C512018 | page 14
+2026-05-28 19:31:20,812 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Haval/H6-20T-Super-Luxury-DCT/E2E011735
+2026-05-28 19:31:24,755 - INFO -    ✅ E2E011735 | page 14
+2026-05-28 19:31:24,756 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Ignis-12-GLX/F53900954
+2026-05-28 19:31:31,064 - INFO -    ✅ F53900954 | page 14
+2026-05-28 19:31:31,064 - INFO - [WBC] 📄 Page 15: https://www.webuycars.co.za/buy-a-car?Year=[2017,2026]&Year_Gte=%222017%22&BodyType=[%22Sports%20Utility%20Vehicle%20(SUV)%22,%22Hatchback%22,%22Double%20Cab%22,%22Single%20Cab%22,%22Crossover%20(SUV)%22,%22Station%20Wagon%22,%22Panel%20Van%22,%22Dropside%22,%22D/C%20%E2%80%93%20Double%20Cab%22]&InspectionCondition=[%22Certified%22,%22Ready%22]&page=15
+2026-05-28 19:31:57,097 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Agya-10/0DBD12522
+2026-05-28 19:32:01,999 - INFO -    ✅ 0DBD12522 | page 15
+2026-05-28 19:32:02,001 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i10-Grand-I10-10-Motion-Auto/14A312088
+2026-05-28 19:32:06,132 - INFO -    ✅ 14A312088 | page 15
+2026-05-28 19:32:07,160 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:32:07,160 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Ecosport-10-EcoBoost-Trend-Auto/31B905139
+2026-05-28 19:32:11,345 - INFO -    ✅ 31B905139 | page 15
+2026-05-28 19:32:11,345 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Honda/Elevate-15-Comfort/435906207
+2026-05-28 19:32:15,229 - INFO -    ✅ 435906207 | page 15
+2026-05-28 19:32:15,229 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Vitz-10-XR-AMT/0FB712595
+2026-05-28 19:32:18,999 - INFO -    ✅ 0FB712595 | page 15
+2026-05-28 19:32:18,999 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/S-Presso-10-GL/550103019
+2026-05-28 19:32:22,741 - INFO -    ✅ 550103019 | page 15
+2026-05-28 19:32:22,741 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Ignis-12-GLX/578705238
+2026-05-28 19:32:26,409 - INFO -    ✅ 578705238 | page 15
+2026-05-28 19:32:26,409 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Atos-Atoz-11-Motion/592514710
+2026-05-28 19:32:30,033 - INFO -    ✅ 592514710 | page 15
+2026-05-28 19:32:30,034 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Venue-10-Tgdi-Motion-DCT/75BA02702
+2026-05-28 19:32:33,735 - INFO -    ✅ 75BA02702 | page 15
+2026-05-28 19:32:33,735 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/KIA/Sonet-10T-EX-Auto/9AFD08125
+2026-05-28 19:32:38,072 - INFO -    ✅ 9AFD08125 | page 15
+2026-05-28 19:32:38,073 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/Polo-Vivo-16-Style-5dr/BBF604018
+2026-05-28 19:32:41,843 - INFO -    ✅ BBF604018 | page 15
+2026-05-28 19:32:41,843 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Land/Rover-Discovery-30d-HSE-Dynamic-D350/CF2910994
+2026-05-28 19:32:46,616 - INFO -    ✅ CF2910994 | page 15
+2026-05-28 19:32:47,670 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:32:47,670 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Grand-Vitara-15-GL/E12E14544
+2026-05-28 19:32:51,889 - INFO -    ✅ E12E14544 | page 15
+2026-05-28 19:32:51,890 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Opel/Mokka---Mokka-X-14T-Enjoy/ED7110605
+2026-05-28 19:32:56,371 - INFO -    ✅ ED7110605 | page 15
+2026-05-28 19:32:56,372 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kwid-10-Dynamique---ZEN---Techno-5-Door/FB0811573
+2026-05-28 19:33:00,780 - INFO -    ✅ FB0811573 | page 15
+2026-05-28 19:33:00,780 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Agya-10-Auto/F4A806143
+2026-05-28 19:33:05,279 - INFO -    ✅ F4A806143 | page 15
+2026-05-28 19:33:05,280 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/Polo-10-TSI/FD0A09908
+2026-05-28 19:33:09,368 - INFO -    ✅ FD0A09908 | page 15
+2026-05-28 19:33:09,368 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Honda/WR-V-12-Comfort/125A01463
+2026-05-28 19:33:13,944 - INFO -    ✅ 125A01463 | page 15
+2026-05-28 19:33:13,945 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Tiggo-8-PRO-16-Tgdi-Executive-Plus-DCT/155408376
+2026-05-28 19:33:17,890 - INFO -    ✅ 155408376 | page 15
+2026-05-28 19:33:17,891 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/Polo-Vivo-14-Comfortline-5dr/1A1807917
+2026-05-28 19:33:22,027 - INFO -    ✅ 1A1807917 | page 15
+2026-05-28 19:33:22,028 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Prado-Vx-R-28gd-Auto/238613325
+2026-05-28 19:33:26,056 - INFO -    ✅ 238613325 | page 15
+2026-05-28 19:33:26,056 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Fronx-15-GL/202314388
+2026-05-28 19:33:30,128 - INFO -    ✅ 202314388 | page 15
+2026-05-28 19:33:31,190 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:33:31,190 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Jimny-15-GL-Auto/34A413598
+2026-05-28 19:33:35,142 - INFO -    ✅ 34A413598 | page 15
+2026-05-28 19:33:35,142 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/KIA/Picanto-12-X-Line/4F2808677
+2026-05-28 19:33:38,991 - INFO -    ✅ 4F2808677 | page 15
+2026-05-28 19:33:38,991 - INFO - [WBC] 📄 Page 16: https://www.webuycars.co.za/buy-a-car?Year=[2017,2026]&Year_Gte=%222017%22&BodyType=[%22Sports%20Utility%20Vehicle%20(SUV)%22,%22Hatchback%22,%22Double%20Cab%22,%22Single%20Cab%22,%22Crossover%20(SUV)%22,%22Station%20Wagon%22,%22Panel%20Van%22,%22Dropside%22,%22D/C%20%E2%80%93%20Double%20Cab%22]&InspectionCondition=[%22Certified%22,%22Ready%22]&page=16
+2026-05-28 19:34:05,197 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/Polo-Vivo-16-Comfortline-TIP-5dr/740401977
+2026-05-28 19:34:10,454 - INFO -    ✅ 740401977 | page 16
+2026-05-28 19:34:10,454 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Figo-15ti-VCT-Trend-5dr/6BA904697
+2026-05-28 19:34:14,724 - INFO -    ✅ 6BA904697 | page 16
+2026-05-28 19:34:14,724 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i10-Grand-I10-10-Fluid/890814837
+2026-05-28 19:34:18,959 - INFO -    ✅ 890814837 | page 16
+2026-05-28 19:34:18,960 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Mahindra/Xuv3xo-12T-Ax7l-Auto/9F6114996
+2026-05-28 19:34:23,163 - INFO -    ✅ 9F6114996 | page 16
+2026-05-28 19:34:23,163 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/KIA/Picanto-12-X-Line-Auto/D53A05562
+2026-05-28 19:34:27,348 - INFO -    ✅ D53A05562 | page 16
+2026-05-28 19:34:27,349 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Mazda/CX-3-20-Active/DA0304190
+2026-05-28 19:34:31,952 - INFO -    ✅ DA0304190 | page 16
+2026-05-28 19:34:31,952 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/KIA/Sonet-15-EX-CVT/DBF709070
+2026-05-28 19:34:36,246 - INFO -    ✅ DBF709070 | page 16
+2026-05-28 19:34:36,246 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Corolla-Cross-18-XI/EAFB10557
+2026-05-28 19:34:40,878 - INFO -    ✅ EAFB10557 | page 16
+2026-05-28 19:34:41,982 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:34:41,983 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Omoda-C5-15T-Tech/F52D13541
+2026-05-28 19:34:47,380 - INFO -    ✅ F52D13541 | page 16
+2026-05-28 19:34:47,381 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Vitara-Brezza-15-GLX/FF4B07435
+2026-05-28 19:34:51,713 - INFO -    ✅ FF4B07435 | page 16
+2026-05-28 19:34:51,714 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kwid-10-Expression-5-Door/12C510098
+2026-05-28 19:34:56,132 - INFO -    ✅ 12C510098 | page 16
+2026-05-28 19:34:56,132 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Sandero-900t-Stepway-Expression/1FE712111
+2026-05-28 19:35:00,312 - INFO -    ✅ 1FE712111 | page 16
+2026-05-28 19:35:00,313 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Tiggo-8-PRO-MAX-20-Tgdi-Executive-AWD-DCT/259609512
+2026-05-28 19:35:04,616 - INFO -    ✅ 259609512 | page 16
+2026-05-28 19:35:04,617 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Jimny-15-GLX-5-Door/32CF09823
+2026-05-28 19:35:08,708 - INFO -    ✅ 32CF09823 | page 16
+2026-05-28 19:35:08,711 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Mazda/Mazda-2-15-Dynamic-5-Door/44C210049
+2026-05-28 19:35:13,678 - INFO -    ✅ 44C210049 | page 16
+2026-05-28 19:35:13,679 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Yaris-15-XS-CVT-5-Door/4BB112788
+2026-05-28 19:35:18,406 - INFO -    ✅ 4BB112788 | page 16
+2026-05-28 19:35:18,407 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Tiggo-4-PRO-15T-Elite-DCT/574611109
+2026-05-28 19:35:22,345 - INFO -    ✅ 574611109 | page 16
+2026-05-28 19:35:22,346 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Fiat/Tipo-16-City-Life-Auto-5-Door/716304146
+2026-05-28 19:35:37,466 - WARNING - [WBC] ⚠️ Detail timeout for 716304146
+2026-05-28 19:35:37,808 - INFO -    ✅ 716304146 | page 16
+2026-05-28 19:35:48,640 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:35:48,641 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Baleno-15-GL/714307713
+2026-05-28 19:36:02,013 - INFO -    ✅ 714307713 | page 16
+2026-05-28 19:36:02,015 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Triber-10-Express---Express-II---III-Panel-Van/9F0B09422
+2026-05-28 19:36:11,067 - INFO -    ✅ 9F0B09422 | page 16
+2026-05-28 19:36:11,067 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/Polo-Vivo-16-Comfortline-TIP-5dr/BB5906600
+2026-05-28 19:36:16,299 - INFO -    ✅ BB5906600 | page 16
+2026-05-28 19:36:16,299 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/Golf-8-GTI-20-TSI-DSG/BC7C05844
+2026-05-28 19:36:21,458 - INFO -    ✅ BC7C05844 | page 16
+2026-05-28 19:36:21,458 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Tiggo-4-PRO-15T-Elite-CVT/C71104869
+2026-05-28 19:36:26,727 - INFO -    ✅ C71104869 | page 16
+2026-05-28 19:36:26,728 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Tiggo-4-PRO-15-LIT/CFCD09112
+2026-05-28 19:36:32,104 - INFO -    ✅ CFCD09112 | page 16
+2026-05-28 19:36:32,105 - INFO - [WBC] 📄 Page 17: https://www.webuycars.co.za/buy-a-car?Year=[2017,2026]&Year_Gte=%222017%22&BodyType=[%22Sports%20Utility%20Vehicle%20(SUV)%22,%22Hatchback%22,%22Double%20Cab%22,%22Single%20Cab%22,%22Crossover%20(SUV)%22,%22Station%20Wagon%22,%22Panel%20Van%22,%22Dropside%22,%22D/C%20%E2%80%93%20Double%20Cab%22]&InspectionCondition=[%22Certified%22,%22Ready%22]&page=17
+2026-05-28 19:37:00,242 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Urban-Cruiser-15-XS-Auto/F53401581
+2026-05-28 19:37:05,380 - INFO -    ✅ F53401581 | page 17
+2026-05-28 19:37:05,380 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/KIA/Sonet-15-EX-CVT/2E1F01255
+2026-05-28 19:37:10,742 - INFO -    ✅ 2E1F01255 | page 17
+2026-05-28 19:37:10,743 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/KIA/Picanto-10-Start/36A904127
+2026-05-28 19:37:16,447 - INFO -    ✅ 36A904127 | page 17
+2026-05-28 19:37:16,447 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Triber-10-Prestige---Intens/322811842
+2026-05-28 19:37:21,731 - INFO -    ✅ 322811842 | page 17
+2026-05-28 19:37:22,860 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:37:22,861 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kiger-10T-Intens-CVT/22D815860
+2026-05-28 19:37:28,018 - INFO -    ✅ 22D815860 | page 17
+2026-05-28 19:37:28,019 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Duster-16-Dynamique/373009059
+2026-05-28 19:37:33,384 - INFO -    ✅ 373009059 | page 17
+2026-05-28 19:37:33,384 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Swift-12-GL/612111626
+2026-05-28 19:37:38,642 - INFO -    ✅ 612111626 | page 17
+2026-05-28 19:37:38,643 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Audi/A1-Sportback-30-TFSI-S-Tronic/629704999
+2026-05-28 19:37:43,642 - INFO -    ✅ 629704999 | page 17
+2026-05-28 19:37:43,643 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Baleno-15-GL/661208808
+2026-05-28 19:37:48,844 - INFO -    ✅ 661208808 | page 17
+2026-05-28 19:37:48,845 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/Magnite-10-Acenta-br10/6B4401711
+2026-05-28 19:37:56,417 - INFO -    ✅ 6B4401711 | page 17
+2026-05-28 19:37:56,417 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i10-Grand-I10-12-Motion-premium-Auto/688214018
+2026-05-28 19:38:02,785 - INFO -    ✅ 688214018 | page 17
+2026-05-28 19:38:02,785 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-28-Gd-6-4x4-VX-Auto/7B8E05246
+2026-05-28 19:38:08,555 - INFO -    ✅ 7B8E05246 | page 17
+2026-05-28 19:38:08,555 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/KIA/Picanto-12-Smart-Auto/7F1906270
+2026-05-28 19:38:14,717 - INFO -    ✅ 7F1906270 | page 17
+2026-05-28 19:38:14,718 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Sandero-900t-Stepway-Expression/9A4010999
+2026-05-28 19:38:21,052 - INFO -    ✅ 9A4010999 | page 17
+2026-05-28 19:38:22,195 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:38:22,196 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Swift-12-GL/AFF104358
+2026-05-28 19:38:29,618 - INFO -    ✅ AFF104358 | page 17
+2026-05-28 19:38:29,619 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/T-ROC-20-TSI-4M-R-Line-DSG/C4C909373
+2026-05-28 19:38:37,636 - INFO -    ✅ C4C909373 | page 17
+2026-05-28 19:38:37,636 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Urban-Cruiser-15xr/DA3007439
+2026-05-28 19:38:45,136 - INFO -    ✅ DA3007439 | page 17
+2026-05-28 19:38:45,137 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Venue-12-Motion/FFCF11368
+2026-05-28 19:38:50,494 - INFO -    ✅ FFCF11368 | page 17
+2026-05-28 19:38:50,495 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Starlet-15-XR/0D3407113
+2026-05-28 19:38:56,505 - INFO -    ✅ 0D3407113 | page 17
+2026-05-28 19:38:56,506 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Figo-15ti-VCT-Ambiente-5dr/216211082
+2026-05-28 19:39:02,979 - INFO -    ✅ 216211082 | page 17
+2026-05-28 19:39:02,980 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Tiggo-4-PRO-15-LIT/3BA714220
+2026-05-28 19:39:09,746 - INFO -    ✅ 3BA714220 | page 17
+2026-05-28 19:39:09,746 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Peugeot/3008-16T-Active-Auto/44AB10006
+2026-05-28 19:39:16,390 - INFO -    ✅ 44AB10006 | page 17
+2026-05-28 19:39:16,391 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Ecosport-15tivct-Ambiente/4A0F09972
+2026-05-28 19:39:22,090 - INFO -    ✅ 4A0F09972 | page 17
+2026-05-28 19:39:22,091 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i20-14-Premium-Auto/4CB613805
+2026-05-28 19:39:28,076 - INFO -    ✅ 4CB613805 | page 17
+2026-05-28 19:39:29,188 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:39:29,191 - INFO - [WBC] 📄 Page 18: https://www.webuycars.co.za/buy-a-car?Year=[2017,2026]&Year_Gte=%222017%22&BodyType=[%22Sports%20Utility%20Vehicle%20(SUV)%22,%22Hatchback%22,%22Double%20Cab%22,%22Single%20Cab%22,%22Crossover%20(SUV)%22,%22Station%20Wagon%22,%22Panel%20Van%22,%22Dropside%22,%22D/C%20%E2%80%93%20Double%20Cab%22]&InspectionCondition=[%22Certified%22,%22Ready%22]&page=18
+2026-05-28 19:40:02,959 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Swift-12-GLX-AMT/658803000
+2026-05-28 19:40:11,899 - INFO -    ✅ 658803000 | page 18
+2026-05-28 19:40:11,899 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Jeep/Compass-14T-Longitude-Auto/6C7811050
+2026-05-28 19:40:19,208 - INFO -    ✅ 6C7811050 | page 18
+2026-05-28 19:40:19,208 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Clio-IV-Clio-V-10T-ZEN/53AA12779
+2026-05-28 19:40:24,373 - INFO -    ✅ 53AA12779 | page 18
+2026-05-28 19:40:24,374 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Tiggo-4-PRO-15-Urban/991C11415
+2026-05-28 19:40:29,881 - INFO -    ✅ 991C11415 | page 18
+2026-05-28 19:40:29,881 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Atos-Atoz-11-Motion/9AEE15360
+2026-05-28 19:40:35,623 - INFO -    ✅ 9AEE15360 | page 18
+2026-05-28 19:40:35,624 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Haval/H1-15-VVT/864B05768
+2026-05-28 19:40:41,840 - INFO -    ✅ 864B05768 | page 18
+2026-05-28 19:40:41,841 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Tiggo-4-PRO-15T-Elite-SE-CVT/A7E304541
+2026-05-28 19:40:52,544 - INFO -    ✅ A7E304541 | page 18
+2026-05-28 19:40:52,545 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Grand-Vitara-15-GL-Auto/D70F08773
+2026-05-28 19:41:00,634 - INFO -    ✅ D70F08773 | page 18
+2026-05-28 19:41:00,635 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kiger-10-Energy-ZEN-AMT/E13515025
+2026-05-28 19:41:13,106 - INFO -    ✅ E13515025 | page 18
+2026-05-28 19:41:13,110 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Omoda-C5-15T-Style/E19C03775
+2026-05-28 19:41:21,297 - INFO -    ✅ E19C03775 | page 18
+2026-05-28 19:41:22,307 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:41:22,308 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Etios-15-Xs-sprint-5-Door/04E908995
+2026-05-28 19:41:30,544 - INFO -    ✅ 04E908995 | page 18
+2026-05-28 19:41:30,547 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i10-Grand-I10-10-Fluid-executive/2D7707050
+2026-05-28 19:41:36,671 - INFO -    ✅ 2D7707050 | page 18
+2026-05-28 19:41:36,671 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/Polo-10-TSI/337907787
+2026-05-28 19:41:42,976 - INFO -    ✅ 337907787 | page 18
+2026-05-28 19:41:42,976 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/KIA/Picanto-10-Style-Auto/348D02772
+2026-05-28 19:41:48,639 - INFO -    ✅ 348D02772 | page 18
+2026-05-28 19:41:48,640 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Yaris-15-XS-CVT-5-Door/414408945
+2026-05-28 19:41:54,402 - INFO -    ✅ 414408945 | page 18
+2026-05-28 19:41:54,403 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Nissan/X-Trail-25-Acenta-4x4-CVT/538408163
+2026-05-28 19:42:01,674 - INFO -    ✅ 538408163 | page 18
+2026-05-28 19:42:01,675 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Captur-12T-Dynamique-EDC-5-Door-88-KW/9C2F06694
+2026-05-28 19:42:07,464 - INFO -    ✅ 9C2F06694 | page 18
+2026-05-28 19:42:07,466 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Tiggo-4-PRO-15T-LIT-DCT/93BE05284
+2026-05-28 19:42:12,753 - INFO -    ✅ 93BE05284 | page 18
+2026-05-28 19:42:12,754 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Duster-16-Expression/98FC10762
+2026-05-28 19:42:18,098 - INFO -    ✅ 98FC10762 | page 18
+2026-05-28 19:42:18,099 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Urban-Cruiser-15-XS/B64C10441
+2026-05-28 19:42:23,045 - INFO -    ✅ B64C10441 | page 18
+2026-05-28 19:42:24,128 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:42:24,129 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/KIA/Seltos-16-EX/BACD05953
+2026-05-28 19:42:29,388 - INFO -    ✅ BACD05953 | page 18
+2026-05-28 19:42:29,389 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Urban-Cruiser-15-XS/C57503639
+2026-05-28 19:42:35,104 - INFO -    ✅ C57503639 | page 18
+2026-05-28 19:42:35,105 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-4x4-Auto/CB0E10504
+2026-05-28 19:42:40,278 - INFO -    ✅ CB0E10504 | page 18
+2026-05-28 19:42:40,279 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Swift-14-GLS/D5D707852
+2026-05-28 19:42:46,096 - INFO -    ✅ D5D707852 | page 18
+2026-05-28 19:42:46,097 - INFO - [WBC] 📄 Page 19: https://www.webuycars.co.za/buy-a-car?Year=[2017,2026]&Year_Gte=%222017%22&BodyType=[%22Sports%20Utility%20Vehicle%20(SUV)%22,%22Hatchback%22,%22Double%20Cab%22,%22Single%20Cab%22,%22Crossover%20(SUV)%22,%22Station%20Wagon%22,%22Panel%20Van%22,%22Dropside%22,%22D/C%20%E2%80%93%20Double%20Cab%22]&InspectionCondition=[%22Certified%22,%22Ready%22]&page=19
+2026-05-28 19:43:14,413 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Swift-14T-Sport/E39709208
+2026-05-28 19:43:20,125 - INFO -    ✅ E39709208 | page 19
+2026-05-28 19:43:20,125 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Urban-Cruiser-15-XS/D94712421
+2026-05-28 19:43:25,986 - INFO -    ✅ D94712421 | page 19
+2026-05-28 19:43:25,986 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/KIA/Sonet-15-LX/F67D10638
+2026-05-28 19:43:31,689 - INFO -    ✅ F67D10638 | page 19
+2026-05-28 19:43:31,689 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/KIA/Sportage-16-CRDi-EX-Auto/115F10149
+2026-05-28 19:43:36,657 - INFO -    ✅ 115F10149 | page 19
+2026-05-28 19:43:36,658 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Haval/H6-20T-Super-Luxury-4x4-DCT/26F110629
+2026-05-28 19:43:40,916 - INFO -    ✅ 26F110629 | page 19
+2026-05-28 19:43:40,917 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i20-12-Motion/530E03455
+2026-05-28 19:43:45,593 - INFO -    ✅ 530E03455 | page 19
+2026-05-28 19:43:46,667 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:43:46,667 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Peugeot/2008-12T-Active-Auto/532102551
+2026-05-28 19:43:51,614 - INFO -    ✅ 532102551 | page 19
+2026-05-28 19:43:51,615 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Starlet-14-XI/61B310396
+2026-05-28 19:43:57,775 - INFO -    ✅ 61B310396 | page 19
+2026-05-28 19:43:57,775 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Tucson-20-Premium/69A111158
+2026-05-28 19:44:03,099 - INFO -    ✅ 69A111158 | page 19
+2026-05-28 19:44:03,100 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Baic/X55-15T-Premium-Auto/7DDD05326
+2026-05-28 19:44:08,265 - INFO -    ✅ 7DDD05326 | page 19
+2026-05-28 19:44:08,266 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Haval/Jolion-15T-Premium-DCT/7DF807954
+2026-05-28 19:44:13,177 - INFO -    ✅ 7DF807954 | page 19
+2026-05-28 19:44:13,178 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Corolla-Cross-18-Gr-S/A02304922
+2026-05-28 19:44:18,544 - INFO -    ✅ A02304922 | page 19
+2026-05-28 19:44:18,545 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Creta-15-Executive-IVT/BB3004890
+2026-05-28 19:44:23,880 - INFO -    ✅ BB3004890 | page 19
+2026-05-28 19:44:23,881 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Agya-10-Auto/804A05880
+2026-05-28 19:44:28,870 - INFO -    ✅ 804A05880 | page 19
+2026-05-28 19:44:28,870 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/Polo-Vivo-16-Comfortline-TIP-5dr/BE6810897
+2026-05-28 19:44:33,292 - INFO -    ✅ BE6810897 | page 19
+2026-05-28 19:44:33,292 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Fiesta-10-EcoBoost-Trend-5-Door/87B013946
+2026-05-28 19:44:38,094 - INFO -    ✅ 87B013946 | page 19
+2026-05-28 19:44:39,089 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:44:39,089 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Ecosport-15tdci-Ambiente/BEAC07450
+2026-05-28 19:44:43,751 - INFO -    ✅ BEAC07450 | page 19
+2026-05-28 19:44:43,752 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Swift-12-GA/C47E08354
+2026-05-28 19:44:48,059 - INFO -    ✅ C47E08354 | page 19
+2026-05-28 19:44:48,060 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Koleos-25-Dynamique-intens-CVT/E06611942
+2026-05-28 19:44:52,716 - INFO -    ✅ E06611942 | page 19
+2026-05-28 19:44:52,716 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Urban-Cruiser-15xr-Auto/E97106280
+2026-05-28 19:44:57,541 - INFO -    ✅ E97106280 | page 19
+2026-05-28 19:44:57,541 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Haval/H2-Jolion-15T-Luxury/0EC315933
+2026-05-28 19:45:02,454 - INFO -    ✅ 0EC315933 | page 19
+2026-05-28 19:45:02,455 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Ecosport-10-EcoBoost-Titanium-Auto/17AF03692
+2026-05-28 19:45:07,517 - INFO -    ✅ 17AF03692 | page 19
+2026-05-28 19:45:07,518 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/Polo-Vivo-16-Comfortline-TIP-5dr/2BFB06623
+2026-05-28 19:45:12,400 - INFO -    ✅ 2BFB06623 | page 19
+2026-05-28 19:45:12,400 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i10-Grand-I10-12-Fluid/32F813158
+2026-05-28 19:45:17,479 - INFO -    ✅ 32F813158 | page 19
+2026-05-28 19:45:17,480 - INFO - [WBC] 📄 Page 20: https://www.webuycars.co.za/buy-a-car?Year=[2017,2026]&Year_Gte=%222017%22&BodyType=[%22Sports%20Utility%20Vehicle%20(SUV)%22,%22Hatchback%22,%22Double%20Cab%22,%22Single%20Cab%22,%22Crossover%20(SUV)%22,%22Station%20Wagon%22,%22Panel%20Van%22,%22Dropside%22,%22D/C%20%E2%80%93%20Double%20Cab%22]&InspectionCondition=[%22Certified%22,%22Ready%22]&page=20
+2026-05-28 19:45:43,725 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Everest-20d-Bi-Turbo-XLT-Auto/6EF807231
+2026-05-28 19:45:48,317 - INFO -    ✅ 6EF807231 | page 20
+2026-05-28 19:45:48,317 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Chery/Tiggo-4-PRO-15T-Elite-CVT/748508532
+2026-05-28 19:45:52,675 - INFO -    ✅ 748508532 | page 20
+2026-05-28 19:45:53,700 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:45:53,700 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Land/Rover-Range-Rover-Sport-30-Mhev-Autobio-P400/761E11286
+2026-05-28 19:45:58,048 - INFO -    ✅ 761E11286 | page 20
+2026-05-28 19:45:58,049 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Vitara-Brezza-15-GL/83A807856
+2026-05-28 19:46:05,061 - INFO -    ✅ 83A807856 | page 20
+2026-05-28 19:46:05,061 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Baleno-15-GL/72AB05302
+2026-05-28 19:46:11,420 - INFO -    ✅ 72AB05302 | page 20
+2026-05-28 19:46:11,421 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/Polo-10-TSI-Life-DSG/B00415841
+2026-05-28 19:46:18,128 - INFO -    ✅ B00415841 | page 20
+2026-05-28 19:46:18,129 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Haval/H1-15-VVT/BFF309606
+2026-05-28 19:46:26,302 - INFO -    ✅ BFF309606 | page 20
+2026-05-28 19:46:26,303 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Ford/Fiesta-10-EcoBoost-Trend-5-Door-Auto/C5BF10037
+2026-05-28 19:46:32,335 - INFO -    ✅ C5BF10037 | page 20
+2026-05-28 19:46:32,336 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Alfa/Romeo-Tonale-Veloce-15T-Hybrid/DE1A06496
+2026-05-28 19:46:38,171 - INFO -    ✅ DE1A06496 | page 20
+2026-05-28 19:46:38,172 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Creta-15d-Executive-Auto/E90B06396
+2026-05-28 19:46:42,735 - INFO -    ✅ E90B06396 | page 20
+2026-05-28 19:46:42,735 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/Polo-Vivo-14-Comfortline-5dr/EB9808902
+2026-05-28 19:46:46,826 - INFO -    ✅ EB9808902 | page 20
+2026-05-28 19:46:46,827 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Renault/Kiger-10T-Intens/386402288
+2026-05-28 19:46:50,905 - INFO -    ✅ 386402288 | page 20
+2026-05-28 19:46:51,907 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:46:51,907 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Toyota/Fortuner-24gd-6-4x4-Auto/1A9D06537
+2026-05-28 19:46:55,698 - INFO -    ✅ 1A9D06537 | page 20
+2026-05-28 19:46:55,699 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Swift-12-GA/62DA09225
+2026-05-28 19:46:59,722 - INFO -    ✅ 62DA09225 | page 20
+2026-05-28 19:46:59,722 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i10-Grand-I10-10-Motion-premium/6DE203271
+2026-05-28 19:47:04,065 - INFO -    ✅ 6DE203271 | page 20
+2026-05-28 19:47:04,066 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Mazda/Mazda-3-15-Active-5-Door/AE4407812
+2026-05-28 19:47:08,511 - INFO -    ✅ AE4407812 | page 20
+2026-05-28 19:47:08,511 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/BMW/X3-xDrive-20D-M-Sport-G45/B43209918
+2026-05-28 19:47:13,650 - INFO -    ✅ B43209918 | page 20
+2026-05-28 19:47:13,650 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Mahindra/Scorpio-N-22d-4x4-Auto-Z8/B61008742
+2026-05-28 19:47:18,460 - INFO -    ✅ B61008742 | page 20
+2026-05-28 19:47:18,461 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Atos-Atoz-11-Motion/C46B11372
+2026-05-28 19:47:22,880 - INFO -    ✅ C46B11372 | page 20
+2026-05-28 19:47:22,880 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Suzuki/Grand-Vitara-15-GL-Auto/CE1910841
+2026-05-28 19:47:27,401 - INFO -    ✅ CE1910841 | page 20
+2026-05-28 19:47:27,402 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/Exter-12-Premium-AMT/D10D13907
+2026-05-28 19:47:31,620 - INFO -    ✅ D10D13907 | page 20
+2026-05-28 19:47:31,620 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/KIA/Picanto-12-Street/D82109246
+2026-05-28 19:47:36,743 - INFO -    ✅ D82109246 | page 20
+2026-05-28 19:47:37,842 - INFO - ✅ Saved 10 car(s) to Firestore.
+2026-05-28 19:47:37,842 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Volkswagen/Polo-Vivo-14-Comfortline-5dr/E57013520
+2026-05-28 19:47:42,207 - INFO -    ✅ E57013520 | page 20
+2026-05-28 19:47:42,208 - INFO - [WBC] 🔎 Detail: https://www.webuycars.co.za/buy-a-car/Hyundai/i10-Grand-I10-10-Motion-premium/E7F600687
+2026-05-28 19:47:48,717 - INFO -    ✅ E7F600687 | page 20
+2026-05-28 19:47:49,229 - INFO - ✅ Saved 2 car(s) to Firestore.
+2026-05-28 19:47:50,257 - INFO - 📌 Progress: 'cars' | lastPage=20 | exhausted=False
+2026-05-28 19:47:50,258 - INFO -    ✔ Done | cars=472 | lastPage=20 | exhausted=False
+2026-05-28 19:47:55,870 - INFO - ======================================================================
+2026-05-28 19:47:55,871 - INFO - 🏁 RUN FINISHED
+2026-05-28 19:47:55,874 - INFO -    Run ID     : 6f2d2426-c69b-4721-9150-f16e0dbad33c
+2026-05-28 19:47:55,878 - INFO -    Start      : 2026-05-28 19:03:52
+2026-05-28 19:47:55,880 - INFO -    End        : 2026-05-28 19:47:55
+2026-05-28 19:47:55,881 - INFO -    Duration   : 0:44:03
+2026-05-28 19:47:55,881 - INFO -    Cars saved : 472
+2026-05-28 19:47:55,882 - INFO -    Targets ✔  : 1
+2026-05-28 19:47:55,883 - INFO -    Targets ⏭  : 0
+2026-05-28 19:47:55,883 - INFO -    Targets ✗  : 0
+2026-05-28 19:47:55,885 - INFO -    Log file   : logs\run_2026-05-28_19-03-51.log
+2026-05-28 19:47:55,887 - INFO - ======================================================================

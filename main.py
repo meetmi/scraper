@@ -328,6 +328,9 @@ def save_cars_to_firestore(cars: list[dict], run_id: str):
 # Main
 # ═══════════════════════════════════════════════════════════════════════════════
 
+FLUSH_EVERY = 10  # save to Firestore after every N cars
+
+
 def main():
     run_start = datetime.now()
     run_id    = str(uuid.uuid4())
@@ -393,6 +396,7 @@ def main():
             last_page_scraped = start_page - 1
             exhausted         = False
             cars_batch        = []
+            target_cars_saved = 0
 
             for page_number in range(start_page, end_page + 1):
                 cars_on_page, has_results = adapter.scrape_listing_page(base_url, page_number)
@@ -415,15 +419,26 @@ def main():
                             f"   ⚠️ Detail failed for {car.get('navigationUrl')}: {e}"
                         )
 
+                    # ── Flush every N cars ────────────────────────────────
+                    if len(cars_batch) >= FLUSH_EVERY:
+                        save_cars_to_firestore(cars_batch, run_id)
+                        target_cars_saved += len(cars_batch)
+                        cars_batch = []
+
                 last_page_scraped = page_number
 
-            save_cars_to_firestore(cars_batch, run_id)
+            # ── Flush any remaining cars (<FLUSH_EVERY) ───────────────────
+            if cars_batch:
+                save_cars_to_firestore(cars_batch, run_id)
+                target_cars_saved += len(cars_batch)
+                cars_batch = []
+
             save_progress(label, last_page_scraped, exhausted)
 
-            total_cars_saved  += len(cars_batch)
+            total_cars_saved  += target_cars_saved
             targets_completed += 1
             logger.info(
-                f"   ✔ Done | cars={len(cars_batch)} | "
+                f"   ✔ Done | cars={target_cars_saved} | "
                 f"lastPage={last_page_scraped} | exhausted={exhausted}"
             )
 

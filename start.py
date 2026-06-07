@@ -9,7 +9,7 @@ from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 
 # ==================== CONFIGURATION ====================
-BASE_URL = "https://www.adsafrica.co.za/category/65/"
+BASE_URL = "https://www.adsafrica.co.za/category/66/"
 TOTAL_PAGES = 200  # Set how many pages you want to scrape
 OUTPUT_FILE = "reply_urls.json"  # Saved directly as reply links
 PAGE_DELAY = 2.0  # Time to wait for elements to load safely
